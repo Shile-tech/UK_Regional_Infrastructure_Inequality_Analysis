@@ -1,0 +1,151 @@
+council_id,council_name,region_name,reference_year,overall_imd_score,overall_imd_rank,deprivation_band,income_deprivation,employment_deprivation,education_skills_and_trainin,health_deprivation_and_disab,crime,barriers_to_housing_and_serv,living_environment,children_and_young_people,older_people,geographic_access_to_service
+LA001,Derby City Council,East Midlands,2019,31.93,,4,51.01,28.55,32.7,71.34,4.86,62.93,52.08,30.54,61.52,12.24
+LA002,Nottingham City Council,East midlands,2019,25.9,77,4,27.32,-1.27,-5,19.34,34.82,4.72,44.39,14.77,19.6,20.49
+LA003,Leicester City Council,East Midlands,2019,29.06,76,4,,34.68,22.19,41.57,50.34,,22.24,36.97,31.9,5.2
+LA004,Northampton Borough Council,East Midlands,2019,58.12,77,3,73.95,43.6,56.53,81.16,73.92,44.98,71.47,64.3,47.28,36.16
+LA005,Chesterfield Borough Council,EAST MIDLANDS,2019,78.31,63,5,70.65,67.49,69.21,108.64,51.25,84.98,82.85,85.62,39.18,56.11
+LA006,Lincoln City Council,East Midlands,2019,,58,5,110,109.44,109.72,110,97.61,89.98,110,110,96.4,110
+LA007,Mansfield District Council,East Midlands ,2019,81.2,63,6,110,62.83,105.35,86.24,77.43,80.74,103.69,98.61,59.95,93.42
+LA008,Kettering Borough Council,East Midlands,2019,72.01,69,4,54.82,55.49,81.7,83.1,51.04,47.51,,62.83,67.53,46.31
+LA009,Wellingborough Borough Council,East Midlands,2019,60,71,5,86.63,43.8,69.45,71.09,64.13,55.04,61.55,37.52,52.58,69.93
+LA010,Hinckley and Bosworth Borough Council,East Midlands,2019,74.23,78,4,76.04,86.63,76.29,51.69,101.76,70.4,53.52,52.07,78.23,75.98
+LA011,Blaby District Council,East Midlands,2019,63.81,82,3,73.63,80.89,47.68,34.11,91.39,76.57,64.63,72.33,64.33,73.86
+LA012,Melton Borough Council,East Midlands,2019,67.6,82,4,72.1,37.95,69.79,61.95,,59.57,88.97,66.88,48.08,69.06
+LA013,South Kesteven District Council,East Midlands,2019,5.8,74,4,8.41,,45.95,6.32,3.36,9.82,-5,-5,,4.76
+LA014,Newark and Sherwood District Council,East Midlands,2019,102.3,,4,106.85,107.23,100.46,85.71,110,107.39,110,,110,61.73
+LA015,Broxtowe Borough Council,East Midlands,2019,6.71,76,4,2.11,,10.2,-5,17.81,32.28,-5,54.17,-5,22.49
+LA016,Gedling Borough Council,East Midlands,2019,64.41,76,3,27.69,63.16,70.12,45.65,82.29,48.2,44.4,54.4,76.04,60.99
+LA017,Norwich City Council,East of England,2019,5.57,69,4,-5,14.54,18.45,24.58,18.61,18.79,5.58,-5,46.01,-5
+LA018,Ipswich Borough Council,East of England,2019,83.05,60,5,98.22,86.08,80,,101.2,80.3,90.3,100.16,73.56,97.26
+LA019,Cambridge City Council,East of England,2019,43.43,84,3,44.02,5.45,,,44.04,38.92,33.17,47.42,28.99,17.6
+LA020,Luton Borough Council,Eastern England,2019,20.88,48,6,27.76,-5,27.12,-5,6.27,16.59,37.13,5.45,-1.1,7.15
+LA021,Peterborough City Council,East of England ,2019,72.59,60,5,53.75,47.04,85.95,94.62,91.33,70.44,64.71,64.76,63.25,91.86
+LA022,Southend-on-Sea Borough Council,East of England,2019,30.97,63,5,40.36,47.47,28.69,21.83,17.78,41.36,43.59,32.02,,14.88
+LA023,Thurrock Council,East of England,2019,31.9,65,5,,49.75,14.3,,17.96,38.78,33.12,,31.23,
+LA024,Chelmsford City Council,East of England,2019,18.24,85,3,48.49,-5,15.73,,16.25,25.92,27.95,17.62,,24.54
+LA025,Colchester Borough Council,East Of England,2019,80.27,80,4,,59.53,64.2,90.63,,74.35,,72.72,88.29,107.75
+LA026,Braintree District Council,East of England,2019,17.12,76,3,-5,16.11,-0.09,42.42,29.79,39.12,13.43,19.38,,25.12
+LA027,Basildon Borough Council,East of England ,2019,35,62,5,41.21,21.77,0.91,29.67,28.43,17.15,66.11,13.63,,49.51
+LA028,Harlow District Council,East of England,2019,10.2,60,6,-0.39,13.62,,10.39,28.14,23.29,-5,-2.36,5.21,26.39
+LA029,Stevenage Borough Council,East of England,2019,84.13,58,5,75.98,55.8,97.62,90.66,80.74,100.74,71.47,70.62,94.02,
+LA030,Watford Borough Council,East of England,2019,74.32,70,4,69.64,55.2,68.67,83.14,53.93,50.82,68.94,86.22,66.7,74.76
+LA031,St Albans City and District Council,East of England,2019,27.13,96,2,30.65,21.75,61.95,,42.45,39.92,18.18,29.06,22.7,42.47
+LA032,Hertsmere Borough Council,East Of England,2019,58.93,87,3,53.99,65.95,64.09,,57.78,84.22,92.9,75.44,29.37,70.92
+LA033,City of London Corporation,London,2019,17.06,90,2,-0.84,29.81,35.43,11.49,,27.08,-0.51,-5,15.58,12.59
+LA034,London Borough of Camden,LONDON,2019,53.55,78,3,47.44,41.71,50.85,61.28,64.06,28.82,51.55,32.73,74.82,48.97
+LA035,London Borough of Hackney,London,2019,14.29,57,6,21.85,22.41,5.7,9.49,10.99,,,-4.78,24.06,-4.57
+LA036,London Borough of Tower Hamlets,London,2019,49.44,,7,78.79,68.29,56.18,47.31,53.13,67.99,54.35,31.45,46.19,
+LA037,London Borough of Newham,Greater London,2019,45.46,43,7,59.37,77.34,65.79,36.76,63.39,50.78,50.79,19.84,37.39,55.36
+LA038,London Borough of Islington,London,2019,41.22,67,5,45.36,49.22,42.1,83.01,35.44,40.15,28.4,-5,21.46,36.15
+LA039,London Borough of Southwark,London,2019,6.67,52,6,8.63,21.22,30.43,16.26,,21.87,5.73,17.44,,20.79
+LA040,London Borough of Lambeth,London,2019,31.84,55,6,36.08,32.74,30.97,29.61,26.82,,43,36.46,15.17,13.01
+LA041,London Borough of Lewisham,London,2019,79.18,49,6,64.87,106.61,69.32,89.62,,,68.67,74.25,71.53,76.9
+LA042,London Borough of Greenwich,London,2019,,62,6,62.79,,61.14,51.5,36.38,56.94,29.49,42.34,36.16,57.82
+LA043,London Borough of Brent,London,2019,34.78,46,7,43.51,45.84,41.99,21.36,68.41,42.75,24.99,40.05,26.42,8.97
+LA044,London Borough of Harrow,LONDON,2019,36.47,,4,19.39,34.57,,39.8,32.94,41.3,36.11,28.53,50.18,46.12
+LA045,London Borough of Enfield,London,2019,17.34,62,6,7.15,28.02,31.51,35.54,27.19,-5,,14.45,2.04,22.92
+LA046,Royal Borough of Kingston upon Thames,LONDON,2019,13.62,83,3,21.48,-1.11,11.56,19.95,18.66,12.06,9.47,1.58,30.19,-5
+LA047,London Borough of Richmond upon Thames,London,2019,60.99,90,3,41.81,67.41,73.09,44.67,71.44,79.92,,64.49,64.32,50.82
+LA048,London Borough of Merton,London,2019,39.15,79,4,42.22,42.9,42.02,,28.07,54.25,26.45,,,32.46
+LA049,Newcastle upon Tyne City Council,North East,2019,64.87,47,6,,82.33,67.89,79.69,47.98,59.74,67.1,58.49,60.04,54.84
+LA050,Sunderland City Council,North East,2019,24.47,42,7,-5,35.69,,23.7,41.28,29.13,-3.3,23.36,16.2,30.33
+LA051,Gateshead Metropolitan Borough Council,North East,2019,60.04,52,7,76.39,41.35,39.26,44.78,79.6,60.67,45.93,71.5,17.17,57.88
+LA052,South Tyneside Metropolitan Borough Council,North East,2019,60.4,46,7,56.83,48.67,69.5,62.19,69.56,81.63,85.25,63.05,75.31,59.65
+LA053,North Tyneside Metropolitan Borough Council,North East,2019,26.6,58,6,29.8,29.68,38.14,40.27,37.71,48.2,26.64,,24.98,2.79
+LA054,Middlesbrough Council,North East,2019,23.78,,8,19.96,29.18,26.93,15.73,10.52,38.36,25.22,,16.36,1.96
+LA055,Hartlepool Borough Council,North East,2019,74.45,34,8,90,95.32,72.72,,72.83,70.47,65.44,73.5,73.19,83.35
+LA056,Stockton-on-Tees Borough Council,North East,2019,53.73,52,7,41.31,62.11,47.62,58.24,,56.42,45.48,56.1,38.21,70.51
+LA057,Darlington Borough Council,NE England,2019,7.5,49,6,,,31.26,-2.63,1.23,2.13,33.64,-2.12,15.1,-0.89
+LA058,Durham County Council,North East,2019,72.96,,6,103.99,30.99,66.46,84.94,58.97,75.97,49.11,,93.24,90.56
+LA059,Northumberland County Council,North East,2019,10.75,60,6,22.41,7.22,26.98,8.05,7.3,16.83,28.12,-0.04,28.02,6.02
+LA060,Redcar and Cleveland Borough Council,North east,2019,45.46,43,7,25.2,,,69.65,40.75,47.01,,67.06,33.24,50.98
+LA061,Manchester City Council,North West,2019,33.63,47,7,,32.17,23.88,25.98,44.38,31.48,44.5,54.1,33.93,38.03
+LA062,Liverpool City Council,NW England,2019,34.81,34,8,47.38,54.89,49.63,21.42,,37.16,29.59,64.05,26.65,28.45
+LA063,Salford City Council,North West ,2019,52.54,50,7,53.22,,55.42,,56.4,31.75,58.94,31.25,43.08,44.62
+LA064,Oldham Metropolitan Borough Council,North West,2019,64.28,37,7,,57.21,71.77,49.59,63.38,52.89,,64.64,66.9,63.09
+LA065,Rochdale Metropolitan Borough Council,North West,2019,56.74,43,7,58.51,,37.39,42.53,,55.62,43.22,73.81,71.01,70.15
+LA066,Stockport Metropolitan Borough Council,North West,2019,13.19,67,5,32.91,26.15,25.98,1.5,-5,,,4.49,-5,5.33
+LA067,Tameside Metropolitan Borough Council,North West,2019,38.87,,7,10.26,61.84,31.45,63.46,28.42,29.14,52.29,52.02,,35.91
+LA068,Trafford Metropolitan Borough Council,North West,2019,,71,4,110,87.24,109.84,94.68,88.3,83.62,104.11,109.05,77.42,110
+LA069,Wigan Metropolitan Borough Council,North West,2019,9.83,51,6,21.99,25.05,7.81,22.46,11.03,16.26,36.71,-0.06,-5,36.64
+LA070,Bolton Metropolitan Borough Council,North West,2019,,52,7,28.53,17.26,20.07,32.56,20.57,37.33,,64.38,45.68,36.95
+LA071,Bury Metropolitan Borough Council,North West ,2019,57.39,59,5,45.68,,65.21,22.23,66.62,32.99,53.75,60.06,32.39,52.63
+LA072,Preston City Council,North West,2019,14.61,50,6,-5,22.5,48.87,31.69,-5,-5,1.19,,7.35,11.32
+LA073,Blackpool Borough Council,North West,2019,45.03,37,8,45.37,46.72,45.59,23.4,32.81,47.8,41.4,44.21,40.88,19.09
+LA074,Blackburn with Darwen Borough Council,North West,2019,102.3,42,7,110,103.92,97.64,57.32,109.94,110,,84.47,110,89.49
+LA075,Burnley Borough Council,North West,2019,77.92,33,8,85.67,97.61,77,86.2,,51.4,87.37,84.7,64.77,61.23
+LA076,Lancaster City Council,NW England,2019,44.93,57,5,70.87,28.97,32.74,51.02,,35.04,47.93,38.71,64.92,70.86
+LA077,Brighton and Hove City Council,South East,2019,6.12,64,5,21.69,-5,9.95,21.61,23.28,6.11,0.82,-5,4.76,-5
+LA078,Southampton City Council,South East,2019,68.37,64,5,,68.39,65.55,77.64,,61.84,65.64,77.95,66.59,69.98
+LA079,Portsmouth City Council,South East,2019,83.16,58,6,102.91,92.57,87.46,110,108.54,98.9,,67.19,93.72,68.6
+LA080,Reading Borough Council,South East,2019,35.54,,4,25.09,33.43,,39.37,69.92,42.01,12.84,19.39,52.62,54.94
+LA081,Slough Borough Council,South East,2019,18.78,43,7,40.42,-0.65,16.52,23.78,21.92,26.63,11.7,20.35,,-1.94
+LA082,Milton Keynes Council,South East,2019,25.72,79,4,38.2,4.04,26.39,45.8,28.79,30.48,1.98,,7.26,27.88
+LA083,Oxford City Council,South East,2019,65.04,83,3,87.21,42.09,83.84,50.51,53.4,38.62,62.56,75.94,67.29,69.23
+LA084,Canterbury City Council,South East,2019,35.35,77,4,11.63,38.57,47.44,60.96,,13.05,42.07,39.58,17.96,
+LA085,Maidstone Borough Council,South East,2019,80.83,74,4,,87.7,99.53,79.76,68.4,87.13,79.39,64.45,82.38,82.37
+LA086,Medway Council,South East ,2019,-2.5,61,6,14.08,-5,10.84,,7.62,3.71,-5,-5,-5,-5
+LA087,Thanet District Council,South East,2019,44.29,50,7,34.71,38.03,53.33,40.71,42.86,37.24,38.15,37.47,55.45,57.76
+LA088,Folkestone and Hythe District Council,South East,2019,83.52,62,5,110,,45.72,82.51,59.8,66.87,100.61,71.6,67.43,110
+LA089,Eastbourne Borough Council,South East,2019,67.58,62,5,79.78,95.94,47.26,75.58,70,65.5,63.11,62.88,77.57,90.05
+LA090,Hastings Borough Council,South East,2019,59.07,46,7,72.99,63.26,51.35,70.58,89.38,59.62,75.19,67.09,48.84,57.39
+LA091,Worthing Borough Council,South East,2019,55.2,74,4,46.88,48.93,63.59,67.14,77.4,59.37,44.95,38.93,68.93,74.13
+LA092,Crawley Borough Council,South east,2019,47.07,63,5,54.54,27.98,26.5,48.27,32.72,,53.03,40.54,42.82,48.8
+LA093,Bristol City Council,SW England,2019,24.28,69,4,23.74,27.51,36.93,,28.59,24.73,27.88,18.69,33.1,
+LA094,Plymouth City Council,South west,2019,78.5,51,6,98.63,59.14,82.75,108.32,58.74,78.44,90.51,67.54,61.73,64.4
+LA095,Exeter City Council,South West,2019,71.66,78,4,93.92,45.74,65.03,57.42,66.19,83.57,70.94,85.38,,94.41
+LA096,Gloucester City Council,South West,2019,82.3,60,5,58.64,71.11,,84.31,86.14,103.78,76.38,87.31,93.36,97.56
+LA097,Cheltenham Borough Council,South West,2019,15.04,79,4,53.87,4.24,22.42,28.65,4.89,,36.6,,38.24,13.83
+LA098,Swindon Borough Council,South West,2019,70.25,63,5,59.03,87.01,49,45.85,54.05,47.26,106.21,45.86,63.04,
+LA099,Bath and North East Somerset Council,South West,2019,10.74,85,3,-5,8.89,14.24,-5,34.42,14.29,3.34,-1.41,3.92,-5
+LA100,Wiltshire Council,South West,2019,37.02,74,4,62.77,36.31,56.22,49.98,43.08,56.71,,40.63,16.41,38.74
+LA101,Dorset Council,SW England,2019,72.1,80,4,74.49,43.55,73.16,67.72,90.03,64.45,61.86,52.4,65.73,64.68
+LA102,Cornwall Council,South West,2019,10.51,65,5,31.05,0.76,7.51,23.14,20.38,,-5,38.59,19.32,20.71
+LA103,Torbay Council,South West ,2019,78.12,56,6,96.97,,79.56,62.51,80.27,61.26,,74.76,107.08,59.93
+LA104,Somerset West and Taunton Council,South West,2019,33.54,66,4,46.96,47.31,46.84,34.91,50.33,42.34,18.74,21.86,11.01,43.08
+LA105,South Gloucestershire Council,South West,2019,51.02,78,4,39.04,47.33,66.63,57.43,54.24,67.4,,57.36,42.22,62.79
+LA106,North Somerset Council,South West,2019,29.24,,4,31.1,34.67,15.04,28.21,36.43,33.82,40.89,27.19,16.62,38.98
+LA107,Stroud District Council,South West,2019,9.48,76,4,-5,6.37,4.29,4.57,17.21,20.56,-5,23.62,24.67,6.18
+LA108,Forest of Dean District Council,SW England,2019,,70,5,46.48,15.91,26.96,18.07,5.16,15.65,,,3.11,29.76
+LA109,Birmingham City Council,West Midlands,2019,65.26,33,8,68.67,62.99,82.56,65.9,50.74,70.15,45.71,57.18,28.01,64.42
+LA110,Coventry City Council,W Midlands,2019,67.12,48,6,,80.01,52.57,85.31,61.97,70.83,59.68,95.56,75.85,70.37
+LA111,Wolverhampton City Council,West Midlands,2019,70.4,35,7,88.69,70.68,78.08,91.35,67.05,50.69,55.09,78.96,56.56,59.28
+LA112,Dudley Metropolitan Borough Council,West Midlands,2019,9.48,49,7,-5,13.27,17.56,8.52,12.02,-1.12,-0.14,-5,14.01,-5
+LA113,Sandwell Metropolitan Borough Council,West Midlands,2019,35.5,42,7,30.73,33.3,31.68,34.1,42.49,43.87,35.48,22.15,52.05,45.49
+LA114,Walsall Metropolitan Borough Council,West Midlands,2019,66.89,39,7,71.63,75.42,68.44,,57.67,42.75,66.11,56.11,73.59,73.12
+LA115,Solihull Metropolitan Borough Council,West Midlands,2019,82.58,75,4,110,67.49,76.15,98.29,82.19,,82.73,104.06,,80.61
+LA116,Stoke-on-Trent City Council,West Midlands,2019,,35,8,65.2,68.15,75.68,85.49,74.27,95.04,96.75,87.37,90.45,70.07
+LA117,Telford and Wrekin Council,West Midlands,2019,46.97,59,6,45.01,41.32,,89.17,65.27,50.86,31.26,61.91,76.91,64.84
+LA118,Worcester City Council,West Midlands,2019,,73,5,86.76,110,110,110,,110,108.01,109.55,110,110
+LA119,Herefordshire Council,West Midlands,2019,18.24,74,4,15.32,24.35,36.38,20.34,10.78,10.82,28.32,16.58,44.13,-1.19
+LA120,Shropshire Council,West Midlands,2019,23.15,68,4,23.29,6.1,15.83,22.68,20.15,26.4,22.21,3.02,49.27,7.39
+LA121,Lichfield District Council,West Midlands,2019,20.35,76,4,19.43,29.83,28.29,9.95,21.52,37.05,33.01,15.25,-5,24.84
+LA122,Tamworth Borough Council,W Midlands,2019,30.58,53,6,20.58,31.45,39.54,9.64,14.2,28.46,10.63,52.15,31.95,5.02
+LA123,Cannock Chase District Council,West Midlands,2019,35.09,51,6,44.31,12.88,,46.19,17.73,,29.07,49.42,42.82,19.17
+LA124,Redditch Borough Council,West Midlands,2019,16.91,52,6,-5,14.87,38.57,38.86,-1.49,23.29,24.89,5.82,23.16,48.3
+LA125,Leeds City Council,Yorkshire and The Humber,2019,8.29,64,5,18.11,-5,9.08,18.33,-5,9.36,1.58,24.15,27.55,15.28
+LA126,Sheffield City Council,Yorkshire And The Humber ,2019,42.79,50,6,44.91,40.44,21.82,40.39,48.96,26.92,40.31,31.26,48.87,44.92
+LA127,Bradford Metropolitan District Council,Yorkshire and The Humber,2019,50.29,47,7,39.56,61.49,43.9,48.39,39.16,82.44,52.3,38.84,54.37,
+LA128,Hull City Council,Yorkshire and The Humber,2019,,36,8,103.99,103.64,93.85,100.1,110,110,96.1,110,110,96
+LA129,Wakefield Metropolitan District Council,Yorkshire and The Humber,2019,42.55,53,6,62.22,42.63,64.94,24.35,-5,36.51,55.43,34.33,67.34,56.16
+LA130,Kirklees Metropolitan Council,Yorkshire And The Humber ,2019,-2.5,54,7,-5,-1.38,-1.26,13.83,-1.6,-0.47,,-5,,19.22
+LA131,Calderdale Metropolitan Borough Council,yorkshire and the humber,2019,41.04,55,6,50.14,40.15,43.07,67.55,50.66,61.03,36.81,30.5,45.55,50.63
+LA132,Barnsley Metropolitan Borough Council,Yorkshire and The Humber,2019,25.14,51,7,37.51,38.88,40.72,40.28,35.32,19.36,,30.6,27.86,8.93
+LA133,Doncaster Metropolitan Borough Council,Yorkshire and The Humber,2019,42.47,43,7,42.41,51.97,19.07,64.64,49.73,24.88,,31.28,52.69,19.65
+LA134,Rotherham Metropolitan Borough Council,Yorkshire and The Humber,2019,83.96,49,7,107.99,68.97,65.03,85.68,70.67,69.72,87.27,86.25,76.65,92.38
+LA135,York City of Council,Yorkshire And The Humber ,2019,51.95,66,4,26.1,33.93,68.19,,61.97,26.22,36.1,26.36,87.01,
+LA136,East Riding of Yorkshire Council,Yorkshire and The Humber,2019,9.05,76,4,3.58,16.55,16.64,-0.92,5.49,7.09,22.66,-0.46,8.47,14.97
+LA137,North Yorkshire County Council,Yorkshire and The Humber,2019,66.01,69,4,47.43,67.16,80.38,58.29,59.08,89.88,85.4,36.27,79.12,
+LA138,Scarborough Borough Council,Yorkshire & Humber,2019,38.39,55,6,34.26,39.02,35.7,58.91,33.19,,,50.64,64.86,48.36
+LA139,Harrogate Borough Council,Yorkshire and The Humber,2019,82.2,76,4,83.04,56.55,83.63,58.81,77.86,71.67,110,94.72,103.64,104.63
+LA140,Selby District Council,Yorkshire and The Humber,2019,,69,4,66.61,75.66,54.76,66.94,50.99,63.14,83.37,49.86,29.78,58.37
+LA141,Wyre Forest District Council,West Midlands,2019,6.74,58,5,18.62,4.41,-5,12.36,8.63,-5,29.31,-5,-3.21,13.99
+LA142,Bromsgrove District Council,West Midlands,2019,23.11,72,4,26.66,17.59,40.43,9.68,9.35,2.34,25.17,64.08,51.52,2.97
+LA143,Malvern Hills District Council,West Midlands,2019,25.59,70,4,35.28,63.71,56.95,-3.49,12.71,58.24,4.72,13.96,13.03,-0.7
+LA144,Wyre Borough Council,North West,2019,,65,5,51.44,9.08,40.6,59.86,14.19,17.04,19.45,15.37,48.9,44.82
+LA145,Fylde Borough Council,North West,2019,27.66,65,5,45.01,-1.3,54.63,21.19,44.93,25.03,34.88,16.68,15.44,56.75
+LA146,South Ribble Borough Council,North West,2019,63.02,72,4,81.51,65.83,40.15,49.71,64.97,60.78,60.25,54.07,59,
+LA147,Chorley Borough Council,North West,2019,52.71,,5,30.58,45.22,68.95,23.46,68.32,53.94,59.63,60.13,53.33,31.61
+LA148,West Lancashire Borough Council,North West,2019,20.55,67,5,26.25,,-5,21.83,45.34,17.28,19.44,10.03,,
+LA149,Rossendale Borough Council,North West,2019,81.38,52,6,60.95,60.36,91.73,65.22,94.27,92.78,93.86,93.37,91.37,101.56
+LA150,Hyndburn Borough Council,North West,2019,58.32,44,7,47.21,50.4,51.8,76.7,50.81,40.15,55.65,27.44,40.42,76.35

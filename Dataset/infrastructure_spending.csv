@@ -1,0 +1,1052 @@
+,council_id,council_name,region_name,spend_year,spend_category,budget_GBP,actual_spend_GBP,variance_GBP,spend_per_capita_GBP,pct_budget_utilised,funding_source
+SP-0001,LA001,Derby City Council,East Midlands,2020,Roads & Transport,37998268,29811400,-8186868,113.49,78.5,Private Finance Initiative
+SP-0002,LA001,Derby City Council,East Midlands,2023,Roads & Transport,2530547,2295000,,8.74,90.7,EU Structural Funds
+SP-0003,LA001,Derby City Council,East midlands,2023,Housing & Planning,27867694,"£30,680,400",,116.8,110.1,Combined Authority
+SP-0004,LA001,Derby City Council,East Midlands,2022,Flood & Drainage,"£22,323,687","£21,555,600",-768087,82.06,96.6,Private Finance Initiative
+SP-0005,LA001,Derby City Council,East Midlands,2023,Flood & Drainage,"£12,160,837",14702600,2541763,,120.9,Central Government Grant
+SP-0006,LA001,Derby City Council,East midlands,2019,Parks & Green Spaces,30306885,36435600,6128715,138.71,,Central Government Grant
+SP-0007,LA001,Derby City Council,EAST MIDLANDS,2020,Parks & Green Spaces,2953723,,-209323,10.45,92.9,Levelling Up Fund
+SP-0008,LA001,Derby City Council,East Midlands ,2019,Waste Management,23337995,,7660405,118.01,,Private Finance Initiative
+SP-0009,LA001,Derby City Council,East Midlands,2020,Digital Infrastructure,5947658,7518600,1570942,28.62,126.4,Private Finance Initiative
+SP-0010,LA001,Derby City Council,East Midlands,2019,Energy & Utilities,41498189,"£53,974,400",12476211,205.48,130.1,Central Government Grant
+SP-0011,LA001,Derby City Council,East Midlands,2023,Energy & Utilities,12436409,,2309691,56.14,118.6,EU Structural Funds
+SP-0012,LA002,Nottingham City Council,East Midlands ,2020,Roads & Transport,"£38,298,289",29035200,-9263089,88.2,75.8,Combined Authority
+SP-0013,LA002,Nottingham City Council,East Midlands,2023,Housing & Planning,17155626,15355900,-1799726,46.65,89.5,Mixed Funding
+SP-0014,LA002,Nottingham City Council,East midlands,2019,Housing & Planning,"£28,928,003",19187900,-9740103,58.29,66.3,City Deal
+SP-0015,LA002,Nottingham City Council,East Midlands,2020,Flood & Drainage,44342829,51846400,7503571,157.49,116.9,City Deal
+SP-0016,LA002,Nottingham City Council,EAST MIDLANDS,2019,Flood & Drainage,16758493,18977300,2218807,57.65,,Levelling Up Fund
+SP-0017,LA002,Nottingham City Council,East Midlands ,2023,Parks & Green Spaces,"£16,828,574",15625900,,47.47,92.9,Mixed Funding
+SP-0018,LA002,Nottingham City Council,East Midlands,2023,Waste Management,25764154,,-2591154,70.39,,City Deal
+SP-0019,LA002,Nottingham City Council,East Midlands,2022,Digital Infrastructure,28931684,"£26,561,700",-2369984,80.69,,City Deal
+SP-0020,LA002,Nottingham City Council,East Midlands,2019,Energy & Utilities,23862823,16785500,-7077323,,70.3,Combined Authority
+SP-0021,LA003,Leicester City Council,East Midlands,2021,Roads & Transport,44084829,49058300,,133.1,111.3,City Deal
+SP-0022,LA003,Leicester City Council,East Midlands,2021,Housing & Planning,3641570,4306700,665130,11.68,118.3,Combined Authority
+SP-0023,LA003,Leicester City Council,East Midlands,2022,Flood & Drainage,21906576,20913200,-993376,56.74,95.5,Central Government Grant
+SP-0024,LA003,Leicester City Council,East Midlands,2019,Flood & Drainage,38854321,"£34,073,200",-4781121,92.44,87.7,Levelling Up Fund
+SP-0025,LA003,Leicester City Council,East Midlands,2023,Parks & Green Spaces,18296947,17715400,-581547,48.06,96.8,Central Government Grant
+SP-0026,LA003,Leicester City Council,East Midlands,2020,Waste Management,4413639,"£4,354,800",-58839,11.82,98.7,City Deal
+SP-0027,LA003,Leicester City Council,East Midlands,2020,Digital Infrastructure,20651705,"£23,379,400",2727695,63.43,113.2,Central Government Grant
+SP-0028,LA003,Leicester City Council,East Midlands,2019,Energy & Utilities,25012132,,5744668,83.45,123,Combined Authority
+SP-0029,LA004,Northampton Borough Council,East Midlands,2020,Roads & Transport,24105706,18840100,,83.51,78.2,Mixed Funding
+SP-0030,LA004,Northampton Borough Council,East Midlands,2023,Roads & Transport,32432475,32571800,139325,144.38,100.4,EU Structural Funds
+SP-0031,LA004,Northampton Borough Council,East Midlands,2019,Housing & Planning,1050490,1061800,11310,4.71,101.1,Levelling Up Fund
+SP-0032,LA004,Northampton Borough Council,East Midlands,2020,Flood & Drainage,15666937,10772600,-4894337,47.75,68.8,EU Structural Funds
+SP-0033,LA004,Northampton Borough Council,East Midlands,2023,Parks & Green Spaces,23175518,19693000,-3482518,87.29,85,EU Structural Funds
+SP-0034,LA004,Northampton Borough Council,East Midlands,2019,Waste Management,19074332,17765900,,78.75,93.1,Levelling Up Fund
+SP-0035,LA004,Northampton Borough Council,East Midlands,2022,Waste Management,30112712,"£39,726,400",9613688,176.09,131.9,Combined Authority
+SP-0036,LA004,Northampton Borough Council,East Midlands,2022,Digital Infrastructure,8658703,10502600,1843897,46.55,121.3,Mixed Funding
+SP-0037,LA004,Northampton Borough Council,East Midlands,2019,Energy & Utilities,18999499,13279000,-5720499,58.86,69.9,EU Structural Funds
+SP-0038,LA004,Northampton Borough Council,East Midlands,2020,Energy & Utilities,39590803,49834300,10243497,220.9,125.9,Local Authority Budget
+SP-0039,LA005,Chesterfield Borough Council,East midlands,2021,Roads & Transport,"£9,758,175",6354400,,60.75,,City Deal
+SP-0040,LA005,Chesterfield Borough Council,East Midlands,2023,Roads & Transport,38118545,"£29,633,000",-8485545,283.3,77.7,Levelling Up Fund
+SP-0041,LA005,Chesterfield Borough Council,East Midlands,2022,Housing & Planning,29351926,,-6162226,221.7,79,EU Structural Funds
+SP-0042,LA005,Chesterfield Borough Council,East Midlands,2021,Housing & Planning,32586462,43347700,10761238,414.41,133,City Deal
+SP-0043,LA005,Chesterfield Borough Council,East Midlands,2022,Flood & Drainage,7729982,"£10,158,400",2428418,97.12,131.4,EU Structural Funds
+SP-0044,LA005,Chesterfield Borough Council,East Midlands,2019,Parks & Green Spaces,"£35,835,369",,2369631,365.25,106.6,Levelling Up Fund
+SP-0045,LA005,Chesterfield Borough Council,East Midlands,2020,Waste Management,18929184,19817200,,189.46,104.7,EU Structural Funds
+SP-0046,LA005,Chesterfield Borough Council,East Midlands,2023,Waste Management,37452421,48682200,11229779,465.41,,Central Government Grant
+SP-0047,LA005,Chesterfield Borough Council,East Midlands,2019,Digital Infrastructure,"£31,177,966","£38,702,000",7524034,370,,Levelling Up Fund
+SP-0048,LA005,Chesterfield Borough Council,East Midlands,2021,Energy & Utilities,"£27,012,777",27924500,911723,266.96,,Combined Authority
+SP-0049,LA006,Lincoln City Council,East Midlands,2023,Roads & Transport,14454521,16610700,2156179,,114.9,City Deal
+SP-0050,LA006,Lincoln City Council,East Midlands,2020,Roads & Transport,"£8,622,197",,,101.64,117.6,Combined Authority
+SP-0051,LA006,Lincoln City Council,East Midlands,2021,Housing & Planning,36312436,"£40,549,100",4236664,,111.7,Private Finance Initiative
+SP-0052,LA006,Lincoln City Council,East Midlands,2019,Flood & Drainage,20357506,18900500,-1457006,189.38,92.8,Combined Authority
+SP-0053,LA006,Lincoln City Council,East Midlands,2023,Flood & Drainage,13383418,12021800,-1361618,120.46,89.8,Levelling Up Fund
+SP-0054,LA006,Lincoln City Council,EAST MIDLANDS,2020,Parks & Green Spaces,30011391,31190300,1178909,,103.9,Combined Authority
+SP-0055,LA006,Lincoln City Council,East Midlands,2023,Parks & Green Spaces,21691123,17492600,,175.28,80.6,Central Government Grant
+SP-0056,LA006,Lincoln City Council,East Midlands,2019,Waste Management,5155016,6868800,1713784,68.83,133.2,Levelling Up Fund
+SP-0057,LA006,Lincoln City Council,East Midlands,2023,Waste Management,25276283,27628700,,276.84,109.3,EU Structural Funds
+SP-0058,LA006,Lincoln City Council,East Midlands,2020,Digital Infrastructure,32667607,42464300,9796693,425.49,130,City Deal
+SP-0059,LA006,Lincoln City Council,East Midlands,2019,Digital Infrastructure,18180189,18496400,316211,185.33,101.7,Central Government Grant
+SP-0060,LA006,Lincoln City Council,East Midlands,2019,Energy & Utilities,5829780,7619100,1789320,76.34,130.7,Local Authority Budget
+SP-0061,LA006,Lincoln City Council,East Midlands,2023,Energy & Utilities,2128146,1643900,-484246,16.47,77.2,EU Structural Funds
+SP-0062,LA007,Mansfield District Council,East Midlands,2019,Roads & Transport,18501819,20539100,2037281,190.53,111,Local Authority Budget
+SP-0063,LA007,Mansfield District Council,East midlands,2019,Housing & Planning,"£22,782,631",21842300,-940331,202.62,95.9,City Deal
+SP-0064,LA007,Mansfield District Council,East Midlands,2022,Flood & Drainage,862044,"£1,139,000",276956,10.57,132.1,Combined Authority
+SP-0065,LA007,Mansfield District Council,East Midlands,2020,Flood & Drainage,36826646,26713300,-10113346,247.8,72.5,City Deal
+SP-0066,LA007,Mansfield District Council,East midlands,2021,Parks & Green Spaces,43329332,51707200,8377868,479.66,119.3,Local Authority Budget
+SP-0067,LA007,Mansfield District Council,EAST MIDLANDS,2023,Waste Management,39023906,,-3444106,330.05,,Combined Authority
+SP-0068,LA007,Mansfield District Council,East Midlands,2022,Digital Infrastructure,"£28,966,414",,7560986,338.84,126.1,City Deal
+SP-0069,LA007,Mansfield District Council,East Midlands,2020,Energy & Utilities,13473775,16326100,2852325,151.45,121.2,City Deal
+SP-0070,LA008,Kettering Borough Council,East Midlands,2021,Roads & Transport,"£32,940,299",43009800,10069501,415.96,130.6,EU Structural Funds
+SP-0071,LA008,Kettering Borough Council,East Midlands,2019,Roads & Transport,"£3,579,492","£3,622,000",42508,35.03,101.2,EU Structural Funds
+SP-0072,LA008,Kettering Borough Council,East Midlands,2021,Housing & Planning,25052774,20621600,-4431174,199.44,82.3,Combined Authority
+SP-0073,LA008,Kettering Borough Council,EAST MIDLANDS,2019,Flood & Drainage,26635889,22510200,-4125689,217.7,84.5,Levelling Up Fund
+SP-0074,LA008,Kettering Borough Council,East Midlands,2019,Parks & Green Spaces,8693672,10911500,,105.53,125.5,Levelling Up Fund
+SP-0075,LA008,Kettering Borough Council,East midlands,2022,Waste Management,11166623,12754800,,123.35,114.2,Private Finance Initiative
+SP-0076,LA008,Kettering Borough Council,East Midlands,2020,Waste Management,44012019,54367200,10355181,525.79,123.5,Central Government Grant
+SP-0077,LA008,Kettering Borough Council,East Midlands,2022,Digital Infrastructure,"£29,128,815",23106300,-6022515,,79.3,Combined Authority
+SP-0078,LA008,Kettering Borough Council,East Midlands,2023,Energy & Utilities,"£26,152,928",30278700,4125772,292.83,115.8,Local Authority Budget
+SP-0079,LA009,Wellingborough Borough Council,East Midlands,2022,Roads & Transport,38694001,29317500,-9376501,359.72,75.8,Mixed Funding
+SP-0080,LA009,Wellingborough Borough Council,EAST MIDLANDS,2023,Roads & Transport,"£2,050,939",1995600,,24.49,97.3,Mixed Funding
+SP-0081,LA009,Wellingborough Borough Council,East Midlands,2023,Housing & Planning,14538033,"£11,198,900",-3339133,137.41,77,Local Authority Budget
+SP-0082,LA009,Wellingborough Borough Council,East Midlands,2021,Housing & Planning,37019819,43924900,6905081,538.96,118.7,Local Authority Budget
+SP-0083,LA009,Wellingborough Borough Council,East Midlands,2023,Flood & Drainage,11304972,10892300,-412672,133.65,96.3,Levelling Up Fund
+SP-0084,LA009,Wellingborough Borough Council,East Midlands,2021,Parks & Green Spaces,36643162,45353700,8710538,,123.8,Central Government Grant
+SP-0085,LA009,Wellingborough Borough Council,East Midlands,2019,Parks & Green Spaces,"£20,321,413",23555400,3233987,289.02,115.9,City Deal
+SP-0086,LA009,Wellingborough Borough Council,East Midlands,2022,Waste Management,7904370,8244900,340530,101.16,104.3,Levelling Up Fund
+SP-0087,LA009,Wellingborough Borough Council,East Midlands,2021,Waste Management,44285145,"£51,128,100",,627.34,115.5,Combined Authority
+SP-0088,LA009,Wellingborough Borough Council,East Midlands,2020,Digital Infrastructure,"£2,849,432",2399100,-450332,29.44,84.2,City Deal
+SP-0089,LA009,Wellingborough Borough Council,East Midlands,2023,Energy & Utilities,"£21,954,013",20669800,-1284213,253.62,94.2,Mixed Funding
+SP-0090,LA009,Wellingborough Borough Council,East Midlands,2021,Energy & Utilities,38961928,,-3481728,435.34,,City Deal
+SP-0091,LA010,Hinckley and Bosworth Borough Council,East Midlands ,2021,Roads & Transport,39349227,36888000,-2461227,329.36,93.7,Mixed Funding
+SP-0092,LA010,Hinckley and Bosworth Borough Council,East midlands,2021,Housing & Planning,18279582,23069600,4790018,205.98,126.2,EU Structural Funds
+SP-0093,LA010,Hinckley and Bosworth Borough Council,East Midlands,2019,Housing & Planning,43478833,35127800,-8351033,313.64,80.8,Levelling Up Fund
+SP-0094,LA010,Hinckley and Bosworth Borough Council,East Midlands,2022,Flood & Drainage,33417111,,-10998711,200.16,67.1,EU Structural Funds
+SP-0095,LA010,Hinckley and Bosworth Borough Council,East Midlands,2020,Parks & Green Spaces,4743085,5888600,1145515,52.58,124.2,Local Authority Budget
+SP-0096,LA010,Hinckley and Bosworth Borough Council,East midlands,2019,Waste Management,"£17,325,928",11479600,-5846328,102.5,66.3,Local Authority Budget
+SP-0097,LA010,Hinckley and Bosworth Borough Council,East Midlands,2021,Digital Infrastructure,40221693,28380600,-11841093,253.4,70.6,City Deal
+SP-0098,LA010,Hinckley and Bosworth Borough Council,East Midlands,2019,Energy & Utilities,"£11,208,940",12183800,974860,108.78,108.7,Private Finance Initiative
+SP-0099,LA011,Blaby District Council,East Midlands ,2023,Roads & Transport,25053321,,5685679,312.07,122.7,Mixed Funding
+SP-0100,LA011,Blaby District Council,East Midlands,2022,Housing & Planning,13374832,13306300,-68532,135.09,99.5,EU Structural Funds
+SP-0101,LA011,Blaby District Council,East Midlands,2020,Flood & Drainage,27537046,35678200,8141154,362.22,129.6,Private Finance Initiative
+SP-0102,LA011,Blaby District Council,East Midlands,2019,Parks & Green Spaces,25191701,18785100,-6406601,190.71,74.6,Combined Authority
+SP-0103,LA011,Blaby District Council,East Midlands,2022,Waste Management,"£30,202,059",,10555641,413.78,134.9,City Deal
+SP-0104,LA011,Blaby District Council,EAST MIDLANDS,2021,Digital Infrastructure,30688686,39916400,9227714,405.24,130.1,Mixed Funding
+SP-0105,LA011,Blaby District Council,East Midlands,2021,Energy & Utilities,39832455,51454300,11621845,522.38,129.2,Local Authority Budget
+SP-0106,LA012,Melton Borough Council,East Midlands ,2021,Roads & Transport,15418880,14598500,-820380,285.13,94.7,Combined Authority
+SP-0107,LA012,Melton Borough Council,East Midlands,2022,Roads & Transport,42268588,,-10705688,616.46,74.7,Central Government Grant
+SP-0108,LA012,Melton Borough Council,East Midlands,2019,Housing & Planning,24224030,23388700,-835330,456.81,96.6,Mixed Funding
+SP-0109,LA012,Melton Borough Council,East midlands,2022,Flood & Drainage,44884692,37377300,-7507392,730.03,83.3,Central Government Grant
+SP-0110,LA012,Melton Borough Council,East Midlands,2022,Parks & Green Spaces,16114412,"£20,525,200",4410788,400.88,127.4,EU Structural Funds
+SP-0111,LA012,Melton Borough Council,East Midlands,2021,Waste Management,"£12,172,334",14727800,2555466,287.65,121,City Deal
+SP-0112,LA012,Melton Borough Council,East Midlands,2021,Digital Infrastructure,4255998,,59302,84.28,101.4,Central Government Grant
+SP-0113,LA012,Melton Borough Council,East Midlands,2023,Energy & Utilities,10258980,8280300,-1978680,161.72,80.7,Combined Authority
+SP-0114,LA013,South Kesteven District Council,East Midlands,2020,Roads & Transport,4827120,5394100,566980,37.99,111.7,Mixed Funding
+SP-0115,LA013,South Kesteven District Council,East Midlands,2020,Housing & Planning,40719670,37068900,-3650770,261.05,91,Mixed Funding
+SP-0116,LA013,South Kesteven District Council,East Midlands,2022,Flood & Drainage,"£36,621,600",,11962200,342.14,,EU Structural Funds
+SP-0117,LA013,South Kesteven District Council,East Midlands,2021,Parks & Green Spaces,13214774,14152900,938126,99.67,107.1,Central Government Grant
+SP-0118,LA013,South Kesteven District Council,East Midlands,2020,Waste Management,44919272,50866600,5947328,358.22,113.2,Private Finance Initiative
+SP-0119,LA013,South Kesteven District Council,East Midlands,2023,Waste Management,38384912,46306200,7921288,326.1,120.6,Central Government Grant
+SP-0120,LA013,South Kesteven District Council,East Midlands,2019,Digital Infrastructure,22278685,24234100,1955415,170.66,108.8,Private Finance Initiative
+SP-0121,LA013,South Kesteven District Council,East Midlands,2021,Energy & Utilities,27051237,,,190.36,,Local Authority Budget
+SP-0122,LA014,Newark and Sherwood District Council,East Midlands,2020,Roads & Transport,13502239,,-4220539,,,EU Structural Funds
+SP-0123,LA014,Newark and Sherwood District Council,East Midlands,2019,Housing & Planning,25098370,20017000,-5081370,166.25,79.8,Central Government Grant
+SP-0124,LA014,Newark and Sherwood District Council,East Midlands,2020,Flood & Drainage,6194111,5609800,-584311,46.59,90.6,Central Government Grant
+SP-0125,LA014,Newark and Sherwood District Council,East Midlands,2020,Parks & Green Spaces,3509297,4606700,1097403,38.26,131.3,Local Authority Budget
+SP-0126,LA014,Newark and Sherwood District Council,East Midlands,2021,Waste Management,33617426,,-11324926,185.15,66.3,Mixed Funding
+SP-0127,LA014,Newark and Sherwood District Council,East Midlands,2019,Digital Infrastructure,31000841,35119900,4119059,291.69,113.3,Private Finance Initiative
+SP-0128,LA014,Newark and Sherwood District Council,East Midlands ,2020,Digital Infrastructure,27073570,"£31,771,700",4698130,,117.4,Local Authority Budget
+SP-0129,LA014,Newark and Sherwood District Council,East Midlands,2021,Energy & Utilities,"£39,674,377","£48,330,400",8656023,,121.8,Combined Authority
+SP-0130,LA015,Broxtowe Borough Council,East midlands,2023,Roads & Transport,17061159,15806800,-1254359,,92.6,EU Structural Funds
+SP-0131,LA015,Broxtowe Borough Council,East Midlands,2021,Roads & Transport,1380187,,-327187,9.37,76.3,City Deal
+SP-0132,LA015,Broxtowe Borough Council,East Midlands,2019,Housing & Planning,24987839,25779000,791161,229.35,103.2,Levelling Up Fund
+SP-0133,LA015,Broxtowe Borough Council,East Midlands,2021,Housing & Planning,26990622,26944000,-46622,239.72,99.8,Mixed Funding
+SP-0134,LA015,Broxtowe Borough Council,East Midlands,2020,Flood & Drainage,19566468,"£24,615,800",,219,125.8,Private Finance Initiative
+SP-0135,LA015,Broxtowe Borough Council,East Midlands,2023,Flood & Drainage,10296802,,3461598,122.41,133.6,EU Structural Funds
+SP-0136,LA015,Broxtowe Borough Council,East Midlands,2023,Parks & Green Spaces,43023858,50540400,7516542,449.65,117.5,Private Finance Initiative
+SP-0137,LA015,Broxtowe Borough Council,East Midlands,2021,Parks & Green Spaces,"£9,082,498",6464500,-2617998,57.51,71.2,EU Structural Funds
+SP-0138,LA015,Broxtowe Borough Council,East Midlands,2020,Waste Management,17056644,"£22,293,600",,198.34,130.7,Private Finance Initiative
+SP-0139,LA015,Broxtowe Borough Council,East Midlands,2023,Waste Management,30450010,27626000,,245.78,90.7,City Deal
+SP-0140,LA015,Broxtowe Borough Council,East Midlands,2020,Digital Infrastructure,13685455,9473500,-4211955,84.28,69.2,Mixed Funding
+SP-0141,LA015,Broxtowe Borough Council,East Midlands,2022,Digital Infrastructure,22216798,24650100,2433302,219.31,111,EU Structural Funds
+SP-0142,LA015,Broxtowe Borough Council,East midlands,2022,Energy & Utilities,19532497,,-4625897,132.62,,Mixed Funding
+SP-0143,LA016,Gedling Borough Council,East Midlands,2019,Roads & Transport,4412464,5809700,,49.03,131.7,City Deal
+SP-0144,LA016,Gedling Borough Council,East Midlands,2020,Housing & Planning,26807004,,,293.53,129.8,Local Authority Budget
+SP-0145,LA016,Gedling Borough Council,East Midlands ,2022,Flood & Drainage,44368876,58731600,14362724,495.63,132.4,Levelling Up Fund
+SP-0146,LA016,Gedling Borough Council,East Midlands,2020,Parks & Green Spaces,18901734,,1198866,169.63,106.3,EU Structural Funds
+SP-0147,LA016,Gedling Borough Council,East Midlands,2019,Parks & Green Spaces,5992598,5692900,-299698,48.04,,Private Finance Initiative
+SP-0148,LA016,Gedling Borough Council,East Midlands,2020,Waste Management,9401596,7975400,-1426196,67.3,84.8,EU Structural Funds
+SP-0149,LA016,Gedling Borough Council,East Midlands,2019,Digital Infrastructure,5675361,5207300,-468061,43.94,91.8,Private Finance Initiative
+SP-0150,LA016,Gedling Borough Council,East Midlands,2021,Digital Infrastructure,7880076,,-885076,59.03,88.8,City Deal
+SP-0151,LA016,Gedling Borough Council,EAST MIDLANDS,2022,Energy & Utilities,10487424,"£7,188,500",-3298924,60.66,68.5,Central Government Grant
+SP-0152,LA017,Norwich City Council,East of England,2023,Roads & Transport,38481281,36663700,-1817581,,95.3,Central Government Grant
+SP-0153,LA017,Norwich City Council,East of England,2019,Housing & Planning,"£13,979,511",,-3597911,48.13,74.3,Levelling Up Fund
+SP-0154,LA017,Norwich City Council,East of England,2021,Housing & Planning,13543451,18152700,4609249,84.16,134,Levelling Up Fund
+SP-0155,LA017,Norwich City Council,East of England,2019,Flood & Drainage,9273191,11131000,1857809,51.6,120,City Deal
+SP-0156,LA017,Norwich City Council,East of England,2019,Parks & Green Spaces,14933877,11759100,,54.52,78.7,City Deal
+SP-0157,LA017,Norwich City Council,East of England,2019,Waste Management,44394945,33974400,-10420545,157.51,76.5,EU Structural Funds
+SP-0158,LA017,Norwich City Council,East of England,2021,Digital Infrastructure,27870400,34482900,6612500,159.87,123.7,Central Government Grant
+SP-0159,LA017,Norwich City Council,East of England,2021,Energy & Utilities,8488976,11365900,2876924,52.69,133.9,Private Finance Initiative
+SP-0160,LA017,Norwich City Council,East Of England,2023,Energy & Utilities,38988555,26046000,-12942555,120.75,66.8,Mixed Funding
+SP-0161,LA018,Ipswich Borough Council,East of England,2023,Roads & Transport,19191674,16483500,-2708174,119.79,85.9,Levelling Up Fund
+SP-0162,LA018,Ipswich Borough Council,East of England,2019,Housing & Planning,30239009,34277100,,249.11,113.4,EU Structural Funds
+SP-0163,LA018,Ipswich Borough Council,Eastern England,2022,Flood & Drainage,14708507,13886600,-821907,100.92,94.4,Private Finance Initiative
+SP-0164,LA018,Ipswich Borough Council,East of England,2020,Flood & Drainage,"£19,727,131",24198200,4471069,175.86,122.7,Central Government Grant
+SP-0165,LA018,Ipswich Borough Council,East of England,2020,Parks & Green Spaces,44872400,53465100,8592700,388.55,119.1,Combined Authority
+SP-0166,LA018,Ipswich Borough Council,East of England,2021,Parks & Green Spaces,28790430,38812700,,282.07,134.8,Levelling Up Fund
+SP-0167,LA018,Ipswich Borough Council,East of England,2021,Waste Management,24559663,30398200,5838537,220.92,,Combined Authority
+SP-0168,LA018,Ipswich Borough Council,East of England,2019,Digital Infrastructure,"£21,900,505",28539800,6639295,207.41,130.3,City Deal
+SP-0169,LA018,Ipswich Borough Council,East of England,2023,Energy & Utilities,37040452,26738100,-10302352,194.32,72.2,Private Finance Initiative
+SP-0170,LA019,Cambridge City Council,East of England,2022,Roads & Transport,8578475,8249500,-328975,,96.2,Mixed Funding
+SP-0171,LA019,Cambridge City Council,East of England,2020,Housing & Planning,"£17,677,700","£11,879,500",-5798200,90.13,67.2,Combined Authority
+SP-0172,LA019,Cambridge City Council,East of England,2021,Housing & Planning,23834837,18906300,-4928537,143.45,79.3,Central Government Grant
+SP-0173,LA019,Cambridge City Council,East of England,2019,Flood & Drainage,"£8,683,086","£7,200,100",-1482986,54.63,82.9,City Deal
+SP-0174,LA019,Cambridge City Council,East of England,2020,Parks & Green Spaces,10394236,,2368464,96.83,122.8,Mixed Funding
+SP-0175,LA019,Cambridge City Council,East Of England,2019,Waste Management,44408449,"£59,935,000",15526551,,135,Local Authority Budget
+SP-0176,LA019,Cambridge City Council,East of England,2020,Digital Infrastructure,20032237,22441200,2408963,170.27,,Levelling Up Fund
+SP-0177,LA019,Cambridge City Council,East of England,2019,Energy & Utilities,6965890,"£6,176,300",-789590,46.86,88.7,Levelling Up Fund
+SP-0178,LA020,Luton Borough Council,East of England,2021,Roads & Transport,10537987,"£7,903,600",-2634387,35.08,75,Central Government Grant
+SP-0179,LA020,Luton Borough Council,East of England,2021,Housing & Planning,14771335,,-1629735,58.33,89,Local Authority Budget
+SP-0180,LA020,Luton Borough Council,East of England,2023,Flood & Drainage,19973943,"£24,228,900",4254957,107.54,121.3,Private Finance Initiative
+SP-0181,LA020,Luton Borough Council,East of England,2023,Parks & Green Spaces,7161781,9597300,2435519,42.6,134,Local Authority Budget
+SP-0182,LA020,Luton Borough Council,East of England ,2021,Waste Management,4660447,3851700,-808747,17.1,82.6,City Deal
+SP-0183,LA020,Luton Borough Council,East of England,2020,Digital Infrastructure,26765504,24197600,-2567904,107.4,90.4,City Deal
+SP-0184,LA020,Luton Borough Council,East of England ,2020,Energy & Utilities,"£44,928,949",36769300,-8159649,163.2,81.8,Local Authority Budget
+SP-0185,LA021,Peterborough City Council,Eastern England,2020,Roads & Transport,11887962,15259500,3371538,71.78,128.4,City Deal
+SP-0186,LA021,Peterborough City Council,Eastern England,2020,Housing & Planning,33207169,40947200,7740031,192.6,123.3,Combined Authority
+SP-0187,LA021,Peterborough City Council,East of England,2019,Flood & Drainage,15613702,12648700,-2965002,59.5,81,EU Structural Funds
+SP-0188,LA021,Peterborough City Council,East of England,2019,Parks & Green Spaces,"£38,028,732",,,198.97,111.2,Local Authority Budget
+SP-0189,LA021,Peterborough City Council,East of England,2023,Waste Management,36202938,28361300,-7841638,133.4,78.3,Combined Authority
+SP-0190,LA021,Peterborough City Council,East of England,2021,Digital Infrastructure,22774645,29161600,6386955,137.17,128,EU Structural Funds
+SP-0191,LA021,Peterborough City Council,East of England,2020,Digital Infrastructure,29408998,"£23,327,000",-6081998,109.72,79.3,Private Finance Initiative
+SP-0192,LA021,Peterborough City Council,East of England,2020,Energy & Utilities,2189237,2955400,766163,13.9,135,EU Structural Funds
+SP-0193,LA021,Peterborough City Council,East of England,2021,Energy & Utilities,"£7,603,505",8351100,747595,39.28,109.8,Local Authority Budget
+SP-0194,LA022,Southend-on-Sea Borough Council,East Of England,2022,Roads & Transport,24696201,"£17,922,700",-6773501,97.83,72.6,Central Government Grant
+SP-0195,LA022,Southend-on-Sea Borough Council,East of England,2022,housing & planning,34306700,26000600,-8306100,141.92,75.8,City Deal
+SP-0196,LA022,Southend-on-Sea Borough Council,East of England,2021,Flood & Drainage,"£34,891,195","£31,108,900",-3782295,169.81,89.2,Central Government Grant
+SP-0197,LA022,Southend-on-Sea Borough Council,East of England ,2019,Parks & Green Spaces,20124351,14419100,-5705251,78.71,71.6,City Deal
+SP-0198,LA022,Southend-on-Sea Borough Council,East of England ,2023,Waste Management,42981100,52254500,9273400,,121.6,Central Government Grant
+SP-0199,LA022,Southend-on-Sea Borough Council,East of England,2020,Digital Infrastructure,19913209,,6717491,145.36,133.7,City Deal
+SP-0200,LA022,Southend-on-Sea Borough Council,East of England,2021,Energy & Utilities,27738828,33204300,5465472,181.25,119.7,EU Structural Funds
+SP-0201,LA023,Thurrock Council,Eastern England,2021,Roads & Transport,7797957,8262700,464743,,106,Combined Authority
+SP-0202,LA023,Thurrock Council,East Of England,2021,Housing & Planning,13700965,18069200,,105.05,131.9,EU Structural Funds
+SP-0203,LA023,Thurrock Council,East of England,2023,Flood & Drainage,"£8,931,005",8946500,15495,52.01,100.2,Central Government Grant
+SP-0204,LA023,Thurrock Council,East of England,2022,Parks & Green Spaces,2647280,2027600,-619680,11.79,,Mixed Funding
+SP-0205,LA023,Thurrock Council,East Of England,2020,Waste Management,5890641,"£5,054,700",-835941,29.39,85.8,City Deal
+SP-0206,LA023,Thurrock Council,East of England,2020,Digital Infrastructure,29412506,29845100,432594,173.52,101.5,Private Finance Initiative
+SP-0207,LA023,Thurrock Council,East of England ,2021,Energy & Utilities,"£41,001,706",32678900,-8322806,189.99,,EU Structural Funds
+SP-0208,LA024,Chelmsford City Council,East Of England,2019,Roads & Transport,22529738,"£22,675,500",,125.77,,EU Structural Funds
+SP-0209,LA024,Chelmsford City Council,East of England,2020,Housing & Planning,4546587,3425700,-1120887,19,75.3,Mixed Funding
+SP-0210,LA024,Chelmsford City Council,East of England,2022,Flood & Drainage,44006988,44724500,717512,248.06,101.6,EU Structural Funds
+SP-0211,LA024,Chelmsford City Council,Eastern England,2020,Parks & Green Spaces,13104401,9896600,-3207801,54.89,75.5,Private Finance Initiative
+SP-0212,LA024,Chelmsford City Council,East of England,2023,Waste Management,"£26,230,138","£28,761,300",2531162,159.52,109.6,Local Authority Budget
+SP-0213,LA024,Chelmsford City Council,East of England,2019,Digital Infrastructure,29465125,27317500,-2147625,151.51,92.7,Local Authority Budget
+SP-0214,LA024,Chelmsford City Council,East of England,2023,Energy & Utilities,6845445,5712500,-1132945,31.68,83.4,EU Structural Funds
+SP-0215,LA024,Chelmsford City Council,East of England,2021,Energy & Utilities,5547314,4919200,-628114,27.28,88.7,Local Authority Budget
+SP-0216,LA025,Colchester Borough Council,East of England,2019,Roads & Transport,43695054,41044200,-2650854,210.16,93.9,Private Finance Initiative
+SP-0217,LA025,Colchester Borough Council,East of England ,2020,Roads & Transport,8817969,9005500,187531,46.11,102.1,Mixed Funding
+SP-0218,LA025,Colchester Borough Council,East of England,2023,Housing & Planning,18635853,20726100,2090247,106.12,111.2,EU Structural Funds
+SP-0219,LA025,Colchester Borough Council,East of England ,2020,Flood & Drainage,10350240,12836400,2486160,65.73,124,Central Government Grant
+SP-0220,LA025,Colchester Borough Council,East of England,2020,Parks & Green Spaces,30530835,33813200,3282365,173.13,110.8,Local Authority Budget
+SP-0221,LA025,Colchester Borough Council,East of England,2019,Waste Management,39281779,36230300,-3051479,185.51,92.2,Private Finance Initiative
+SP-0222,LA025,Colchester Borough Council,East of England,2021,Digital Infrastructure,22086061,23770600,1684539,,107.6,Central Government Grant
+SP-0223,LA025,Colchester Borough Council,East of England,2021,Energy & Utilities,23244191,29625100,6380909,151.69,127.5,Mixed Funding
+SP-0224,LA026,Braintree District Council,East of England,2021,Roads & Transport,38921581,"£46,541,000",7619419,296.82,119.6,Mixed Funding
+SP-0225,LA026,Braintree District Council,East of England ,2023,Housing & Planning,18839995,"£23,015,900",4175905,146.79,122.2,Private Finance Initiative
+SP-0226,LA026,Braintree District Council,East of England,2020,Flood & Drainage,"£11,179,179","£10,517,300",-661879,,94.1,Local Authority Budget
+SP-0227,LA026,Braintree District Council,East of England,2021,Parks & Green Spaces,25743207,17831600,-7911607,113.72,69.3,Local Authority Budget
+SP-0228,LA026,Braintree District Council,East of England ,2023,Parks & Green Spaces,13832431,9890900,-3941531,63.08,71.5,Private Finance Initiative
+SP-0229,LA026,Braintree District Council,East of England,2021,Waste Management,989730,1138800,149070,7.26,115.1,Local Authority Budget
+SP-0230,LA026,Braintree District Council,East of England,2020,Digital Infrastructure,11587874,10546200,-1041674,67.26,91,EU Structural Funds
+SP-0231,LA026,Braintree District Council,East of England,2021,Energy & Utilities,18468192,21136000,2667808,,114.4,City Deal
+SP-0232,LA027,Basildon Borough Council,East Of England,2022,Roads & Transport,23828553,26132900,2304347,139.9,109.7,Combined Authority
+SP-0233,LA027,Basildon Borough Council,Eastern England,2021,Roads & Transport,17356298,,-1122298,86.91,93.5,EU Structural Funds
+SP-0234,LA027,Basildon Borough Council,East of England,2021,Housing & Planning,43937001,32613500,-11323501,174.59,74.2,Combined Authority
+SP-0235,LA027,Basildon Borough Council,East of England ,2020,Flood & Drainage,26651902,"£25,331,300",-1320602,,,Combined Authority
+SP-0236,LA027,Basildon Borough Council,East of England,2019,Parks & Green Spaces,4968051,5867500,,31.41,118.1,Mixed Funding
+SP-0237,LA027,Basildon Borough Council,East of England,2021,Waste Management,"£43,510,982",42460600,-1050382,227.31,97.6,Levelling Up Fund
+SP-0238,LA027,Basildon Borough Council,East of England,2019,Digital Infrastructure,41111004,50739100,9628096,,123.4,Combined Authority
+SP-0239,LA027,Basildon Borough Council,East of England ,2022,Energy & Utilities,42292465,"£56,846,200",14553735,304.32,134.4,Local Authority Budget
+SP-0240,LA028,Harlow District Council,East of England,2021,Roads & Transport,6574358,4840000,-1734358,,,Levelling Up Fund
+SP-0241,LA028,Harlow District Council,East of England,2020,Housing & Planning,31349929,38563000,7213071,417.8,123,Local Authority Budget
+SP-0242,LA028,Harlow District Council,East of England,2023,Flood & Drainage,32738300,,-5222900,298.11,84,Mixed Funding
+SP-0243,LA028,Harlow District Council,East of England,2019,Flood & Drainage,3692589,3646200,,39.5,98.7,Local Authority Budget
+SP-0244,LA028,Harlow District Council,East of England,2022,Parks & Green Spaces,31327780,33507600,2179820,363.03,107,Levelling Up Fund
+SP-0245,LA028,Harlow District Council,East of England,2023,Waste Management,5134952,4715100,-419852,,91.8,EU Structural Funds
+SP-0246,LA028,Harlow District Council,Eastern England,2023,Digital Infrastructure,32262033,35575500,3313467,385.43,110.3,City Deal
+SP-0247,LA028,Harlow District Council,East of England,2023,Energy & Utilities,18042745,12527200,-5515545,135.72,69.4,Levelling Up Fund
+SP-0248,LA028,Harlow District Council,East Of England,2021,Energy & Utilities,5677919,3724000,-1953919,40.35,65.6,Local Authority Budget
+SP-0249,LA029,Stevenage Borough Council,East of England,2020,Roads & Transport,14984812,16124200,1139388,180.76,107.6,EU Structural Funds
+SP-0250,LA029,Stevenage Borough Council,East of England,2019,Housing & Planning,35336630,34031200,,381.52,96.3,EU Structural Funds
+SP-0251,LA029,Stevenage Borough Council,East of England,2023,Housing & Planning,17455414,21190900,3735486,237.57,121.4,City Deal
+SP-0252,LA029,Stevenage Borough Council,East of England,2019,Flood & Drainage,31429746,23243800,-8185946,260.58,74,Local Authority Budget
+SP-0253,LA029,Stevenage Borough Council,East of England,2019,Parks & Green Spaces,36951182,39725200,2774018,445.35,107.5,City Deal
+SP-0254,LA029,Stevenage Borough Council,Eastern England,2023,Waste Management,"£37,975,408","£49,423,300",11447892,554.07,130.1,Levelling Up Fund
+SP-0255,LA029,Stevenage Borough Council,East of England,2020,Digital Infrastructure,4521290,5929200,1407910,66.47,131.1,Combined Authority
+SP-0256,LA029,Stevenage Borough Council,East of England,2021,Energy & Utilities,39522248,50675600,11153352,568.11,128.2,Combined Authority
+SP-0257,LA029,Stevenage Borough Council,East of England,2022,Energy & Utilities,43578673,,,516.07,105.6,Central Government Grant
+SP-0258,LA030,Watford Borough Council,East of England,2022,Roads & Transport,32450584,"£42,910,400",10459816,443.29,132.2,City Deal
+SP-0259,LA030,Watford Borough Council,East of England,2019,Housing & Planning,30973341,"£27,057,500",-3915841,279.52,87.4,Combined Authority
+SP-0260,LA030,Watford Borough Council,East of England,2021,Flood & Drainage,33249935,"£44,091,200",,455.49,132.6,Levelling Up Fund
+SP-0261,LA030,Watford Borough Council,East of England,2020,Flood & Drainage,5622052,4718500,-903552,48.74,,Private Finance Initiative
+SP-0262,LA030,Watford Borough Council,East of England,2023,Parks & Green Spaces,44293319,48825200,4531881,504.39,110.2,Combined Authority
+SP-0263,LA030,Watford Borough Council,East of England,2022,Waste Management,29982585,36940600,6958015,381.62,123.2,Levelling Up Fund
+SP-0264,LA030,Watford Borough Council,East of England,2022,Digital Infrastructure,"£7,001,966",,-963766,62.38,86.2,Combined Authority
+SP-0265,LA030,Watford Borough Council,East of England,2020,Energy & Utilities,22592970,16976400,-5616570,175.38,75.1,City Deal
+SP-0266,LA031,St Albans City and District Council,East of England,2023,Roads & Transport,28114402,34775300,6660898,234.02,123.7,Mixed Funding
+SP-0267,LA031,St Albans City and District Council,East of England,2021,Housing & Planning,28620687,30987900,2367213,208.53,108.3,Mixed Funding
+SP-0268,LA031,St Albans City and District Council,East Of England,2023,Housing & Planning,11138731,12409000,1270269,83.51,111.4,Local Authority Budget
+SP-0269,LA031,St Albans City and District Council,Eastern England,2019,Flood & Drainage,38334348,28584300,-9750048,192.36,74.6,Levelling Up Fund
+SP-0270,LA031,St Albans City and District Council,East of England,2022,Flood & Drainage,4724899,5597000,872101,37.66,118.5,Levelling Up Fund
+SP-0271,LA031,St Albans City and District Council,East of England,2019,Parks & Green Spaces,20250448,15793100,-4457348,106.28,78,City Deal
+SP-0272,LA031,St Albans City and District Council,East of England,2023,Waste Management,13501433,13169200,,88.62,97.5,Local Authority Budget
+SP-0273,LA031,St Albans City and District Council,East of England,2019,Digital Infrastructure,36467783,27081900,-9385883,182.25,74.3,Private Finance Initiative
+SP-0274,LA031,St Albans City and District Council,East of England,2023,Energy & Utilities,5743422,4146400,-1597022,27.9,72.2,Local Authority Budget
+SP-0275,LA032,Hertsmere Borough Council,East of England,2023,Roads & Transport,37752362,39965400,2213038,378.82,105.9,Combined Authority
+SP-0276,LA032,Hertsmere Borough Council,East of England,2019,Housing & Planning,5445144,5492100,46956,52.06,100.9,Combined Authority
+SP-0277,LA032,Hertsmere Borough Council,East of England,2020,Flood & Drainage,29933956,22393600,-7540356,212.26,74.8,Mixed Funding
+SP-0278,LA032,Hertsmere Borough Council,East of England,2021,Flood & Drainage,34672420,24817100,,235.23,71.6,Levelling Up Fund
+SP-0279,LA032,Hertsmere Borough Council,East of England,2019,Parks & Green Spaces,"£41,882,448",53781100,11898652,509.77,128.4,Levelling Up Fund
+SP-0280,LA032,Hertsmere Borough Council,East of England,2020,Waste Management,"£12,424,622","£11,314,400",-1110222,107.25,91.1,Levelling Up Fund
+SP-0281,LA032,Hertsmere Borough Council,Eastern England,2020,Digital Infrastructure,3235081,3182100,-52981,30.16,,Combined Authority
+SP-0282,LA032,Hertsmere Borough Council,East of England,2019,Energy & Utilities,4335939,,113861,,102.6,City Deal
+SP-0283,LA033,City of London Corporation,London,2021,Roads & Transport,"£31,943,958",42204200,10260242,4489.81,132.1,City Deal
+SP-0284,LA033,City of London Corporation,London ,2023,Housing & Planning,10195569,12716600,2521031,1352.83,124.7,Levelling Up Fund
+SP-0285,LA033,City of London Corporation,London,2022,Housing & Planning,27141889,22154000,-4987889,,81.6,Levelling Up Fund
+SP-0286,LA033,City of London Corporation,London,2021,Flood & Drainage,6193221,7653700,1460479,814.22,123.6,City Deal
+SP-0287,LA033,City of London Corporation,London,2022,Flood & Drainage,12998619,13471300,472681,,103.6,Local Authority Budget
+SP-0288,LA033,City of London Corporation,London,2021,Parks & Green Spaces,27926708,28980400,1053692,3083.02,103.8,City Deal
+SP-0289,LA033,City of London Corporation,London,2021,Waste Management,25386200,25765100,378900,2740.97,101.5,Mixed Funding
+SP-0290,LA033,City of London Corporation,Greater London,2023,Digital Infrastructure,29885121,38288700,8403579,4073.27,,Levelling Up Fund
+SP-0291,LA033,City of London Corporation,London,2019,Energy & Utilities,25340880,24586000,-754880,2615.53,97,Local Authority Budget
+SP-0292,LA034,London Borough of Camden,London,2023,Roads & Transport,1789226,,,4.99,73.3,City Deal
+SP-0293,LA034,London Borough of Camden,LONDON,2021,Housing & Planning,"£30,199,360",31885600,1686240,121.19,105.6,Mixed Funding
+SP-0294,LA034,London Borough of Camden,London,2023,Housing & Planning,5790161,5304900,-485261,20.16,91.6,Local Authority Budget
+SP-0295,LA034,London Borough of Camden,LONDON,2019,Flood & Drainage,9506538,6474200,-3032338,24.61,68.1,Combined Authority
+SP-0296,LA034,London Borough of Camden,London,2022,Parks & Green Spaces,5656346,4624600,-1031746,17.58,81.8,EU Structural Funds
+SP-0297,LA034,London Borough of Camden,Greater London,2023,Parks & Green Spaces,42784995,46816800,4031805,177.94,109.4,Central Government Grant
+SP-0298,LA034,London Borough of Camden,London,2020,Waste Management,21173895,25900800,4726905,98.44,122.3,Private Finance Initiative
+SP-0299,LA034,London Borough of Camden,LONDON,2022,Digital Infrastructure,23697012,27611900,3914888,104.95,,EU Structural Funds
+SP-0300,LA034,London Borough of Camden,Greater London,2023,Energy & Utilities,23394652,28270000,4875348,107.45,120.8,EU Structural Funds
+SP-0301,LA035,London Borough of Hackney,London,2023,Roads & Transport,16119927,20637600,4517673,,128,Central Government Grant
+SP-0302,LA035,London Borough of Hackney,London,2020,Housing & Planning,22157388,"£28,822,800",6665412,102.43,130.1,City Deal
+SP-0303,LA035,London Borough of Hackney,London,2020,Flood & Drainage,886561,"£926,400",39839,3.29,104.5,Central Government Grant
+SP-0304,LA035,London Borough of Hackney,London,2022,Parks & Green Spaces,1983863,1907000,-76863,6.78,96.1,Local Authority Budget
+SP-0305,LA035,London Borough of Hackney,London,2023,Waste Management,"£9,681,338",11635600,1954262,41.35,120.2,Combined Authority
+SP-0306,LA035,London Borough of Hackney,London,2019,Digital Infrastructure,21143617,"£16,474,200",-4669417,58.54,77.9,Levelling Up Fund
+SP-0307,LA035,London Borough of Hackney,London,2023,Digital Infrastructure,8521027,8886400,365373,31.58,,EU Structural Funds
+SP-0308,LA035,London Borough of Hackney,Greater London,2019,Energy & Utilities,"£23,627,621",28169900,4542279,100.11,119.2,Private Finance Initiative
+SP-0309,LA036,London Borough of Tower Hamlets,London,2020,Roads & Transport,2479088,,434712,8.97,117.5,Combined Authority
+SP-0310,LA036,London Borough of Tower Hamlets,London,2019,Roads & Transport,19662874,14450400,-5212474,44.49,73.5,Private Finance Initiative
+SP-0311,LA036,London Borough of Tower Hamlets,London,2022,Housing & Planning,8367493,8223700,-143793,25.32,98.3,Central Government Grant
+SP-0312,LA036,London Borough of Tower Hamlets,London,2021,Flood & Drainage,34954006,"£35,841,200",887194,110.35,102.5,Combined Authority
+SP-0313,LA036,London Borough of Tower Hamlets,London,2022,Parks & Green Spaces,"£25,555,408",,5733292,96.33,122.4,City Deal
+SP-0314,LA036,London Borough of Tower Hamlets,London,2020,Waste Management,"£34,136,829",33719700,-417129,103.82,98.8,Local Authority Budget
+SP-0315,LA036,London Borough of Tower Hamlets,London,2020,Digital Infrastructure,12471863,11884600,-587263,36.59,95.3,Local Authority Budget
+SP-0316,LA036,London Borough of Tower Hamlets,LONDON,2019,Energy & Utilities,28988323,"£23,061,400",-5926923,71,79.6,Local Authority Budget
+SP-0317,LA037,London Borough of Newham,London,2021,Roads & Transport,31315461,"£29,065,500",-2249961,,,Central Government Grant
+SP-0318,LA037,London Borough of Newham,LONDON,2019,Housing & Planning,44196636,,1344564,118.6,103,Combined Authority
+SP-0319,LA037,London Borough of Newham,London,2023,Housing & Planning,7809934,"£6,786,700",-1023234,17.67,86.9,EU Structural Funds
+SP-0320,LA037,London Borough of Newham,London,2019,Flood & Drainage,32107930,31849300,-258630,82.94,99.2,Local Authority Budget
+SP-0321,LA037,London Borough of Newham,Greater London,2023,Parks & Green Spaces,"£17,561,532",23424600,,61,133.4,Central Government Grant
+SP-0322,LA037,London Borough of Newham,London,2020,Waste Management,20494029,16618400,-3875629,43.28,81.1,Mixed Funding
+SP-0323,LA037,London Borough of Newham,London,2021,Digital Infrastructure,"£25,571,951",34236800,8664849,89.16,133.9,Combined Authority
+SP-0324,LA037,London Borough of Newham,London,2020,Digital Infrastructure,25849347,23217100,-2632247,60.46,89.8,Local Authority Budget
+SP-0325,LA037,London Borough of Newham,London,2023,Energy & Utilities,29634073,,-9192173,53.23,69,Private Finance Initiative
+SP-0326,LA037,London Borough of Newham,London,2019,Energy & Utilities,21823663,,3109237,64.93,114.2,Private Finance Initiative
+SP-0327,LA038,London Borough of Islington,London ,2021,Roads & Transport,"£42,619,508",47876200,5256692,194.78,112.3,Mixed Funding
+SP-0328,LA038,London Borough of Islington,London,2023,Housing & Planning,6908926,5755300,-1153626,23.41,83.3,Local Authority Budget
+SP-0329,LA038,London Borough of Islington,London,2021,Flood & Drainage,38482308,44234300,5751992,179.96,,Mixed Funding
+SP-0330,LA038,London Borough of Islington,Greater London,2019,Parks & Green Spaces,16617382,15306900,-1310482,62.27,92.1,Mixed Funding
+SP-0331,LA038,London Borough of Islington,Greater London,2020,Waste Management,12628130,15760000,3131870,64.12,124.8,Combined Authority
+SP-0332,LA038,London Borough of Islington,London,2023,Digital Infrastructure,18989973,19183100,193127,78.04,101,Private Finance Initiative
+SP-0333,LA038,London Borough of Islington,Greater London,2019,Digital Infrastructure,"£25,631,286",,66114,104.55,100.3,Mixed Funding
+SP-0334,LA038,London Borough of Islington,London,2019,Energy & Utilities,36996973,26090000,-10906973,106.14,70.5,Combined Authority
+SP-0335,LA039,London Borough of Southwark,London,2021,Roads & Transport,10426415,8249000,-2177415,26.01,79.1,Central Government Grant
+SP-0336,LA039,London Borough of Southwark,London,2022,Housing & Planning,44674912,31873400,,100.48,71.3,EU Structural Funds
+SP-0337,LA039,London Borough of Southwark,Greater London,2019,Flood & Drainage,11347762,14912800,3565038,47.01,131.4,Combined Authority
+SP-0338,LA039,London Borough of Southwark,London,2022,Parks & Green Spaces,30126483,23694000,-6432483,74.7,78.6,Private Finance Initiative
+SP-0339,LA039,London Borough of Southwark,London,2020,Parks & Green Spaces,30941898,30062500,-879398,94.77,97.2,EU Structural Funds
+SP-0340,LA039,London Borough of Southwark,London,2021,Waste Management,26464178,,-4875878,68.06,81.6,City Deal
+SP-0341,LA039,London Borough of Southwark,London,2023,Digital Infrastructure,22358340,"£16,295,200",-6063140,51.37,,City Deal
+SP-0342,LA039,London Borough of Southwark,London,2019,Energy & Utilities,30103915,30286200,182285,95.48,100.6,Local Authority Budget
+SP-0343,LA039,London Borough of Southwark,London,2021,Energy & Utilities,40877650,"£37,262,600",-3615050,117.47,,Combined Authority
+SP-0344,LA040,London Borough of Lambeth,London,2021,Roads & Transport,5702207,3989000,-1713207,11.99,70,Mixed Funding
+SP-0345,LA040,London Borough of Lambeth,London,2021,Housing & Planning,"£20,226,111",20352700,126589,61.17,100.6,Private Finance Initiative
+SP-0346,LA040,London Borough of Lambeth,LONDON,2020,Housing & Planning,36168293,31186100,-4982193,93.74,86.2,Private Finance Initiative
+SP-0347,LA040,London Borough of Lambeth,London,2019,Flood & Drainage,14990668,11854500,,35.63,79.1,EU Structural Funds
+SP-0348,LA040,London Borough of Lambeth,London,2021,Parks & Green Spaces,33777075,"£30,549,600",-3227475,91.82,90.4,Private Finance Initiative
+SP-0349,LA040,London Borough of Lambeth,London,2022,Waste Management,15372752,18670000,3297248,56.12,121.4,Combined Authority
+SP-0350,LA040,London Borough of Lambeth,London,2021,Digital Infrastructure,39818031,34532800,-5285231,103.8,86.7,Levelling Up Fund
+SP-0351,LA040,London Borough of Lambeth,London,2020,Digital Infrastructure,13440318,13136100,-304218,39.48,97.7,Mixed Funding
+SP-0352,LA040,London Borough of Lambeth,London ,2021,Energy & Utilities,12180609,8183400,-3997209,24.6,,Mixed Funding
+SP-0353,LA041,London Borough of Lewisham,London,2023,Roads & Transport,7791040,5728200,-2062840,18.85,73.5,Private Finance Initiative
+SP-0354,LA041,London Borough of Lewisham,London,2019,Housing & Planning,43082013,"£34,361,300",-8720713,113.07,79.8,Mixed Funding
+SP-0355,LA041,London Borough of Lewisham,London,2022,Flood & Drainage,37568052,40664000,3095948,133.81,108.2,Mixed Funding
+SP-0356,LA041,London Borough of Lewisham,London,2020,Parks & Green Spaces,7369865,9867300,2497435,32.47,133.9,Combined Authority
+SP-0357,LA041,London Borough of Lewisham,London,2020,Waste Management,31470056,30994200,-475856,,98.5,Combined Authority
+SP-0358,LA041,London Borough of Lewisham,London,2020,Digital Infrastructure,26291881,"£27,051,900",760019,89.02,102.9,Private Finance Initiative
+SP-0359,LA041,London Borough of Lewisham,LONDON,2023,Energy & Utilities,28999117,29823800,824683,98.14,102.8,Mixed Funding
+SP-0360,LA042,London Borough of Greenwich,London ,2020,Roads & Transport,12112658,13072600,959942,,,Local Authority Budget
+SP-0361,LA042,London Borough of Greenwich,London,2019,Housing & Planning,18020404,15746800,-2273604,,87.4,EU Structural Funds
+SP-0362,LA042,London Borough of Greenwich,London,2023,Housing & Planning,"£17,962,427",,-2687127,52.51,85,City Deal
+SP-0363,LA042,London Borough of Greenwich,London,2019,Flood & Drainage,"£42,673,698",31962000,,109.87,74.9,Levelling Up Fund
+SP-0364,LA042,London Borough of Greenwich,Greater London,2020,Parks & Green Spaces,15835545,13214200,-2621345,45.43,83.4,Central Government Grant
+SP-0365,LA042,London Borough of Greenwich,London,2022,Waste Management,14046284,14899500,853216,51.22,106.1,Local Authority Budget
+SP-0366,LA042,London Borough of Greenwich,LONDON,2019,Digital Infrastructure,"£38,603,389",32455000,-6148389,111.57,84.1,Private Finance Initiative
+SP-0367,LA042,London Borough of Greenwich,London,2020,Energy & Utilities,27960048,26093900,,89.7,93.3,Combined Authority
+SP-0368,LA042,London Borough of Greenwich,London,2023,Energy & Utilities,27779140,19489300,-8289840,67,70.2,Local Authority Budget
+SP-0369,LA043,London Borough of Brent,London,2020,Roads & Transport,30100791,,-9070991,62.55,,Levelling Up Fund
+SP-0370,LA043,London Borough of Brent,London,2020,Housing & Planning,9502085,"£9,817,000",314915,29.2,103.3,Combined Authority
+SP-0371,LA043,London Borough of Brent,London,2021,Housing & Planning,8091856,,2586344,31.76,132,EU Structural Funds
+SP-0372,LA043,London Borough of Brent,London,2023,Flood & Drainage,8778547,10500800,1722253,31.23,119.6,Local Authority Budget
+SP-0373,LA043,London Borough of Brent,London,2019,Flood & Drainage,30897828,33314900,2417072,99.09,107.8,Combined Authority
+SP-0374,LA043,London Borough of Brent,London,2019,Parks & Green Spaces,25400113,20800300,-4599813,61.87,81.9,EU Structural Funds
+SP-0375,LA043,London Borough of Brent,London,2020,Parks & Green Spaces,44218379,58307300,14088921,173.43,131.9,Local Authority Budget
+SP-0376,LA043,London Borough of Brent,London,2019,Waste Management,9569161,6967500,-2601661,20.72,72.8,Central Government Grant
+SP-0377,LA043,London Borough of Brent,London,2021,Digital Infrastructure,9818773,10707200,888427,31.85,,Local Authority Budget
+SP-0378,LA043,London Borough of Brent,London,2021,Energy & Utilities,16658051,,-747251,47.33,95.5,Levelling Up Fund
+SP-0379,LA043,London Borough of Brent,London,2023,Energy & Utilities,20111246,"£26,689,000",,79.38,132.7,Local Authority Budget
+SP-0380,LA044,London Borough of Harrow,London,2021,Roads & Transport,"£32,487,114","£22,437,900",,89.68,69.1,EU Structural Funds
+SP-0381,LA044,London Borough of Harrow,Greater London,2023,Housing & Planning,22007648,29327300,7319652,117.22,133.3,Local Authority Budget
+SP-0382,LA044,London Borough of Harrow,London,2020,Flood & Drainage,16317839,"£21,811,300",5493461,87.18,133.7,Levelling Up Fund
+SP-0383,LA044,London Borough of Harrow,London,2019,Flood & Drainage,16288215,13185300,-3102915,52.7,80.9,EU Structural Funds
+SP-0384,LA044,London Borough of Harrow,London,2020,Parks & Green Spaces,17149453,"£20,787,100",3637647,83.08,121.2,Private Finance Initiative
+SP-0385,LA044,London Borough of Harrow,London,2021,Waste Management,39100973,29557500,-9543473,118.14,75.6,Combined Authority
+SP-0386,LA044,London Borough of Harrow,London,2021,Digital Infrastructure,25159605,30603600,5443995,122.32,121.6,Combined Authority
+SP-0387,LA044,London Borough of Harrow,London ,2022,Energy & Utilities,"£9,066,183",10324100,,41.26,113.9,Mixed Funding
+SP-0388,LA045,London Borough of Enfield,London,2022,Roads & Transport,36028673,35943200,-85473,107.66,99.8,EU Structural Funds
+SP-0389,LA045,London Borough of Enfield,London,2022,Housing & Planning,9828663,7262400,-2566263,21.75,,Private Finance Initiative
+SP-0390,LA045,London Borough of Enfield,London ,2020,Flood & Drainage,20728718,17335500,,,83.6,Levelling Up Fund
+SP-0391,LA045,London Borough of Enfield,London,2023,Flood & Drainage,16976768,"£18,352,900",1376132,54.97,108.1,Central Government Grant
+SP-0392,LA045,London Borough of Enfield,London,2022,Parks & Green Spaces,38927268,27674600,-11252668,82.89,71.1,Central Government Grant
+SP-0393,LA045,London Borough of Enfield,London,2022,Waste Management,33363427,,,121.23,121.3,EU Structural Funds
+SP-0394,LA045,London Borough of Enfield,London,2021,Digital Infrastructure,12913113,,-1527413,34.1,88.2,Mixed Funding
+SP-0395,LA045,London Borough of Enfield,London,2021,Energy & Utilities,26099478,21499800,,64.4,,Levelling Up Fund
+SP-0396,LA046,Royal Borough of Kingston upon Thames,London,2021,ROADS & TRANSPORT,40250420,40032700,-217720,227.72,99.5,Local Authority Budget
+SP-0397,LA046,Royal Borough of Kingston upon Thames,London,2020,Housing & Planning,"£20,212,760",25534300,5321540,145.25,126.3,Levelling Up Fund
+SP-0398,LA046,Royal Borough of Kingston upon Thames,London,2019,Flood & Drainage,35042378,30889600,-4152778,175.71,,Combined Authority
+SP-0399,LA046,Royal Borough of Kingston upon Thames,London,2020,Flood & Drainage,32213162,,5035438,,115.6,Combined Authority
+SP-0400,LA046,Royal Borough of Kingston upon Thames,London,2021,Parks & Green Spaces,28100894,29220600,1119706,166.22,104,Levelling Up Fund
+SP-0401,LA046,Royal Borough of Kingston upon Thames,London,2022,Parks & Green Spaces,40564177,51665000,11100823,293.89,127.4,EU Structural Funds
+SP-0402,LA046,Royal Borough of Kingston upon Thames,London,2021,Waste Management,44322297,51295600,,291.78,115.7,Combined Authority
+SP-0403,LA046,Royal Borough of Kingston upon Thames,London,2022,Waste Management,23027551,30908400,7880849,,134.2,Local Authority Budget
+SP-0404,LA046,Royal Borough of Kingston upon Thames,London,2019,Digital Infrastructure,11829896,"£8,421,200",-3408696,47.9,71.2,Levelling Up Fund
+SP-0405,LA046,Royal Borough of Kingston upon Thames,London,2022,Energy & Utilities,3946432,4074800,128368,,,Mixed Funding
+SP-0406,LA047,London Borough of Richmond upon Thames,London,2019,Roads & Transport,19300752,"£15,691,100",-3609652,79.13,81.3,Levelling Up Fund
+SP-0407,LA047,London Borough of Richmond upon Thames,London,2019,Housing & Planning,34844141,,4911059,200.48,114.1,Local Authority Budget
+SP-0408,LA047,London Borough of Richmond upon Thames,London,2023,Flood & Drainage,6547794,,-2284194,21.5,65.1,Private Finance Initiative
+SP-0409,LA047,London Borough of Richmond upon Thames,London,2021,Parks & Green Spaces,37239360,"£31,076,000",-6163360,156.71,83.4,Local Authority Budget
+SP-0410,LA047,London Borough of Richmond upon Thames,London,2020,Waste Management,28086822,35022000,6935178,176.61,124.7,Levelling Up Fund
+SP-0411,LA047,London Borough of Richmond upon Thames,London,2022,Waste Management,14516277,"£15,918,100",1401823,80.27,109.7,EU Structural Funds
+SP-0412,LA047,London Borough of Richmond upon Thames,LONDON,2021,Digital Infrastructure,"£15,117,635",19203800,,96.84,127,Local Authority Budget
+SP-0413,LA047,London Borough of Richmond upon Thames,London,2020,ENERGY & UTILITIES,36754212,42965300,6211088,216.67,116.9,Central Government Grant
+SP-0414,LA048,London Borough of Merton,London,2022,Roads & Transport,27305904,21644300,-5661604,104.61,79.3,Levelling Up Fund
+SP-0415,LA048,London Borough of Merton,London,2021,Housing & Planning,18526007,"£24,942,700",6416693,120.55,134.6,Central Government Grant
+SP-0416,LA048,London Borough of Merton,London,2022,Flood & Drainage,40802617,48288100,7485483,233.39,118.3,City Deal
+SP-0417,LA048,London Borough of Merton,Greater London,2022,Parks & Green Spaces,39407462,37581100,-1826362,181.64,,EU Structural Funds
+SP-0418,LA048,London Borough of Merton,Greater London,2023,Waste Management,26545551,"£35,351,900",8806349,170.86,133.2,City Deal
+SP-0419,LA048,London Borough of Merton,London,2019,Digital Infrastructure,38976677,49543700,,239.46,127.1,Mixed Funding
+SP-0420,LA048,London Borough of Merton,London,2020,Energy & Utilities,7181348,6029300,-1152048,29.14,84,City Deal
+SP-0421,LA049,Newcastle upon Tyne City Council,North East,2023,Roads & Transport,16448829,,4798371,70.16,,City Deal
+SP-0422,LA049,Newcastle upon Tyne City Council,North East,2023,Housing & Planning,43228667,57648000,14419333,190.37,133.4,Mixed Funding
+SP-0423,LA049,Newcastle upon Tyne City Council,NE England,2020,Flood & Drainage,32525970,37407200,4881230,123.53,115,Local Authority Budget
+SP-0424,LA049,Newcastle upon Tyne City Council,North East,2019,Parks & Green Spaces,12397230,11914100,-483130,39.34,96.1,Combined Authority
+SP-0425,LA049,Newcastle upon Tyne City Council,North East,2019,Waste Management,24764171,17193300,-7570871,56.78,69.4,Levelling Up Fund
+SP-0426,LA049,Newcastle upon Tyne City Council,North East,2021,Waste Management,11926927,13045500,1118573,43.08,109.4,Mixed Funding
+SP-0427,LA049,Newcastle upon Tyne City Council,North East,2020,Digital Infrastructure,29738185,34299200,4561015,113.27,115.3,Private Finance Initiative
+SP-0428,LA049,Newcastle upon Tyne City Council,North East,2020,Energy & Utilities,"£40,226,502","£31,198,600",-9027902,,,Levelling Up Fund
+SP-0429,LA050,Sunderland City Council,North East,2023,Roads & Transport,"£11,830,984",,2644316,50.14,122.4,Private Finance Initiative
+SP-0430,LA050,Sunderland City Council,North East,2021,Roads & Transport,"£3,812,528","£5,027,200",1214672,17.41,131.9,City Deal
+SP-0431,LA050,Sunderland City Council,North East,2023,Housing & Planning,36834955,44755600,,155.02,121.5,EU Structural Funds
+SP-0432,LA050,Sunderland City Council,North East,2020,Flood & Drainage,33929811,,247689,118.38,100.7,Central Government Grant
+SP-0433,LA050,Sunderland City Council,North East,2021,Parks & Green Spaces,5868586,5251800,-616786,18.19,89.5,Private Finance Initiative
+SP-0434,LA050,Sunderland City Council,North East,2019,Parks & Green Spaces,"£27,260,868",21019500,-6241368,72.81,77.1,Mixed Funding
+SP-0435,LA050,Sunderland City Council,North East,2019,Waste Management,43579403,35573500,-8005903,123.22,81.6,City Deal
+SP-0436,LA050,Sunderland City Council,North East,2022,Digital Infrastructure,2583277,3111200,527923,10.78,120.4,City Deal
+SP-0437,LA050,Sunderland City Council,North East,2019,Energy & Utilities,30674400,27000200,-3674200,93.52,88,City Deal
+SP-0438,LA051,Gateshead Metropolitan Borough Council,North East,2019,Roads & Transport,29489750,36911000,7421250,182.91,125.2,Levelling Up Fund
+SP-0439,LA051,Gateshead Metropolitan Borough Council,North East,2021,Housing & Planning,"£3,100,144",3517300,417156,17.43,113.5,Central Government Grant
+SP-0440,LA051,Gateshead Metropolitan Borough Council,North East,2022,Flood & Drainage,40442241,43358600,2916359,214.86,107.2,Combined Authority
+SP-0441,LA051,Gateshead Metropolitan Borough Council,North East,2023,Parks & Green Spaces,31239677,27076100,-4163577,134.17,86.7,Private Finance Initiative
+SP-0442,LA051,Gateshead Metropolitan Borough Council,North East,2019,Waste Management,10219763,7258500,-2961263,35.97,71,Levelling Up Fund
+SP-0443,LA051,Gateshead Metropolitan Borough Council,North East,2021,Waste Management,26648666,,790134,,103,EU Structural Funds
+SP-0444,LA051,Gateshead Metropolitan Borough Council,North East,2021,Digital Infrastructure,"£2,607,901",2534800,,12.56,97.2,EU Structural Funds
+SP-0445,LA051,Gateshead Metropolitan Borough Council,North East,2019,Digital Infrastructure,25798754,29328700,3529946,145.34,113.7,Combined Authority
+SP-0446,LA051,Gateshead Metropolitan Borough Council,North East,2023,Energy & Utilities,22359202,"£15,074,000",-7285202,74.7,,Local Authority Budget
+SP-0447,LA052,South Tyneside Metropolitan Borough Council,North East,2021,Roads & Transport,36323223,24774700,-11548523,167.28,68.2,Central Government Grant
+SP-0448,LA052,South Tyneside Metropolitan Borough Council,NE England,2020,Roads & Transport,39244306,30568800,-8675506,206.41,77.9,Local Authority Budget
+SP-0449,LA052,South Tyneside Metropolitan Borough Council,North East,2023,Housing & Planning,41181422,,-4066222,250.61,90.1,Mixed Funding
+SP-0450,LA052,South Tyneside Metropolitan Borough Council,North East,2021,Housing & Planning,9024086,10418200,1394114,70.35,115.4,Combined Authority
+SP-0451,LA052,South Tyneside Metropolitan Borough Council,North East,2019,Flood & Drainage,3723592,4292300,568708,28.98,115.3,Private Finance Initiative
+SP-0452,LA052,South Tyneside Metropolitan Borough Council,NE England,2021,Flood & Drainage,18811592,13469800,-5341792,,71.6,EU Structural Funds
+SP-0453,LA052,South Tyneside Metropolitan Borough Council,North East,2022,Parks & Green Spaces,13821359,"£11,080,300",,74.82,80.2,Local Authority Budget
+SP-0454,LA052,South Tyneside Metropolitan Borough Council,North East,2019,Parks & Green Spaces,3474072,"£4,316,300",842228,,124.2,Combined Authority
+SP-0455,LA052,South Tyneside Metropolitan Borough Council,North East,2021,Waste Management,9805038,8734000,-1071038,58.97,89.1,Central Government Grant
+SP-0456,LA052,South Tyneside Metropolitan Borough Council,North East,2020,Digital Infrastructure,41896051,35738100,-6157951,,85.3,EU Structural Funds
+SP-0457,LA052,South Tyneside Metropolitan Borough Council,North East,2023,Energy & Utilities,23636982,,1857918,172.15,107.9,Private Finance Initiative
+SP-0458,LA052,South Tyneside Metropolitan Borough Council,NE England,2019,Energy & Utilities,3489445,3639700,150255,24.58,104.3,Levelling Up Fund
+SP-0459,LA053,North Tyneside Metropolitan Borough Council,North East,2023,Roads & Transport,37733877,47904600,10170723,229.43,127,Private Finance Initiative
+SP-0460,LA053,North Tyneside Metropolitan Borough Council,North East,2023,Housing & Planning,26567991,,-8582691,86.14,67.7,City Deal
+SP-0461,LA053,North Tyneside Metropolitan Borough Council,North East,2020,Housing & Planning,3574872,,531528,19.67,114.9,Private Finance Initiative
+SP-0462,LA053,North Tyneside Metropolitan Borough Council,North East,2019,Flood & Drainage,36989421,33577500,-3411921,160.81,90.8,Combined Authority
+SP-0463,LA053,North Tyneside Metropolitan Borough Council,North East,2023,Flood & Drainage,30459512,25433300,-5026212,121.81,83.5,Levelling Up Fund
+SP-0464,LA053,North Tyneside Metropolitan Borough Council,North East,2021,Parks & Green Spaces,43891252,"£49,736,200",5844948,238.2,113.3,Central Government Grant
+SP-0465,LA053,North Tyneside Metropolitan Borough Council,North East ,2019,Waste Management,24291058,22077500,,105.74,90.9,Mixed Funding
+SP-0466,LA053,North Tyneside Metropolitan Borough Council,North East,2022,Digital Infrastructure,"£26,629,010","£26,961,400",332390,129.13,,Mixed Funding
+SP-0467,LA053,North Tyneside Metropolitan Borough Council,North East,2023,Energy & Utilities,31253191,,6223909,179.49,119.9,Local Authority Budget
+SP-0468,LA053,North Tyneside Metropolitan Borough Council,North East,2022,Energy & Utilities,42894374,,8595926,246.6,120,Central Government Grant
+SP-0469,LA054,Middlesbrough Council,North East ,2022,Roads & Transport,10485243,10349100,-136143,73.4,98.7,Local Authority Budget
+SP-0470,LA054,Middlesbrough Council,North East,2021,Roads & Transport,21415950,18990000,-2425950,134.68,88.7,Central Government Grant
+SP-0471,LA054,Middlesbrough Council,North East,2020,Housing & Planning,22277132,21755400,-521732,,97.7,Private Finance Initiative
+SP-0472,LA054,Middlesbrough Council,North East,2019,Flood & Drainage,30087018,,-6691118,165.93,77.8,Combined Authority
+SP-0473,LA054,Middlesbrough Council,North East ,2021,Parks & Green Spaces,37530816,31068600,-6462216,220.34,82.8,City Deal
+SP-0474,LA054,Middlesbrough Council,North East,2019,Parks & Green Spaces,9839990,7394300,-2445690,,75.1,Combined Authority
+SP-0475,LA054,Middlesbrough Council,NE England,2021,Waste Management,21279232,17053400,-4225832,120.95,,Private Finance Initiative
+SP-0476,LA054,Middlesbrough Council,North East,2020,Waste Management,"£14,859,946",18831900,3971954,133.56,126.7,EU Structural Funds
+SP-0477,LA054,Middlesbrough Council,North East,2023,Digital Infrastructure,"£33,315,706",36361600,3045894,,109.1,Combined Authority
+SP-0478,LA054,Middlesbrough Council,North East,2020,Digital Infrastructure,40377821,52065800,11687979,369.26,128.9,Mixed Funding
+SP-0479,LA054,Middlesbrough Council,North east,2019,Energy & Utilities,9526903,10340500,813597,73.34,108.5,Levelling Up Fund
+SP-0480,LA055,Hartlepool Borough Council,North East,2021,Roads & Transport,27050061,22540500,-4509561,245.01,83.3,Local Authority Budget
+SP-0481,LA055,Hartlepool Borough Council,NE England,2023,Housing & Planning,14552716,"£12,970,500",-1582216,140.98,89.1,Local Authority Budget
+SP-0482,LA055,Hartlepool Borough Council,North East ,2021,Flood & Drainage,25092554,21339800,,231.95,85,Levelling Up Fund
+SP-0483,LA055,Hartlepool Borough Council,North East ,2023,Parks & Green Spaces,21816710,19821900,-1994810,215.46,90.9,EU Structural Funds
+SP-0484,LA055,Hartlepool Borough Council,North East,2021,Waste Management,35219051,"£25,354,600",,275.59,72,EU Structural Funds
+SP-0485,LA055,Hartlepool Borough Council,NE England,2023,Digital Infrastructure,"£22,773,917",16930100,-5843817,184.02,74.3,Levelling Up Fund
+SP-0486,LA055,Hartlepool Borough Council,North East,2019,Energy & Utilities,39325802,,11398998,551.36,129,Combined Authority
+SP-0487,LA056,Stockton-on-Tees Borough Council,North East,2021,Roads & Transport,8467363,"£11,261,900",2794537,57.31,133,EU Structural Funds
+SP-0488,LA056,Stockton-on-Tees Borough Council,North East,2021,Housing & Planning,"£40,035,935",46530000,6494065,236.79,,Levelling Up Fund
+SP-0489,LA056,Stockton-on-Tees Borough Council,NE England,2020,Flood & Drainage,3668846,3242500,-426346,16.5,88.4,Private Finance Initiative
+SP-0490,LA056,Stockton-on-Tees Borough Council,NE England,2020,Parks & Green Spaces,21067044,"£14,345,700",-6721344,73.01,68.1,Central Government Grant
+SP-0491,LA056,Stockton-on-Tees Borough Council,North East,2022,Waste Management,12377508,8556900,,43.55,69.1,Private Finance Initiative
+SP-0492,LA056,Stockton-on-Tees Borough Council,North East,2021,Digital Infrastructure,37075213,40532800,3457587,206.27,109.3,Central Government Grant
+SP-0493,LA056,Stockton-on-Tees Borough Council,North East,2021,Energy & Utilities,3941959,4053300,111341,,102.8,Mixed Funding
+SP-0494,LA057,Darlington Borough Council,North East,2019,Roads & Transport,14382563,16415700,2033137,155.45,114.1,Combined Authority
+SP-0495,LA057,Darlington Borough Council,North East,2023,Housing & Planning,1441092,,-15692,13.5,98.9,Levelling Up Fund
+SP-0496,LA057,Darlington Borough Council,North East,2023,Flood & Drainage,"£8,867,814",9447500,579686,89.46,106.5,EU Structural Funds
+SP-0497,LA057,Darlington Borough Council,North East,2019,Flood & Drainage,22805595,,-7624595,143.76,66.6,Central Government Grant
+SP-0498,LA057,Darlington Borough Council,North East,2022,Parks & Green Spaces,27579352,35129800,7550448,332.67,,City Deal
+SP-0499,LA057,Darlington Borough Council,North East,2020,Waste Management,"£29,159,107",,-4050707,237.77,86.1,Private Finance Initiative
+SP-0500,LA057,Darlington Borough Council,North East,2021,Waste Management,"£21,813,553","£17,390,900",-4422653,164.69,79.7,Private Finance Initiative
+SP-0501,LA057,Darlington Borough Council,North East,2019,Digital Infrastructure,8580558,8393700,-186858,79.49,97.8,EU Structural Funds
+SP-0502,LA057,Darlington Borough Council,NE England,2023,Energy & Utilities,39992313,"£37,947,100",-2045213,,94.9,City Deal
+SP-0503,LA058,Durham County Council,North East,2020,Roads & Transport,20845059,24697100,,46.86,118.5,Private Finance Initiative
+SP-0504,LA058,Durham County Council,North East,2022,Roads & Transport,20108779,21865200,,41.49,108.7,Central Government Grant
+SP-0505,LA058,Durham County Council,North East,2023,Housing & Planning,38176401,36830800,-1345601,69.89,96.5,Mixed Funding
+SP-0506,LA058,Durham County Council,North East,2023,Flood & Drainage,31346835,"£34,594,200",3247365,65.64,110.4,Central Government Grant
+SP-0507,LA058,Durham County Council,North East,2020,Parks & Green Spaces,37032636,26188900,-10843736,49.69,,Combined Authority
+SP-0508,LA058,Durham County Council,North east,2019,Waste Management,15528981,11810200,-3718781,22.41,76.1,Private Finance Initiative
+SP-0509,LA058,Durham County Council,North East,2021,Waste Management,21945698,23575400,1629702,44.74,,EU Structural Funds
+SP-0510,LA058,Durham County Council,North East,2020,Digital Infrastructure,15651274,16456700,805426,31.23,105.1,Local Authority Budget
+SP-0511,LA058,Durham County Council,NE England,2023,Energy & Utilities,12963262,16985200,4021938,32.23,131,Levelling Up Fund
+SP-0512,LA059,Northumberland County Council,North East,2021,Roads & Transport,"£22,593,851",22717800,123949,70.86,100.5,Private Finance Initiative
+SP-0513,LA059,Northumberland County Council,NE England,2019,Housing & Planning,16706208,19245700,2539492,60.03,115.2,Mixed Funding
+SP-0514,LA059,Northumberland County Council,North East,2020,Housing & Planning,24729752,20755600,-3974152,64.74,83.9,Mixed Funding
+SP-0515,LA059,Northumberland County Council,North East,2021,Flood & Drainage,4518260,6095800,1577540,,134.9,Central Government Grant
+SP-0516,LA059,Northumberland County Council,North East,2023,Parks & Green Spaces,2817761,1923200,-894561,6,68.3,City Deal
+SP-0517,LA059,Northumberland County Council,North East ,2020,Waste Management,33200385,33292500,92115,103.84,100.3,EU Structural Funds
+SP-0518,LA059,Northumberland County Council,NE England,2022,Digital Infrastructure,41686054,28580500,-13105554,89.15,68.6,EU Structural Funds
+SP-0519,LA059,Northumberland County Council,North East,2023,Energy & Utilities,15825350,12621000,-3204350,39.37,79.8,Mixed Funding
+SP-0520,LA060,Redcar and Cleveland Borough Council,North East,2023,Roads & Transport,32317838,27802800,-4515038,205.64,86,Levelling Up Fund
+SP-0521,LA060,Redcar and Cleveland Borough Council,North East,2019,Housing & Planning,18310870,16788300,-1522570,124.17,91.7,Mixed Funding
+SP-0522,LA060,Redcar and Cleveland Borough Council,North East,2022,Flood & Drainage,9780316,11919900,2139584,88.16,121.9,Private Finance Initiative
+SP-0523,LA060,Redcar and Cleveland Borough Council,North East,2023,Parks & Green Spaces,6975032,,-2140632,35.76,69.3,Levelling Up Fund
+SP-0524,LA060,Redcar and Cleveland Borough Council,North East ,2020,Parks & Green Spaces,3020616,2485900,-534716,18.39,,Combined Authority
+SP-0525,LA060,Redcar and Cleveland Borough Council,North East,2022,Waste Management,21361727,,7256173,211.67,134,Private Finance Initiative
+SP-0526,LA060,Redcar and Cleveland Borough Council,North East,2021,Digital Infrastructure,13623325,16959700,3336375,125.44,124.5,Local Authority Budget
+SP-0527,LA060,Redcar and Cleveland Borough Council,North East,2020,Energy & Utilities,31462684,31818600,355916,235.34,101.1,Mixed Funding
+SP-0528,LA060,Redcar and Cleveland Borough Council,North east,2023,Energy & Utilities,14424002,,4516998,140.1,131.3,Private Finance Initiative
+SP-0529,LA061,Manchester City Council,NW England,2020,Roads & Transport,"£20,035,632",,291868,36.74,101.5,Combined Authority
+SP-0530,LA061,Manchester City Council,North West,2019,Housing & Planning,14398097,10582000,-3816097,19.13,73.5,City Deal
+SP-0531,LA061,Manchester City Council,North West,2019,Flood & Drainage,"£21,654,485","£15,355,800",-6298685,27.76,70.9,Private Finance Initiative
+SP-0532,LA061,Manchester City Council,North West,2022,Parks & Green Spaces,28025186,,6967514,63.25,124.9,Mixed Funding
+SP-0533,LA061,Manchester City Council,North west,2021,Waste Management,34587100,30958700,,55.96,89.5,Mixed Funding
+SP-0534,LA061,Manchester City Council,North West,2021,Digital Infrastructure,20869475,24053100,3183625,43.48,115.3,Central Government Grant
+SP-0535,LA061,Manchester City Council,North West,2019,Energy & Utilities,"£32,674,683","£34,179,300",1504617,61.78,104.6,Central Government Grant
+SP-0536,LA062,Liverpool City Council,North West,2022,Roads & Transport,2255289,2823900,568611,,125.2,Levelling Up Fund
+SP-0537,LA062,Liverpool City Council,North West,2022,Housing & Planning,"£44,156,966",28811600,-15345366,58.23,65.2,Mixed Funding
+SP-0538,LA062,Liverpool City Council,North West ,2020,Housing & Planning,"£5,952,013",,1466687,14.99,124.6,Private Finance Initiative
+SP-0539,LA062,Liverpool City Council,North West,2023,Flood & Drainage,"£20,032,434",25824200,5791766,52.19,128.9,City Deal
+SP-0540,LA062,Liverpool City Council,North West,2020,Parks & Green Spaces,23792398,,-3982798,40.03,83.3,Private Finance Initiative
+SP-0541,LA062,Liverpool City Council,North West,2021,Waste Management,"£895,360",766900,-128460,,85.6,Central Government Grant
+SP-0542,LA062,Liverpool City Council,North West,2019,Digital Infrastructure,36480346,36703400,223054,74.18,100.6,Levelling Up Fund
+SP-0543,LA062,Liverpool City Council,North West,2022,Digital Infrastructure,44182407,31565700,,63.79,71.4,Local Authority Budget
+SP-0544,LA062,Liverpool City Council,North West,2022,Energy & Utilities,22480887,26705100,4224213,53.97,118.8,Levelling Up Fund
+SP-0545,LA063,Salford City Council,North West,2020,Roads & Transport,10705975,8383200,-2322775,,78.3,Central Government Grant
+SP-0546,LA063,Salford City Council,North West,2022,Roads & Transport,31594434,31797900,203466,,100.6,Mixed Funding
+SP-0547,LA063,Salford City Council,North West,2023,Housing & Planning,3514234,3307200,-207034,12.63,94.1,Local Authority Budget
+SP-0548,LA063,Salford City Council,North West,2021,Flood & Drainage,"£12,045,309",12195400,150091,46.57,101.2,Private Finance Initiative
+SP-0549,LA063,Salford City Council,North west,2019,Parks & Green Spaces,35146723,46888500,11741777,179.03,133.4,Central Government Grant
+SP-0550,LA063,Salford City Council,North West,2020,Waste Management,"£7,226,721",8986600,1759879,,124.4,Private Finance Initiative
+SP-0551,LA063,Salford City Council,North West,2021,Waste Management,33601403,"£27,987,000",-5614403,106.86,,EU Structural Funds
+SP-0552,LA063,Salford City Council,North West,2020,Digital Infrastructure,34627122,"£25,979,100",-8648022,,75,Local Authority Budget
+SP-0553,LA063,Salford City Council,North West,2019,Digital Infrastructure,18900487,21263300,2362813,81.19,112.5,Levelling Up Fund
+SP-0554,LA063,Salford City Council,North West ,2022,Energy & Utilities,39104017,"£25,569,200",-13534817,97.63,65.4,City Deal
+SP-0555,LA064,Oldham Metropolitan Borough Council,NW England,2021,Roads & Transport,"£3,450,051","£4,224,400",774349,17.82,122.4,Private Finance Initiative
+SP-0556,LA064,Oldham Metropolitan Borough Council,North West,2020,Roads & Transport,38942239,52475900,13533661,221.42,134.8,City Deal
+SP-0557,LA064,Oldham Metropolitan Borough Council,North West,2023,Housing & Planning,"£31,209,387",20964400,-10244987,88.46,67.2,City Deal
+SP-0558,LA064,Oldham Metropolitan Borough Council,North West,2021,Flood & Drainage,"£19,535,238",,1043762,86.83,105.3,Combined Authority
+SP-0559,LA064,Oldham Metropolitan Borough Council,North West,2022,Parks & Green Spaces,5114450,,704150,,113.8,Levelling Up Fund
+SP-0560,LA064,Oldham Metropolitan Borough Council,North West,2023,Waste Management,23887570,31397800,,,131.4,Private Finance Initiative
+SP-0561,LA064,Oldham Metropolitan Borough Council,North West,2022,Waste Management,39813607,50729300,10915693,214.05,127.4,Private Finance Initiative
+SP-0562,LA064,Oldham Metropolitan Borough Council,North West,2019,Digital Infrastructure,"£35,056,011",31493000,-3563011,132.88,89.8,Central Government Grant
+SP-0563,LA064,Oldham Metropolitan Borough Council,North West,2021,Energy & Utilities,43408414,40499900,,170.89,93.3,City Deal
+SP-0564,LA064,Oldham Metropolitan Borough Council,North West,2019,Energy & Utilities,11453114,"£12,018,600",565486,50.71,104.9,Local Authority Budget
+SP-0565,LA065,Rochdale Metropolitan Borough Council,North West,2022,Roads & Transport,23875116,18490800,-5384316,83.67,77.4,Levelling Up Fund
+SP-0566,LA065,Rochdale Metropolitan Borough Council,North West,2021,Housing & Planning,19875804,17987800,-1888004,81.39,90.5,Mixed Funding
+SP-0567,LA065,Rochdale Metropolitan Borough Council,North West,2022,Flood & Drainage,35882330,46989900,,212.62,131,Combined Authority
+SP-0568,LA065,Rochdale Metropolitan Borough Council,North West,2019,Parks & Green Spaces,5022934,"£6,133,600",,27.75,,Levelling Up Fund
+SP-0569,LA065,Rochdale Metropolitan Borough Council,North West,2022,Parks & Green Spaces,"£9,387,539",11778600,2391061,53.3,125.5,Mixed Funding
+SP-0570,LA065,Rochdale Metropolitan Borough Council,North West,2023,Waste Management,2148927,2021100,-127827,,94.1,Combined Authority
+SP-0571,LA065,Rochdale Metropolitan Borough Council,North West,2022,Digital Infrastructure,11906589,14213000,2306411,64.31,119.4,Mixed Funding
+SP-0572,LA065,Rochdale Metropolitan Borough Council,North West,2023,Energy & Utilities,27172390,31848500,4676110,144.11,117.2,Levelling Up Fund
+SP-0573,LA066,Stockport Metropolitan Borough Council,North West ,2020,Roads & Transport,7637023,5134000,-2503023,17.51,67.2,EU Structural Funds
+SP-0574,LA066,Stockport Metropolitan Borough Council,North West,2023,Housing & Planning,34443709,35964800,1521091,122.66,104.4,Central Government Grant
+SP-0575,LA066,Stockport Metropolitan Borough Council,North West,2022,Flood & Drainage,15612502,10614600,-4997902,,68,Combined Authority
+SP-0576,LA066,Stockport Metropolitan Borough Council,North west,2020,Flood & Drainage,28330422,"£21,235,600",-7094822,72.43,75,City Deal
+SP-0577,LA066,Stockport Metropolitan Borough Council,North West,2023,Parks & Green Spaces,36472998,31352200,-5120798,106.93,86,Mixed Funding
+SP-0578,LA066,Stockport Metropolitan Borough Council,North West,2021,Waste Management,12977822,15515000,2537178,52.92,119.6,Mixed Funding
+SP-0579,LA066,Stockport Metropolitan Borough Council,North West,2023,Waste Management,37451132,32187800,-5263332,109.78,85.9,Combined Authority
+SP-0580,LA066,Stockport Metropolitan Borough Council,North West,2020,Digital Infrastructure,31741458,,4490242,123.57,114.1,Private Finance Initiative
+SP-0581,LA066,Stockport Metropolitan Borough Council,NW England,2023,Energy & Utilities,33028462,,-3035162,102.3,90.8,EU Structural Funds
+SP-0582,LA066,Stockport Metropolitan Borough Council,North West,2020,Energy & Utilities,15092574,,-840174,48.61,94.4,Mixed Funding
+SP-0583,LA067,Tameside Metropolitan Borough Council,North West ,2023,Roads & Transport,"£4,005,862",4108200,102338,18.2,,City Deal
+SP-0584,LA067,Tameside Metropolitan Borough Council,North West,2019,Roads & Transport,2438407,2750000,311593,12.18,112.8,Local Authority Budget
+SP-0585,LA067,Tameside Metropolitan Borough Council,North West,2023,Housing & Planning,13666599,9403200,-4263399,41.66,68.8,City Deal
+SP-0586,LA067,Tameside Metropolitan Borough Council,North West,2019,Flood & Drainage,"£11,024,334",12563200,1538866,55.66,114,Mixed Funding
+SP-0587,LA067,Tameside Metropolitan Borough Council,NW England,2021,Flood & Drainage,26459636,31537200,5077564,139.73,119.2,Private Finance Initiative
+SP-0588,LA067,Tameside Metropolitan Borough Council,North west,2020,Parks & Green Spaces,41553162,28619600,-12933562,126.8,,EU Structural Funds
+SP-0589,LA067,Tameside Metropolitan Borough Council,North West,2022,Waste Management,26808176,20396700,-6411476,90.37,76.1,City Deal
+SP-0590,LA067,Tameside Metropolitan Borough Council,North West,2023,Digital Infrastructure,33140381,35101500,1961119,155.52,105.9,Combined Authority
+SP-0591,LA067,Tameside Metropolitan Borough Council,North West,2023,Energy & Utilities,11730509,9279700,-2450809,,79.1,EU Structural Funds
+SP-0592,LA068,Trafford Metropolitan Borough Council,North West,2022,Roads & Transport,"£5,808,374","£7,387,200",1578826,31.12,127.2,Mixed Funding
+SP-0593,LA068,Trafford Metropolitan Borough Council,North West,2021,Housing & Planning,28962185,,5958615,147.1,,Mixed Funding
+SP-0594,LA068,Trafford Metropolitan Borough Council,North West,2020,Housing & Planning,22743036,,6565364,123.46,128.9,Local Authority Budget
+SP-0595,LA068,Trafford Metropolitan Borough Council,North west,2020,Flood & Drainage,8346618,"£6,519,500",-1827118,,78.1,EU Structural Funds
+SP-0596,LA068,Trafford Metropolitan Borough Council,NW England,2023,Parks & Green Spaces,26154250,28154800,2000550,118.6,107.6,Local Authority Budget
+SP-0597,LA068,Trafford Metropolitan Borough Council,North West,2023,Waste Management,8528895,"£5,931,900",-2596995,24.99,69.6,Combined Authority
+SP-0598,LA068,Trafford Metropolitan Borough Council,North West,2019,Digital Infrastructure,39116615,,2441385,175.05,106.2,Local Authority Budget
+SP-0599,LA068,Trafford Metropolitan Borough Council,North West,2022,Digital Infrastructure,9181389,,1702211,45.84,118.5,City Deal
+SP-0600,LA068,Trafford Metropolitan Borough Council,North West,2019,Energy & Utilities,7213305,6897100,-316205,29.05,95.6,Levelling Up Fund
+SP-0601,LA069,Wigan Metropolitan Borough Council,North West ,2020,Roads & Transport,31192386,23998000,,73.12,76.9,Local Authority Budget
+SP-0602,LA069,Wigan Metropolitan Borough Council,North West,2022,Housing & Planning,31827119,26238500,-5588619,79.95,82.4,Levelling Up Fund
+SP-0603,LA069,Wigan Metropolitan Borough Council,North west,2021,Flood & Drainage,18591077,22995400,4404323,70.07,123.7,Levelling Up Fund
+SP-0604,LA069,Wigan Metropolitan Borough Council,North West,2023,Parks & Green Spaces,7039944,,-1227244,,,Local Authority Budget
+SP-0605,LA069,Wigan Metropolitan Borough Council,North West ,2021,Waste Management,"£44,954,687",38665300,-6289387,117.81,86,EU Structural Funds
+SP-0606,LA069,Wigan Metropolitan Borough Council,NW England,2022,Waste Management,5054883,6158100,1103217,18.76,121.8,Levelling Up Fund
+SP-0607,LA069,Wigan Metropolitan Borough Council,North west,2019,Digital Infrastructure,12151960,11983900,-168060,36.51,98.6,Mixed Funding
+SP-0608,LA069,Wigan Metropolitan Borough Council,North West,2021,Energy & Utilities,24054789,"£29,302,500",5247711,89.28,121.8,Local Authority Budget
+SP-0609,LA070,Bolton Metropolitan Borough Council,North West,2020,Roads & Transport,40126914,30986100,-9140814,105.14,77.2,Mixed Funding
+SP-0610,LA070,Bolton Metropolitan Borough Council,North West,2020,Housing & Planning,8363746,,,30.56,107.7,Combined Authority
+SP-0611,LA070,Bolton Metropolitan Borough Council,North West,2023,Housing & Planning,33517065,33583100,66035,113.96,100.2,City Deal
+SP-0612,LA070,Bolton Metropolitan Borough Council,North West,2022,Flood & Drainage,3897455,4024400,126945,13.66,103.3,Central Government Grant
+SP-0613,LA070,Bolton Metropolitan Borough Council,North West,2021,Parks & Green Spaces,"£10,683,815","£11,702,800",1018985,39.71,109.5,Local Authority Budget
+SP-0614,LA070,Bolton Metropolitan Borough Council,North West,2019,Parks & Green Spaces,28656494,26239600,-2416894,89.04,91.6,Combined Authority
+SP-0615,LA070,Bolton Metropolitan Borough Council,North West,2020,Waste Management,9337585,10698100,,36.3,114.6,Combined Authority
+SP-0616,LA070,Bolton Metropolitan Borough Council,North West,2021,Digital Infrastructure,27889283,19249800,-8639483,65.32,69,EU Structural Funds
+SP-0617,LA070,Bolton Metropolitan Borough Council,North West,2021,Energy & Utilities,44058301,44801800,743499,152.03,101.7,Levelling Up Fund
+SP-0618,LA071,Bury Metropolitan Borough Council,North West,2023,Roads & Transport,14520030,14788700,268670,77.67,101.9,Mixed Funding
+SP-0619,LA071,Bury Metropolitan Borough Council,North West,2023,Housing & Planning,16965641,,-1856141,79.36,89.1,Levelling Up Fund
+SP-0620,LA071,Bury Metropolitan Borough Council,NW England,2022,Flood & Drainage,26281388,23075800,-3205588,,87.8,Local Authority Budget
+SP-0621,LA071,Bury Metropolitan Borough Council,North West,2020,Parks & Green Spaces,22628027,"£18,165,500",-4462527,95.41,80.3,Private Finance Initiative
+SP-0622,LA071,Bury Metropolitan Borough Council,North West,2019,Waste Management,37518324,32410400,-5107924,170.22,86.4,EU Structural Funds
+SP-0623,LA071,Bury Metropolitan Borough Council,North West,2022,Digital Infrastructure,19570955,,110845,103.37,,Combined Authority
+SP-0624,LA071,Bury Metropolitan Borough Council,North West,2020,Energy & Utilities,10211378,9724100,-487278,51.07,95.2,Private Finance Initiative
+SP-0625,LA072,Preston City Council,North West,2022,Roads & Transport,23912474,,7345026,220.43,130.7,Levelling Up Fund
+SP-0626,LA072,Preston City Council,North West,2021,Housing & Planning,16166157,,-2648457,95.33,83.6,Private Finance Initiative
+SP-0627,LA072,Preston City Council,North West,2020,Flood & Drainage,36450239,25923300,-10526939,182.82,71.1,Levelling Up Fund
+SP-0628,LA072,Preston City Council,North West ,2021,Parks & Green Spaces,44541042,,13010558,405.86,129.2,EU Structural Funds
+SP-0629,LA072,Preston City Council,North West,2023,Waste Management,37547569,31089600,-6457969,219.25,82.8,Combined Authority
+SP-0630,LA072,Preston City Council,North West,2019,digital infrastructure,6756971,"£8,270,100",1513129,58.32,122.4,Central Government Grant
+SP-0631,LA072,Preston City Council,North West,2020,Energy & Utilities,34683385,29333900,-5349485,206.87,84.6,City Deal
+SP-0632,LA073,Blackpool Borough Council,North West,2023,Roads & Transport,3769270,,,,131.1,Levelling Up Fund
+SP-0633,LA073,Blackpool Borough Council,North West ,2020,Housing & Planning,"£32,055,807",27986300,-4069507,189.35,87.3,Mixed Funding
+SP-0634,LA073,Blackpool Borough Council,North West,2019,Flood & Drainage,12689826,9538300,-3151526,64.54,75.2,City Deal
+SP-0635,LA073,Blackpool Borough Council,North West,2022,Flood & Drainage,6860876,6279000,-581876,42.48,,Central Government Grant
+SP-0636,LA073,Blackpool Borough Council,North West,2020,Parks & Green Spaces,"£34,444,735",24648600,-9796135,166.77,71.6,EU Structural Funds
+SP-0637,LA073,Blackpool Borough Council,North West,2021,Waste Management,"£16,843,893","£17,391,300",547407,,103.2,EU Structural Funds
+SP-0638,LA073,Blackpool Borough Council,North West,2020,Digital Infrastructure,8771631,10525700,1754069,71.22,120,Mixed Funding
+SP-0639,LA073,Blackpool Borough Council,North West,2020,Energy & Utilities,31993174,"£35,038,600",3045426,237.07,109.5,Local Authority Budget
+SP-0640,LA074,Blackburn with Darwen Borough Council,North West,2023,Roads & Transport,34151202,29959400,-4191802,200.4,,Levelling Up Fund
+SP-0641,LA074,Blackburn with Darwen Borough Council,North west,2019,Housing & Planning,2136816,2275200,,15.22,106.5,Local Authority Budget
+SP-0642,LA074,Blackburn with Darwen Borough Council,North West,2021,Flood & Drainage,4434485,5054700,620215,33.81,114,Levelling Up Fund
+SP-0643,LA074,Blackburn with Darwen Borough Council,North West,2022,Flood & Drainage,1662640,"£2,060,200",,13.78,123.9,City Deal
+SP-0644,LA074,Blackburn with Darwen Borough Council,North West,2022,Parks & Green Spaces,17986524,,-3681324,95.69,79.5,Mixed Funding
+SP-0645,LA074,Blackburn with Darwen Borough Council,NW England,2020,Waste Management,8435332,"£7,697,300",-738032,51.49,91.3,Combined Authority
+SP-0646,LA074,Blackburn with Darwen Borough Council,North West ,2022,Digital Infrastructure,22155884,,,150.78,101.7,Central Government Grant
+SP-0647,LA074,Blackburn with Darwen Borough Council,North West,2022,Energy & Utilities,30170643,29516900,,197.44,97.8,Local Authority Budget
+SP-0648,LA075,Burnley Borough Council,North West,2023,Roads & Transport,33023736,23658300,-9365436,,71.6,Mixed Funding
+SP-0649,LA075,Burnley Borough Council,North West,2019,Housing & Planning,"£35,290,339",43066000,7775661,,122,Levelling Up Fund
+SP-0650,LA075,Burnley Borough Council,North West,2020,Flood & Drainage,"£24,115,331",19477000,-4638331,207.87,80.8,Levelling Up Fund
+SP-0651,LA075,Burnley Borough Council,NW England,2019,Flood & Drainage,"£20,656,242",20083000,-573242,214.33,97.2,Local Authority Budget
+SP-0652,LA075,Burnley Borough Council,North West,2019,Parks & Green Spaces,16684035,"£14,141,400",-2542635,150.92,84.8,Combined Authority
+SP-0653,LA075,Burnley Borough Council,North West,2021,Parks & Green Spaces,44904450,42792600,-2111850,456.7,95.3,Levelling Up Fund
+SP-0654,LA075,Burnley Borough Council,NW England,2022,Waste Management,9578894,10201000,,108.87,106.5,Local Authority Budget
+SP-0655,LA075,Burnley Borough Council,North west,2020,Digital Infrastructure,38607359,51291700,12684341,,132.9,City Deal
+SP-0656,LA075,Burnley Borough Council,North West,2019,Digital Infrastructure,979547,"£1,125,500",145953,12.01,,Private Finance Initiative
+SP-0657,LA075,Burnley Borough Council,North West,2020,Energy & Utilities,1769338,2227300,457962,23.77,125.9,Local Authority Budget
+SP-0658,LA075,Burnley Borough Council,North West,2019,Energy & Utilities,35039222,"£42,449,600",7410378,453.04,,Mixed Funding
+SP-0659,LA076,Lancaster City Council,North West,2023,Roads & Transport,18422019,,-2178319,115.61,88.2,Combined Authority
+SP-0660,LA076,Lancaster City Council,North West,2021,Roads & Transport,"£10,471,258",,1515942,85.32,114.5,Combined Authority
+SP-0661,LA076,Lancaster City Council,North West,2021,Housing & Planning,22692899,18813900,-3878999,133.91,82.9,Central Government Grant
+SP-0662,LA076,Lancaster City Council,North West,2019,Flood & Drainage,29366412,26555600,-2810812,,90.4,Mixed Funding
+SP-0663,LA076,Lancaster City Council,North West,2020,Flood & Drainage,"£41,533,305","£45,652,300",4118995,324.93,109.9,EU Structural Funds
+SP-0664,LA076,Lancaster City Council,North West,2022,Parks & Green Spaces,8177006,9372900,1195894,66.71,114.6,Central Government Grant
+SP-0665,LA076,Lancaster City Council,North West,2021,Parks & Green Spaces,23090886,29326300,6235414,208.73,127,Combined Authority
+SP-0666,LA076,Lancaster City Council,NW England,2022,Waste Management,"£28,545,517",31248100,2702583,222.41,109.5,Central Government Grant
+SP-0667,LA076,Lancaster City Council,North West,2021,Digital Infrastructure,"£23,570,041",,-7665341,,67.5,Mixed Funding
+SP-0668,LA076,Lancaster City Council,North West,2022,Energy & Utilities,38129166,50981000,12851834,362.85,,Mixed Funding
+SP-0669,LA077,Brighton and Hove City Council,South East ,2023,Roads & Transport,11532404,,2090696,46.91,118.1,Mixed Funding
+SP-0670,LA077,Brighton and Hove City Council,South East,2022,Roads & Transport,24528344,22370800,-2157544,77.04,91.2,City Deal
+SP-0671,LA077,Brighton and Hove City Council,South East,2021,Housing & Planning,20698837,27748700,,,134.1,Combined Authority
+SP-0672,LA077,Brighton and Hove City Council,South East,2022,Flood & Drainage,32178288,31507700,-670588,108.5,97.9,Private Finance Initiative
+SP-0673,LA077,Brighton and Hove City Council,South East,2023,Parks & Green Spaces,44909765,39656300,-5253465,136.56,88.3,Mixed Funding
+SP-0674,LA077,Brighton and Hove City Council,South East,2019,Parks & Green Spaces,42032264,55574800,13542536,191.38,132.2,City Deal
+SP-0675,LA077,Brighton and Hove City Council,South East,2019,Waste Management,16710041,"£15,987,900",-722141,55.06,,Levelling Up Fund
+SP-0676,LA077,Brighton and Hove City Council,South East,2022,Digital Infrastructure,21587607,27519400,5931793,94.77,127.5,Levelling Up Fund
+SP-0677,LA077,Brighton and Hove City Council,South East,2021,Digital Infrastructure,18526907,,5521393,82.81,129.8,Levelling Up Fund
+SP-0678,LA077,Brighton and Hove City Council,SE England,2020,Energy & Utilities,21147594,24749200,3601606,85.23,117,Combined Authority
+SP-0679,LA078,Southampton City Council,South East,2022,Roads & Transport,8739992,10321700,1581708,40.96,118.1,Private Finance Initiative
+SP-0680,LA078,Southampton City Council,South East,2023,Roads & Transport,6520840,,-711140,23.05,89.1,Combined Authority
+SP-0681,LA078,Southampton City Council,SE England,2019,Housing & Planning,40809176,30524400,-10284776,121.13,74.8,EU Structural Funds
+SP-0682,LA078,Southampton City Council,South East,2019,Flood & Drainage,"£41,778,838","£46,145,900",4367062,183.12,110.5,EU Structural Funds
+SP-0683,LA078,Southampton City Council,South East,2022,Parks & Green Spaces,12658313,15152000,2493687,60.13,119.7,Levelling Up Fund
+SP-0684,LA078,Southampton City Council,SE England,2021,Waste Management,8367540,8426100,58560,33.44,100.7,EU Structural Funds
+SP-0685,LA078,Southampton City Council,South East ,2022,Digital Infrastructure,35604186,25307200,-10296986,100.43,,Mixed Funding
+SP-0686,LA078,Southampton City Council,South East,2021,Digital Infrastructure,10840237,13688200,2847963,54.32,126.3,Private Finance Initiative
+SP-0687,LA078,Southampton City Council,South East,2022,Energy & Utilities,20809107,,-6381507,57.25,,Mixed Funding
+SP-0688,LA079,Portsmouth City Council,South East,2023,Roads & Transport,10255423,7116300,-3139123,,,Levelling Up Fund
+SP-0689,LA079,Portsmouth City Council,South East ,2023,Housing & Planning,29664793,27465200,-2199593,,92.6,Local Authority Budget
+SP-0690,LA079,Portsmouth City Council,South East,2022,Housing & Planning,42620185,40433300,-2186885,189.12,,Levelling Up Fund
+SP-0691,LA079,Portsmouth City Council,South east,2020,Flood & Drainage,23601286,"£17,678,000",-5923286,82.68,74.9,EU Structural Funds
+SP-0692,LA079,Portsmouth City Council,South East,2019,Parks & Green Spaces,20162632,15086300,-5076332,70.56,,Combined Authority
+SP-0693,LA079,Portsmouth City Council,South east,2023,Parks & Green Spaces,17157309,17271900,114591,80.79,100.7,Local Authority Budget
+SP-0694,LA079,Portsmouth City Council,South East,2019,Waste Management,40757203,26843900,-13913303,125.56,65.9,Local Authority Budget
+SP-0695,LA079,Portsmouth City Council,South East,2023,Waste Management,26882483,32033400,,149.83,119.2,City Deal
+SP-0696,LA079,Portsmouth City Council,South East,2021,Digital Infrastructure,20346027,22168000,1821973,103.69,109,EU Structural Funds
+SP-0697,LA079,Portsmouth City Council,South East,2023,Energy & Utilities,17271510,"£22,250,700",4979190,104.07,128.8,Central Government Grant
+SP-0698,LA080,Reading Borough Council,SE England,2021,Roads & Transport,37583063,43404800,5821737,257.75,115.5,EU Structural Funds
+SP-0699,LA080,Reading Borough Council,South East,2022,Housing & Planning,"£33,230,622","£25,822,100",-7408522,153.34,77.7,Mixed Funding
+SP-0700,LA080,Reading Borough Council,South East,2020,Housing & Planning,25496250,28186000,2689750,167.38,,Mixed Funding
+SP-0701,LA080,Reading Borough Council,South East,2023,Flood & Drainage,33735795,45106500,11370705,,133.7,Private Finance Initiative
+SP-0702,LA080,Reading Borough Council,South East,2020,Flood & Drainage,9171236,8708700,-462536,,95,Levelling Up Fund
+SP-0703,LA080,Reading Borough Council,South East,2022,Parks & Green Spaces,29990629,"£27,216,800",-2773829,161.62,90.8,Levelling Up Fund
+SP-0704,LA080,Reading Borough Council,South East,2023,Waste Management,31583183,28592900,-2990283,169.79,90.5,City Deal
+SP-0705,LA080,Reading Borough Council,South East,2022,Digital Infrastructure,17086433,21116500,4030067,125.39,123.6,Private Finance Initiative
+SP-0706,LA080,Reading Borough Council,South East,2022,Energy & Utilities,20227741,17392000,-2835741,103.28,86,Mixed Funding
+SP-0707,LA081,Slough Borough Council,SE England,2022,Roads & Transport,3310088,2474100,-835988,16.98,74.7,Local Authority Budget
+SP-0708,LA081,Slough Borough Council,South East,2019,Housing & Planning,23606517,18633800,-4972717,127.89,78.9,Local Authority Budget
+SP-0709,LA081,Slough Borough Council,South East,2021,Housing & Planning,9155776,10116700,960924,,110.5,Central Government Grant
+SP-0710,LA081,Slough Borough Council,South East,2023,Flood & Drainage,"£27,842,128",24502600,,168.17,88,Levelling Up Fund
+SP-0711,LA081,Slough Borough Council,South East,2023,Parks & Green Spaces,21818225,"£14,427,700",-7390525,99.02,66.1,Combined Authority
+SP-0712,LA081,Slough Borough Council,South East,2019,Parks & Green Spaces,39053266,32740000,-6313266,224.71,,Local Authority Budget
+SP-0713,LA081,Slough Borough Council,South East,2019,Waste Management,9247369,11803200,2555831,81.01,127.6,EU Structural Funds
+SP-0714,LA081,Slough Borough Council,SE England,2023,Digital Infrastructure,31608534,27344300,-4264234,187.68,86.5,Private Finance Initiative
+SP-0715,LA081,Slough Borough Council,South East,2019,Energy & Utilities,"£33,443,932",,10761668,303.4,132.2,EU Structural Funds
+SP-0716,LA081,Slough Borough Council,South East,2021,energy & utilities,5853946,7803800,1949854,53.56,133.3,Combined Authority
+SP-0717,LA082,Milton Keynes Council,South East,2021,ROADS & TRANSPORT,3010222,2146500,-863722,7.81,71.3,City Deal
+SP-0718,LA082,Milton Keynes Council,South East,2022,Housing & Planning,"£14,380,999",11700900,-2680099,42.58,81.4,Levelling Up Fund
+SP-0719,LA082,Milton Keynes Council,South East ,2023,Flood & Drainage,34764649,40537400,5772751,147.52,116.6,Central Government Grant
+SP-0720,LA082,Milton Keynes Council,South East,2022,Parks & Green Spaces,35431020,36632300,1201280,,103.4,Local Authority Budget
+SP-0721,LA082,Milton Keynes Council,South East,2021,Parks & Green Spaces,23782288,28872200,5089912,105.07,121.4,Central Government Grant
+SP-0722,LA082,Milton Keynes Council,South East,2022,Waste Management,36012361,35769100,-243261,,99.3,Levelling Up Fund
+SP-0723,LA082,Milton Keynes Council,South East,2020,Digital Infrastructure,26964955,,9173545,131.51,134,Mixed Funding
+SP-0724,LA082,Milton Keynes Council,South East,2019,Digital Infrastructure,30353047,"£31,824,400",,115.81,104.8,EU Structural Funds
+SP-0725,LA082,Milton Keynes Council,South East,2022,Energy & Utilities,38043429,45415200,7371771,165.27,119.4,Levelling Up Fund
+SP-0726,LA083,Oxford City Council,South East,2023,Roads & Transport,40119113,49818900,9699787,326.79,124.2,Combined Authority
+SP-0727,LA083,Oxford City Council,South East,2019,Roads & Transport,3576296,,-715596,18.76,80,EU Structural Funds
+SP-0728,LA083,Oxford City Council,South East,2021,Housing & Planning,7834482,5508100,-2326382,,70.3,Local Authority Budget
+SP-0729,LA083,Oxford City Council,South East,2019,Flood & Drainage,13226063,,,90.51,104.3,EU Structural Funds
+SP-0730,LA083,Oxford City Council,SE England,2019,Parks & Green Spaces,11341185,14927000,3585815,,131.6,Mixed Funding
+SP-0731,LA083,Oxford City Council,South East,2023,Waste Management,5054000,"£5,934,900",880900,38.93,117.4,Levelling Up Fund
+SP-0732,LA083,Oxford City Council,SE England,2020,Waste Management,4293844,,,26.3,93.4,Central Government Grant
+SP-0733,LA083,Oxford City Council,South East,2020,Digital Infrastructure,"£40,967,270",53579400,12612130,351.46,130.8,EU Structural Funds
+SP-0734,LA083,Oxford City Council,South East,2023,Digital Infrastructure,27241191,28048200,807009,183.98,103,Combined Authority
+SP-0735,LA083,Oxford City Council,South East ,2022,Energy & Utilities,42667359,29749900,-12917459,195.15,69.7,Local Authority Budget
+SP-0736,LA084,Canterbury City Council,South East,2020,Roads & Transport,18649049,"£20,449,900",,,109.7,EU Structural Funds
+SP-0737,LA084,Canterbury City Council,South East,2019,Housing & Planning,43904085,"£55,294,800",11390715,333.5,125.9,Private Finance Initiative
+SP-0738,LA084,Canterbury City Council,South East,2021,Flood & Drainage,43868905,56924300,13055395,343.33,129.8,Private Finance Initiative
+SP-0739,LA084,Canterbury City Council,South East,2020,Parks & Green Spaces,15389684,,-2053884,80.43,86.7,Local Authority Budget
+SP-0740,LA084,Canterbury City Council,South East,2020,Waste Management,9651270,6550500,-3100770,39.51,67.9,Levelling Up Fund
+SP-0741,LA084,Canterbury City Council,South East,2023,Digital Infrastructure,7699981,8168300,468319,49.27,106.1,Mixed Funding
+SP-0742,LA084,Canterbury City Council,South East,2021,Energy & Utilities,"£22,445,834",28967200,6521366,174.71,129.1,Combined Authority
+SP-0743,LA085,Maidstone Borough Council,South East,2021,Roads & Transport,37980150,33306300,-4673850,189.03,87.7,Private Finance Initiative
+SP-0744,LA085,Maidstone Borough Council,South East ,2019,Housing & Planning,18908877,24601400,5692523,139.62,130.1,Levelling Up Fund
+SP-0745,LA085,Maidstone Borough Council,South East ,2020,Flood & Drainage,36106172,32267600,-3838572,183.13,89.4,Levelling Up Fund
+SP-0746,LA085,Maidstone Borough Council,South East,2021,Parks & Green Spaces,17220339,11473300,-5747039,65.12,66.6,Private Finance Initiative
+SP-0747,LA085,Maidstone Borough Council,South East,2021,Waste Management,21165575,16456400,-4709175,93.4,77.8,Combined Authority
+SP-0748,LA085,Maidstone Borough Council,South East,2020,Waste Management,31842473,37584400,5741927,213.31,118,Mixed Funding
+SP-0749,LA085,Maidstone Borough Council,South East,2019,Digital Infrastructure,19918648,25478300,5559652,144.6,127.9,Combined Authority
+SP-0750,LA085,Maidstone Borough Council,South East,2023,Energy & Utilities,33648721,30967400,,175.75,92,Private Finance Initiative
+SP-0751,LA085,Maidstone Borough Council,South East,2019,Energy & Utilities,12797293,,-1126193,66.24,91.2,Levelling Up Fund
+SP-0752,LA086,Medway Council,South East ,2023,Roads & Transport,5375991,"£6,706,300",,24.07,124.7,City Deal
+SP-0753,LA086,Medway Council,South East,2021,Housing & Planning,38581368,46216200,7634832,165.89,119.8,Levelling Up Fund
+SP-0754,LA086,Medway Council,South East,2022,Flood & Drainage,"£32,884,126",33803000,918874,121.33,102.8,Levelling Up Fund
+SP-0755,LA086,Medway Council,South East,2022,Parks & Green Spaces,30389305,33856500,3467195,121.52,111.4,Local Authority Budget
+SP-0756,LA086,Medway Council,South East ,2020,Parks & Green Spaces,6457491,4259600,-2197891,15.29,66,Mixed Funding
+SP-0757,LA086,Medway Council,South East,2021,Waste Management,43980978,48642800,4661822,174.6,110.6,City Deal
+SP-0758,LA086,Medway Council,South East,2020,Digital Infrastructure,26891599,22478500,-4413099,80.68,83.6,EU Structural Funds
+SP-0759,LA086,Medway Council,South east,2022,Energy & Utilities,6486149,6090100,-396049,21.86,93.9,Mixed Funding
+SP-0760,LA086,Medway Council,South east,2023,Energy & Utilities,14299982,11954600,-2345382,42.91,,EU Structural Funds
+SP-0761,LA087,Thanet District Council,South East,2022,Roads & Transport,"£10,023,585",13223900,3200315,94.86,131.9,Central Government Grant
+SP-0762,LA087,Thanet District Council,South East ,2023,Housing & Planning,"£22,823,236","£19,199,200",-3624036,137.73,84.1,Levelling Up Fund
+SP-0763,LA087,Thanet District Council,South East ,2020,Flood & Drainage,23334855,"£18,617,700",-4717155,133.56,79.8,Levelling Up Fund
+SP-0764,LA087,Thanet District Council,South East,2021,Flood & Drainage,24282741,17970900,-6311841,128.92,74,Central Government Grant
+SP-0765,LA087,Thanet District Council,South East,2019,Parks & Green Spaces,26918491,25104400,-1814091,180.09,93.3,Mixed Funding
+SP-0766,LA087,Thanet District Council,South East,2019,Waste Management,1879509,1784500,-95009,12.8,94.9,Central Government Grant
+SP-0767,LA087,Thanet District Council,South East,2020,Waste Management,"£32,989,639",31936400,-1053239,229.1,,Private Finance Initiative
+SP-0768,LA087,Thanet District Council,South East,2023,Digital Infrastructure,13503578,17288300,3784722,124.02,,Combined Authority
+SP-0769,LA087,Thanet District Council,South East,2020,Energy & Utilities,21520068,23121200,1601132,165.86,107.4,Levelling Up Fund
+SP-0770,LA088,Folkestone and Hythe District Council,South east,2021,Roads & Transport,10990936,9526700,-1464236,84.91,,Mixed Funding
+SP-0771,LA088,Folkestone and Hythe District Council,South East,2023,Housing & Planning,18238585,"£14,979,000",-3259585,,,Levelling Up Fund
+SP-0772,LA088,Folkestone and Hythe District Council,South East,2022,Flood & Drainage,24337924,19195400,-5142524,171.08,78.9,Mixed Funding
+SP-0773,LA088,Folkestone and Hythe District Council,South East,2019,Flood & Drainage,36185776,37912800,1727024,337.9,104.8,Private Finance Initiative
+SP-0774,LA088,Folkestone and Hythe District Council,South East,2021,Parks & Green Spaces,29548192,,7863608,333.44,126.6,Combined Authority
+SP-0775,LA088,Folkestone and Hythe District Council,South East,2020,Waste Management,28541638,"£36,485,900",7944262,325.19,127.8,Mixed Funding
+SP-0776,LA088,Folkestone and Hythe District Council,SE England,2022,Digital Infrastructure,16613664,22139900,5526236,197.33,133.3,Mixed Funding
+SP-0777,LA088,Folkestone and Hythe District Council,South East,2021,Energy & Utilities,3866884,4831400,964516,43.06,124.9,Combined Authority
+SP-0778,LA089,Eastbourne Borough Council,SE England,2020,Roads & Transport,6916912,6300500,-616412,61.29,91.1,Levelling Up Fund
+SP-0779,LA089,Eastbourne Borough Council,South East,2023,Housing & Planning,"£19,992,054",17679300,-2312754,171.98,88.4,Combined Authority
+SP-0780,LA089,Eastbourne Borough Council,South East ,2023,Flood & Drainage,19277615,15387500,-3890115,149.68,79.8,EU Structural Funds
+SP-0781,LA089,Eastbourne Borough Council,South East,2020,Parks & Green Spaces,"£38,396,503",25321900,-13074603,246.32,65.9,EU Structural Funds
+SP-0782,LA089,Eastbourne Borough Council,South East,2022,Waste Management,31414006,31050500,,302.05,98.8,City Deal
+SP-0783,LA089,Eastbourne Borough Council,South East,2021,Digital Infrastructure,"£3,722,844",2788500,-934344,27.13,74.9,Levelling Up Fund
+SP-0784,LA089,Eastbourne Borough Council,South East ,2023,Energy & Utilities,"£27,348,789",35606000,8257211,346.36,130.2,City Deal
+SP-0785,LA090,Hastings Borough Council,South East,2019,Roads & Transport,14031950,11525900,-2506050,125.55,82.1,Levelling Up Fund
+SP-0786,LA090,Hastings Borough Council,South East,2022,Housing & Planning,"£36,734,195","£36,804,200",70005,400.92,100.2,Local Authority Budget
+SP-0787,LA090,Hastings Borough Council,SE England,2022,Flood & Drainage,9909855,10976400,1066545,119.57,110.8,Combined Authority
+SP-0788,LA090,Hastings Borough Council,South East,2023,Flood & Drainage,22442631,18451000,-3991631,200.99,82.2,Combined Authority
+SP-0789,LA090,Hastings Borough Council,SE England,2021,Parks & Green Spaces,"£16,315,105",,-990605,166.93,93.9,Levelling Up Fund
+SP-0790,LA090,Hastings Borough Council,South East,2020,Parks & Green Spaces,"£36,230,708",36628700,397992,399.01,,Combined Authority
+SP-0791,LA090,Hastings Borough Council,South East,2023,Waste Management,28742905,27019800,,294.33,94,EU Structural Funds
+SP-0792,LA090,Hastings Borough Council,South East,2021,Digital Infrastructure,10095820,6617100,-3478720,72.08,65.5,EU Structural Funds
+SP-0793,LA090,Hastings Borough Council,SE England,2023,Digital Infrastructure,25066127,19963400,-5102727,217.47,79.6,Central Government Grant
+SP-0794,LA090,Hastings Borough Council,South East,2021,Energy & Utilities,"£30,165,312",23458500,-6706812,255.54,77.8,EU Structural Funds
+SP-0795,LA091,Worthing Borough Council,South East,2020,Roads & Transport,43874509,44692700,818191,407.04,101.9,Combined Authority
+SP-0796,LA091,Worthing Borough Council,South East,2021,Housing & Planning,8912526,"£6,385,200",-2527326,58.15,71.6,EU Structural Funds
+SP-0797,LA091,Worthing Borough Council,SE England,2020,Housing & Planning,"£30,138,610",38855000,8716390,353.87,,Local Authority Budget
+SP-0798,LA091,Worthing Borough Council,South East,2021,Flood & Drainage,8081916,"£9,157,500",1075584,83.4,113.3,Combined Authority
+SP-0799,LA091,Worthing Borough Council,South East,2021,Parks & Green Spaces,21109336,"£22,056,900",,200.88,104.5,Combined Authority
+SP-0800,LA091,Worthing Borough Council,South East,2020,Waste Management,27624848,30563100,2938252,278.35,110.6,City Deal
+SP-0801,LA091,Worthing Borough Council,South East,2023,Waste Management,40973329,49570200,8596871,451.46,121,Levelling Up Fund
+SP-0802,LA091,Worthing Borough Council,South East,2022,Digital Infrastructure,2639256,"£3,097,700",458444,28.21,117.4,Private Finance Initiative
+SP-0803,LA091,Worthing Borough Council,South East,2021,Energy & Utilities,"£6,762,432","£6,148,200",-614232,55.99,90.9,Combined Authority
+SP-0804,LA092,Crawley Borough Council,South east,2021,Roads & Transport,12395737,,,85.07,80.2,Combined Authority
+SP-0805,LA092,Crawley Borough Council,South East,2023,Housing & Planning,1906371,1285800,-620571,11.01,67.4,Private Finance Initiative
+SP-0806,LA092,Crawley Borough Council,South East,2019,Flood & Drainage,"£15,286,123",12545700,-2740423,107.41,82.1,Mixed Funding
+SP-0807,LA092,Crawley Borough Council,South East,2021,Parks & Green Spaces,5705669,5570400,-135269,47.69,97.6,City Deal
+SP-0808,LA092,Crawley Borough Council,South East,2020,Waste Management,41800772,,-11966772,255.43,71.4,Local Authority Budget
+SP-0809,LA092,Crawley Borough Council,South East,2019,Digital Infrastructure,44022319,"£58,396,800",14374481,499.97,132.7,Levelling Up Fund
+SP-0810,LA092,Crawley Borough Council,SE England,2019,Energy & Utilities,33713611,28383100,-5330511,243.01,84.2,Combined Authority
+SP-0811,LA093,Bristol City Council,South West,2023,Roads & Transport,8563448,"£7,413,700",,15.87,86.6,City Deal
+SP-0812,LA093,Bristol City Council,SW England,2019,Housing & Planning,"£11,447,549",8444400,-3003149,18.08,,Central Government Grant
+SP-0813,LA093,Bristol City Council,South West,2023,Flood & Drainage,3177567,2202500,-975067,4.72,69.3,Mixed Funding
+SP-0814,LA093,Bristol City Council,South West,2022,Flood & Drainage,7171033,9502200,2331167,20.34,,Private Finance Initiative
+SP-0815,LA093,Bristol City Council,South West,2022,Parks & Green Spaces,41248392,37720700,-3527692,80.76,91.4,Combined Authority
+SP-0816,LA093,Bristol City Council,South West,2019,Waste Management,25180148,"£33,479,300",8299152,71.67,133,City Deal
+SP-0817,LA093,Bristol City Council,South West,2022,digital infrastructure,17743110,22058900,4315790,47.23,124.3,Levelling Up Fund
+SP-0818,LA093,Bristol City Council,South West,2022,Energy & Utilities,1610072,1999800,389728,4.28,124.2,Local Authority Budget
+SP-0819,LA094,Plymouth City Council,South west,2022,Roads & Transport,42629124,33323700,-9305424,126.13,78.2,Levelling Up Fund
+SP-0820,LA094,Plymouth City Council,South West,2020,Housing & Planning,43133234,39954000,-3179234,151.23,92.6,Combined Authority
+SP-0821,LA094,Plymouth City Council,South West ,2019,Flood & Drainage,29128794,31685000,2556206,119.93,108.8,Private Finance Initiative
+SP-0822,LA094,Plymouth City Council,South West,2023,Flood & Drainage,2177940,"£2,083,200",-94740,7.88,,Private Finance Initiative
+SP-0823,LA094,Plymouth City Council,South West,2022,Parks & Green Spaces,25273257,,-3792457,81.31,85,Combined Authority
+SP-0824,LA094,Plymouth City Council,South West,2019,Waste Management,32560490,24862700,,94.11,76.4,City Deal
+SP-0825,LA094,Plymouth City Council,South West ,2020,Digital Infrastructure,10239633,8336800,-1902833,31.55,81.4,Levelling Up Fund
+SP-0826,LA094,Plymouth City Council,South West,2023,DIGITAL INFRASTRUCTURE,19128357,,-831357,69.25,95.7,Levelling Up Fund
+SP-0827,LA094,Plymouth City Council,South West,2020,Energy & Utilities,44530924,"£45,400,300",869376,171.84,102,Levelling Up Fund
+SP-0828,LA094,Plymouth City Council,South West,2019,Energy & Utilities,43735875,50669400,6933525,,115.9,Combined Authority
+SP-0829,LA095,Exeter City Council,South West,2020,Roads & Transport,8092985,5709200,-2383785,43.82,70.5,Central Government Grant
+SP-0830,LA095,Exeter City Council,South West,2022,Housing & Planning,13609787,,-3722887,75.88,,Local Authority Budget
+SP-0831,LA095,Exeter City Council,South West,2023,Housing & Planning,27553030,,-7558930,153.45,72.6,Local Authority Budget
+SP-0832,LA095,Exeter City Council,South West ,2021,Flood & Drainage,9356843,10582100,1225257,,113.1,Central Government Grant
+SP-0833,LA095,Exeter City Council,South West ,2023,Parks & Green Spaces,28508895,22282500,-6226395,171.01,78.2,Mixed Funding
+SP-0834,LA095,Exeter City Council,South West,2022,Waste Management,"£38,090,448",,9124352,362.35,124,EU Structural Funds
+SP-0835,LA095,Exeter City Council,South West,2023,Digital Infrastructure,7603152,"£6,820,600",-782552,,89.7,Private Finance Initiative
+SP-0836,LA095,Exeter City Council,South West,2022,Digital Infrastructure,42426779,40179500,-2247279,308.36,94.7,Private Finance Initiative
+SP-0837,LA095,Exeter City Council,South West,2019,Energy & Utilities,6921541,8910000,1988459,68.38,128.7,City Deal
+SP-0838,LA095,Exeter City Council,South West ,2020,Energy & Utilities,18809701,17529300,-1280401,134.53,93.2,EU Structural Funds
+SP-0839,LA096,Gloucester City Council,South West ,2020,Roads & Transport,5484462,3802100,-1682362,,69.3,City Deal
+SP-0840,LA096,Gloucester City Council,South West,2023,Roads & Transport,14006781,,-3828681,78.41,72.7,Combined Authority
+SP-0841,LA096,Gloucester City Council,South West,2019,Housing & Planning,"£43,368,110",32425600,-10942510,249.81,74.8,Private Finance Initiative
+SP-0842,LA096,Gloucester City Council,South West,2022,Flood & Drainage,3935256,"£4,895,800",960544,37.72,124.4,City Deal
+SP-0843,LA096,Gloucester City Council,South West,2021,Parks & Green Spaces,"£21,318,745",18537600,-2781145,142.82,87,Central Government Grant
+SP-0844,LA096,Gloucester City Council,South West,2020,Waste Management,19207244,21986900,2779656,169.39,114.5,Combined Authority
+SP-0845,LA096,Gloucester City Council,South West,2023,Digital Infrastructure,41437218,46772000,5334782,360.34,,Local Authority Budget
+SP-0846,LA096,Gloucester City Council,South West,2023,Energy & Utilities,"£35,778,361",,-2585461,255.72,92.8,Mixed Funding
+SP-0847,LA097,Cheltenham Borough Council,South West ,2023,Roads & Transport,33880264,25871700,-8008564,215.78,76.4,Local Authority Budget
+SP-0848,LA097,Cheltenham Borough Council,SW England,2019,Housing & Planning,40440387,30450100,-9990287,253.96,,Local Authority Budget
+SP-0849,LA097,Cheltenham Borough Council,South West,2019,Flood & Drainage,"£44,837,564",,-8112164,306.3,81.9,Local Authority Budget
+SP-0850,LA097,Cheltenham Borough Council,South West,2019,Parks & Green Spaces,43500426,"£38,133,300",-5367126,,87.7,Levelling Up Fund
+SP-0851,LA097,Cheltenham Borough Council,South west,2023,Waste Management,"£15,405,817",16770700,1364883,139.87,108.9,Levelling Up Fund
+SP-0852,LA097,Cheltenham Borough Council,South West,2022,Waste Management,43427104,37335400,-6091704,311.39,86,Mixed Funding
+SP-0853,LA097,Cheltenham Borough Council,South West,2019,Digital Infrastructure,23666899,20176300,-3490599,,,Local Authority Budget
+SP-0854,LA097,Cheltenham Borough Council,South West,2021,Energy & Utilities,30074814,,,253.87,101.2,Central Government Grant
+SP-0855,LA098,Swindon Borough Council,South West,2020,Roads & Transport,"£23,856,890",17844900,-6011990,80.45,74.8,City Deal
+SP-0856,LA098,Swindon Borough Council,South West,2022,Housing & Planning,11698796,11787800,89004,53.15,100.8,EU Structural Funds
+SP-0857,LA098,Swindon Borough Council,South West,2023,Housing & Planning,34725847,30956200,-3769647,,89.1,City Deal
+SP-0858,LA098,Swindon Borough Council,South West,2020,Flood & Drainage,"£28,956,255",31668600,2712345,142.78,109.4,Private Finance Initiative
+SP-0859,LA098,Swindon Borough Council,South West,2019,Parks & Green Spaces,4601374,5326900,725526,24.02,115.8,EU Structural Funds
+SP-0860,LA098,Swindon Borough Council,South West,2022,Waste Management,1890400,1710200,-180200,7.71,,Local Authority Budget
+SP-0861,LA098,Swindon Borough Council,South West,2023,Digital Infrastructure,36452647,40286700,3834053,181.64,110.5,Combined Authority
+SP-0862,LA098,Swindon Borough Council,South west,2019,Digital Infrastructure,2541500,,,9.47,82.7,City Deal
+SP-0863,LA098,Swindon Borough Council,South West,2019,Energy & Utilities,22629284,21535900,-1093384,97.1,95.2,Private Finance Initiative
+SP-0864,LA099,Bath and North East Somerset Council,South West,2020,Roads & Transport,20090937,13062900,-7028037,67.3,65,Private Finance Initiative
+SP-0865,LA099,Bath and North East Somerset Council,South West,2020,Housing & Planning,21040615,20037600,-1003015,103.23,95.2,Private Finance Initiative
+SP-0866,LA099,Bath and North East Somerset Council,South West,2022,Flood & Drainage,13788397,9146000,-4642397,47.12,66.3,Private Finance Initiative
+SP-0867,LA099,Bath and North East Somerset Council,South West,2019,Parks & Green Spaces,11578018,"£15,193,200",,78.28,131.2,Mixed Funding
+SP-0868,LA099,Bath and North East Somerset Council,South west,2022,Waste Management,31209351,36920800,5711449,190.22,118.3,EU Structural Funds
+SP-0869,LA099,Bath and North East Somerset Council,South West,2023,Digital Infrastructure,38513448,39983800,,206,103.8,Combined Authority
+SP-0870,LA099,Bath and North East Somerset Council,SW England,2020,Digital Infrastructure,23789737,"£26,700,400",,137.56,112.2,Combined Authority
+SP-0871,LA099,Bath and North East Somerset Council,South West,2022,Energy & Utilities,12783146,"£15,090,200",2307054,77.74,118,Private Finance Initiative
+SP-0872,LA100,Wiltshire Council,South West,2022,Roads & Transport,9945492,10542900,,21.2,106,Combined Authority
+SP-0873,LA100,Wiltshire Council,South West,2021,Housing & Planning,23775246,21164000,-2611246,42.56,,Combined Authority
+SP-0874,LA100,Wiltshire Council,South West,2019,Flood & Drainage,44095878,39683100,-4412778,79.8,90,EU Structural Funds
+SP-0875,LA100,Wiltshire Council,South West,2019,Parks & Green Spaces,18070992,12403600,-5667392,24.94,68.6,City Deal
+SP-0876,LA100,Wiltshire Council,South West,2019,Waste Management,36314896,,-12096496,48.7,66.7,Combined Authority
+SP-0877,LA100,Wiltshire Council,South West ,2022,Digital Infrastructure,"£23,419,353",,-304553,46.48,98.7,Private Finance Initiative
+SP-0878,LA100,Wiltshire Council,South West,2021,Energy & Utilities,8998706,7903000,-1095706,15.89,87.8,City Deal
+SP-0879,LA101,Dorset Council,South West,2023,Roads & Transport,9151494,10931600,1780106,29.04,119.5,Levelling Up Fund
+SP-0880,LA101,Dorset Council,South West,2020,Housing & Planning,16295311,13986100,-2309211,,85.8,City Deal
+SP-0881,LA101,Dorset Council,South West,2019,Housing & Planning,41306741,40924600,-382141,108.73,99.1,Private Finance Initiative
+SP-0882,LA101,Dorset Council,South West,2022,Flood & Drainage,9669174,6343400,-3325774,16.85,65.6,City Deal
+SP-0883,LA101,Dorset Council,South West ,2023,Flood & Drainage,25642185,"£20,537,700",,54.56,80.1,Local Authority Budget
+SP-0884,LA101,Dorset Council,SW England,2023,Parks & Green Spaces,15234471,"£14,893,300",-341171,39.57,97.8,Local Authority Budget
+SP-0885,LA101,Dorset Council,South West,2022,Parks & Green Spaces,"£16,734,116",12004100,,31.89,71.7,Levelling Up Fund
+SP-0886,LA101,Dorset Council,South west,2021,Waste Management,"£28,562,860","£27,593,300",-969560,73.31,96.6,Central Government Grant
+SP-0887,LA101,Dorset Council,South west,2021,Digital Infrastructure,10232101,"£8,971,100",,23.83,87.7,EU Structural Funds
+SP-0888,LA101,Dorset Council,South West,2019,Energy & Utilities,37675903,46405400,8729497,123.29,123.2,Central Government Grant
+SP-0889,LA102,Cornwall Council,South West,2019,Roads & Transport,28709353,25664100,-3045253,45.17,89.4,Mixed Funding
+SP-0890,LA102,Cornwall Council,South West,2021,Housing & Planning,"£15,667,262",14745800,-921462,25.95,94.1,City Deal
+SP-0891,LA102,Cornwall Council,South West,2021,Flood & Drainage,2616510,2177100,-439410,3.83,83.2,Mixed Funding
+SP-0892,LA102,Cornwall Council,South West,2023,Parks & Green Spaces,3239502,2736300,,4.82,84.5,City Deal
+SP-0893,LA102,Cornwall Council,SW England,2023,Waste Management,20838664,27384000,6545336,48.19,,Local Authority Budget
+SP-0894,LA102,Cornwall Council,South West,2019,Digital Infrastructure,7131135,5425500,-1705635,9.55,,City Deal
+SP-0895,LA102,Cornwall Council,South West,2020,Digital Infrastructure,10440660,"£8,939,400",-1501260,15.73,85.6,Private Finance Initiative
+SP-0896,LA102,Cornwall Council,South West,2021,Energy & Utilities,9343440,11812600,,20.79,126.4,Local Authority Budget
+SP-0897,LA102,Cornwall Council,South West,2020,Energy & Utilities,31491835,36247300,4755465,63.79,115.1,Local Authority Budget
+SP-0898,LA103,Torbay Council,SW England,2019,Roads & Transport,30212548,29394500,,218.38,,Combined Authority
+SP-0899,LA103,Torbay Council,South West,2022,Housing & Planning,7006568,,727132,57.46,,EU Structural Funds
+SP-0900,LA103,Torbay Council,South West ,2021,Flood & Drainage,6829854,7534500,704646,55.98,,Mixed Funding
+SP-0901,LA103,Torbay Council,South West,2020,Parks & Green Spaces,24592014,24270300,-321714,180.31,98.7,Mixed Funding
+SP-0902,LA103,Torbay Council,South West,2021,Waste Management,"£20,053,090",16722100,,124.24,83.4,Mixed Funding
+SP-0903,LA103,Torbay Council,South West,2020,Digital Infrastructure,11003254,"£7,967,200",-3036054,59.19,72.4,Central Government Grant
+SP-0904,LA103,Torbay Council,South West ,2021,Energy & Utilities,21103879,,-1214979,147.76,94.2,Local Authority Budget
+SP-0905,LA104,Somerset West and Taunton Council,South West,2020,Roads & Transport,19153263,17037600,-2115663,106.48,89,Central Government Grant
+SP-0906,LA104,Somerset West and Taunton Council,SW England,2022,Housing & Planning,44405883,45291300,885417,283.07,102,Private Finance Initiative
+SP-0907,LA104,Somerset West and Taunton Council,South West,2019,Flood & Drainage,20475903,22937800,2461897,143.36,112,Levelling Up Fund
+SP-0908,LA104,Somerset West and Taunton Council,South West,2020,Parks & Green Spaces,44119784,51210200,7090416,320.06,116.1,Combined Authority
+SP-0909,LA104,Somerset West and Taunton Council,South West,2023,Waste Management,10281338,,1408862,73.06,113.7,City Deal
+SP-0910,LA104,Somerset West and Taunton Council,South West,2019,Digital Infrastructure,38370715,34331400,-4039315,214.57,89.5,Combined Authority
+SP-0911,LA104,Somerset West and Taunton Council,South West,2022,Digital Infrastructure,15181552,16566300,1384748,103.54,109.1,EU Structural Funds
+SP-0912,LA104,Somerset West and Taunton Council,South West,2022,Energy & Utilities,30500712,37311700,6810988,233.2,122.3,Mixed Funding
+SP-0913,LA105,South Gloucestershire Council,South West,2022,Roads & Transport,33984940,22572800,-11412140,79.06,66.4,Central Government Grant
+SP-0914,LA105,South Gloucestershire Council,South West,2023,Housing & Planning,39955457,31174700,,109.19,78,EU Structural Funds
+SP-0915,LA105,South Gloucestershire Council,South West,2021,Housing & Planning,12383023,14982600,2599577,52.48,121,Mixed Funding
+SP-0916,LA105,South Gloucestershire Council,South West,2019,Flood & Drainage,22090568,21593300,-497268,75.63,97.7,Mixed Funding
+SP-0917,LA105,South Gloucestershire Council,South West,2022,Parks & Green Spaces,30959758,41405800,10446042,145.03,133.7,Combined Authority
+SP-0918,LA105,South Gloucestershire Council,South west,2023,Waste Management,1860100,2019900,159800,,108.6,City Deal
+SP-0919,LA105,South Gloucestershire Council,South West,2020,Digital Infrastructure,32599276,40345000,7745724,141.31,123.8,Mixed Funding
+SP-0920,LA105,South Gloucestershire Council,South West,2021,Energy & Utilities,43604759,,-1254059,148.34,97.1,Private Finance Initiative
+SP-0921,LA106,North Somerset Council,South West,2023,Roads & Transport,"£12,362,313","£15,073,200",2710887,70.77,121.9,Local Authority Budget
+SP-0922,LA106,North Somerset Council,South West,2023,Housing & Planning,11756752,15627100,,73.37,,City Deal
+SP-0923,LA106,North Somerset Council,SW England,2019,Housing & Planning,4004119,3936000,-68119,,98.3,Local Authority Budget
+SP-0924,LA106,North Somerset Council,South West,2022,Flood & Drainage,"£12,926,661",9740900,-3185761,45.73,75.4,Levelling Up Fund
+SP-0925,LA106,North Somerset Council,South West,2019,Flood & Drainage,36035513,26393000,-9642513,123.91,73.2,EU Structural Funds
+SP-0926,LA106,North Somerset Council,South West,2023,Parks & Green Spaces,34855523,22687500,-12168023,106.51,65.1,Central Government Grant
+SP-0927,LA106,North Somerset Council,South West,2022,Waste Management,44042739,48541100,4498361,227.89,110.2,Combined Authority
+SP-0928,LA106,North Somerset Council,South West,2023,Digital Infrastructure,21849134,20093200,-1755934,94.33,92,EU Structural Funds
+SP-0929,LA106,North Somerset Council,South West,2021,Digital Infrastructure,23022135,20894000,-2128135,98.09,90.8,Local Authority Budget
+SP-0930,LA106,North Somerset Council,South West,2021,Energy & Utilities,40539269,36410700,-4128569,170.94,89.8,Local Authority Budget
+SP-0931,LA106,North Somerset Council,South West,2019,Energy & Utilities,3090444,"£2,740,400",-350044,12.87,88.7,Combined Authority
+SP-0932,LA107,Stroud District Council,South West,2022,Roads & Transport,15292862,13590500,-1702362,114.59,88.9,Combined Authority
+SP-0933,LA107,Stroud District Council,South west,2019,Housing & Planning,28462195,,,160.76,67,City Deal
+SP-0934,LA107,Stroud District Council,South West,2021,Flood & Drainage,6458160,5813900,-644260,49.02,90,Levelling Up Fund
+SP-0935,LA107,Stroud District Council,South West,2019,Parks & Green Spaces,"£16,704,506",13857400,,116.84,83,Levelling Up Fund
+SP-0936,LA107,Stroud District Council,South West ,2022,Waste Management,29889306,32897900,3008594,277.39,110.1,Private Finance Initiative
+SP-0937,LA107,Stroud District Council,South West,2021,Waste Management,24219314,24170200,-49114,203.8,99.8,EU Structural Funds
+SP-0938,LA107,Stroud District Council,South west,2019,Digital Infrastructure,13078780,16444000,3365220,138.65,125.7,Private Finance Initiative
+SP-0939,LA107,Stroud District Council,South West,2023,Digital Infrastructure,29867332,27006200,-2861132,227.71,90.4,Levelling Up Fund
+SP-0940,LA107,Stroud District Council,South west,2019,Energy & Utilities,39905753,45498000,,383.63,114,Mixed Funding
+SP-0941,LA108,Forest of Dean District Council,South West ,2020,Roads & Transport,21599073,22888500,1289427,263.09,106,City Deal
+SP-0942,LA108,Forest of Dean District Council,South West,2019,Housing & Planning,23051443,18826600,-4224843,216.4,81.7,EU Structural Funds
+SP-0943,LA108,Forest of Dean District Council,South West,2019,Flood & Drainage,"£38,032,345",49221800,11189455,565.77,129.4,Combined Authority
+SP-0944,LA108,Forest of Dean District Council,South West,2023,Flood & Drainage,20086642,17091600,-2995042,196.46,85.1,City Deal
+SP-0945,LA108,Forest of Dean District Council,South West,2023,Parks & Green Spaces,4891921,"£4,049,400",-842521,46.54,82.8,Private Finance Initiative
+SP-0946,LA108,Forest of Dean District Council,South West,2022,Waste Management,11376386,,-3972786,85.1,65.1,Mixed Funding
+SP-0947,LA108,Forest of Dean District Council,South West,2020,Digital Infrastructure,30292875,36128300,5835425,415.27,119.3,Private Finance Initiative
+SP-0948,LA108,Forest of Dean District Council,South West,2022,Energy & Utilities,9438336,10219900,781564,117.47,108.3,Local Authority Budget
+SP-0949,LA109,Birmingham City Council,West Midlands,2022,Roads & Transport,7923863,7543600,-380263,6.61,95.2,Mixed Funding
+SP-0950,LA109,Birmingham City Council,West Midlands,2019,Roads & Transport,1319998,1500600,180602,1.31,,Levelling Up Fund
+SP-0951,LA109,Birmingham City Council,West Midlands,2022,Housing & Planning,12722385,11648800,-1073585,,91.6,Local Authority Budget
+SP-0952,LA109,Birmingham City Council,W Midlands,2019,Housing & Planning,8871080,11832200,2961120,10.36,133.4,Levelling Up Fund
+SP-0953,LA109,Birmingham City Council,West Midlands,2023,Flood & Drainage,12489428,14135500,1646072,12.38,113.2,Local Authority Budget
+SP-0954,LA109,Birmingham City Council,W Midlands,2020,Flood & Drainage,25966383,33404900,7438517,29.26,128.6,EU Structural Funds
+SP-0955,LA109,Birmingham City Council,West Midlands,2019,Parks & Green Spaces,9413596,,8304,8.25,100.1,EU Structural Funds
+SP-0956,LA109,Birmingham City Council,West Midlands,2022,Waste Management,1899145,1279600,-619545,1.12,67.4,Combined Authority
+SP-0957,LA109,Birmingham City Council,West midlands,2023,Digital Infrastructure,"£19,415,495",14056200,-5359295,12.31,72.4,Private Finance Initiative
+SP-0958,LA109,Birmingham City Council,W Midlands,2020,Energy & Utilities,33141465,41171200,8029735,,124.2,Local Authority Budget
+SP-0959,LA110,Coventry City Council,West Midlands,2023,Roads & Transport,14048043,"£10,062,400",-3985643,27.08,71.6,Levelling Up Fund
+SP-0960,LA110,Coventry City Council,West Midlands,2020,Housing & Planning,32839996,25493400,-7346596,68.62,77.6,Private Finance Initiative
+SP-0961,LA110,Coventry City Council,West Midlands,2023,Housing & Planning,38789565,32145600,-6643965,86.52,82.9,Central Government Grant
+SP-0962,LA110,Coventry City Council,W Midlands,2021,Flood & Drainage,43302064,31847400,-11454664,85.72,73.5,Private Finance Initiative
+SP-0963,LA110,Coventry City Council,West Midlands,2019,Parks & Green Spaces,34695613,38099100,3403487,102.55,109.8,Mixed Funding
+SP-0964,LA110,Coventry City Council,West Midlands ,2023,Waste Management,38992092,45475100,6483008,,116.6,Central Government Grant
+SP-0965,LA110,Coventry City Council,West Midlands,2022,Digital Infrastructure,23541675,23583700,42025,63.48,,Combined Authority
+SP-0966,LA110,Coventry City Council,West Midlands,2021,Energy & Utilities,42423957,,14611843,,134.4,Local Authority Budget
+SP-0967,LA110,Coventry City Council,West Midlands,2020,Energy & Utilities,29303131,27394000,-1909131,73.73,93.5,Combined Authority
+SP-0968,LA111,Wolverhampton City Council,West Midlands,2020,Roads & Transport,24454999,29394900,4939901,111.47,120.2,EU Structural Funds
+SP-0969,LA111,Wolverhampton City Council,West Midlands,2022,Housing & Planning,27881492,"£37,416,500",9535008,141.89,134.2,Levelling Up Fund
+SP-0970,LA111,Wolverhampton City Council,West Midlands,2021,Flood & Drainage,12052122,8555600,-3496522,,71,Central Government Grant
+SP-0971,LA111,Wolverhampton City Council,West Midlands,2023,Flood & Drainage,34258733,"£36,978,500",2719767,140.23,107.9,Mixed Funding
+SP-0972,LA111,Wolverhampton City Council,West Midlands,2023,Parks & Green Spaces,8999344,5888100,-3111244,22.33,65.4,Private Finance Initiative
+SP-0973,LA111,Wolverhampton City Council,West Midlands,2020,Waste Management,"£33,837,232",27368300,,103.79,80.9,City Deal
+SP-0974,LA111,Wolverhampton City Council,W Midlands,2021,Digital Infrastructure,"£10,875,847",7305000,-3570847,27.7,67.2,Private Finance Initiative
+SP-0975,LA111,Wolverhampton City Council,West Midlands,2020,Digital Infrastructure,39351265,26470200,-12881065,100.38,67.3,City Deal
+SP-0976,LA111,Wolverhampton City Council,West Midlands,2019,Energy & Utilities,19430670,22505700,3075030,,115.8,EU Structural Funds
+SP-0977,LA112,Dudley Metropolitan Borough Council,West Midlands ,2022,Roads & Transport,19013059,,2264041,66.99,,Combined Authority
+SP-0978,LA112,Dudley Metropolitan Borough Council,West Midlands,2021,Housing & Planning,44720845,49978500,5257655,157.36,111.8,Local Authority Budget
+SP-0979,LA112,Dudley Metropolitan Borough Council,West Midlands,2022,Flood & Drainage,26586155,,-1948955,77.57,92.7,Combined Authority
+SP-0980,LA112,Dudley Metropolitan Borough Council,West Midlands,2022,Parks & Green Spaces,19163394,17348300,-1815094,54.62,90.5,City Deal
+SP-0981,LA112,Dudley Metropolitan Borough Council,West Midlands ,2020,Waste Management,1785559,"£1,693,800",-91759,5.33,94.9,Central Government Grant
+SP-0982,LA112,Dudley Metropolitan Borough Council,West Midlands,2023,Digital Infrastructure,42854812,39669700,,124.9,92.6,City Deal
+SP-0983,LA112,Dudley Metropolitan Borough Council,West Midlands,2023,Energy & Utilities,12072769,"£10,939,500",-1133269,34.44,90.6,Private Finance Initiative
+SP-0984,LA113,Sandwell Metropolitan Borough Council,West midlands,2022,Roads & Transport,20773704,21806200,1032496,63.84,105,Levelling Up Fund
+SP-0985,LA113,Sandwell Metropolitan Borough Council,West Midlands,2019,Housing & Planning,16821703,,5159397,64.35,130.7,Local Authority Budget
+SP-0986,LA113,Sandwell Metropolitan Borough Council,West Midlands,2023,Flood & Drainage,"£28,622,049",27104100,-1517949,79.34,94.7,Combined Authority
+SP-0987,LA113,Sandwell Metropolitan Borough Council,West Midlands,2021,Flood & Drainage,17253735,"£17,915,900",662165,52.45,103.8,EU Structural Funds
+SP-0988,LA113,Sandwell Metropolitan Borough Council,West Midlands,2021,Parks & Green Spaces,21517981,15818500,,46.31,73.5,Combined Authority
+SP-0989,LA113,Sandwell Metropolitan Borough Council,West Midlands,2019,Parks & Green Spaces,"£13,836,152",14271700,435548,41.78,103.1,Combined Authority
+SP-0990,LA113,Sandwell Metropolitan Borough Council,West Midlands,2023,Waste Management,13954885,17528700,3573815,51.31,125.6,Local Authority Budget
+SP-0991,LA113,Sandwell Metropolitan Borough Council,West Midlands,2020,Waste Management,13098215,,-2781015,30.2,78.8,Central Government Grant
+SP-0992,LA113,Sandwell Metropolitan Borough Council,W Midlands,2023,Digital Infrastructure,13624098,14148800,524702,41.42,103.9,Levelling Up Fund
+SP-0993,LA113,Sandwell Metropolitan Borough Council,West Midlands,2019,digital infrastructure,"£38,794,043","£51,143,400",12349357,149.72,131.8,Private Finance Initiative
+SP-0994,LA113,Sandwell Metropolitan Borough Council,West Midlands ,2023,Energy & Utilities,22166018,24856800,2690782,72.77,112.1,Levelling Up Fund
+SP-0995,LA113,Sandwell Metropolitan Borough Council,West Midlands,2021,Energy & Utilities,43745765,46538800,2793035,136.24,106.4,Central Government Grant
+SP-0996,LA114,Walsall Metropolitan Borough Council,West Midlands,2021,Roads & Transport,"£8,938,828",7676700,-1262128,26.85,85.9,Mixed Funding
+SP-0997,LA114,Walsall Metropolitan Borough Council,West Midlands,2023,Housing & Planning,25900591,,743309,93.19,102.9,Central Government Grant
+SP-0998,LA114,Walsall Metropolitan Borough Council,West Midlands,2020,Flood & Drainage,11895023,15423300,3528277,53.95,129.7,Central Government Grant
+SP-0999,LA114,Walsall Metropolitan Borough Council,West Midlands,2021,Parks & Green Spaces,37521309,48115400,10594091,168.29,,Private Finance Initiative
+SP-1000,LA114,Walsall Metropolitan Borough Council,West Midlands,2021,Waste Management,41152708,43063400,1910692,150.62,104.6,Levelling Up Fund
+SP-1001,LA114,Walsall Metropolitan Borough Council,W Midlands,2021,Digital Infrastructure,"£41,073,058",41235600,162542,144.23,100.4,Combined Authority
+SP-1002,LA114,Walsall Metropolitan Borough Council,West Midlands,2019,Energy & Utilities,"£44,327,761","£38,280,200",-6047561,133.89,86.4,Combined Authority
+SP-1003,LA115,Solihull Metropolitan Borough Council,West Midlands,2019,Roads & Transport,36800850,46703100,9902250,216.42,126.9,Combined Authority
+SP-1004,LA115,Solihull Metropolitan Borough Council,West Midlands,2020,Housing & Planning,42469556,52351700,9882144,242.59,123.3,Local Authority Budget
+SP-1005,LA115,Solihull Metropolitan Borough Council,West Midlands,2021,Flood & Drainage,8327083,8187700,-139383,37.94,98.3,City Deal
+SP-1006,LA115,Solihull Metropolitan Borough Council,West Midlands,2022,Parks & Green Spaces,33215390,,-6922790,121.84,79.2,City Deal
+SP-1007,LA115,Solihull Metropolitan Borough Council,W Midlands,2021,Waste Management,"£20,635,073",18146100,-2488973,,87.9,Mixed Funding
+SP-1008,LA115,Solihull Metropolitan Borough Council,West Midlands,2023,Waste Management,41269533,"£46,196,500",4926967,214.07,111.9,Combined Authority
+SP-1009,LA115,Solihull Metropolitan Borough Council,West Midlands,2023,Digital Infrastructure,"£7,770,343","£6,770,800",-999543,31.38,87.1,Levelling Up Fund
+SP-1010,LA115,Solihull Metropolitan Borough Council,West Midlands,2023,Energy & Utilities,30769916,20473900,-10296016,94.87,66.5,City Deal
+SP-1011,LA115,Solihull Metropolitan Borough Council,West Midlands,2019,Energy & Utilities,31431267,,-1299167,,95.9,Central Government Grant
+SP-1012,LA116,Stoke-on-Trent City Council,W Midlands,2023,Roads & Transport,10359606,7554700,-2804906,29.43,72.9,Local Authority Budget
+SP-1013,LA116,Stoke-on-Trent City Council,West Midlands,2022,Housing & Planning,"£27,940,117",34780000,6839883,,124.5,Central Government Grant
+SP-1014,LA116,Stoke-on-Trent City Council,West midlands,2023,Flood & Drainage,28412099,36808800,8396701,143.39,129.6,Central Government Grant
+SP-1015,LA116,Stoke-on-Trent City Council,West Midlands,2022,parks & green spaces,18434062,18024000,-410062,70.21,97.8,Local Authority Budget
+SP-1016,LA116,Stoke-on-Trent City Council,West Midlands,2023,Parks & Green Spaces,30307906,33855500,3547594,131.89,111.7,Levelling Up Fund
+SP-1017,LA116,Stoke-on-Trent City Council,West Midlands,2023,Waste Management,"£41,074,719",,-2486519,,,Mixed Funding
+SP-1018,LA116,Stoke-on-Trent City Council,West Midlands,2019,Digital Infrastructure,11425786,,3347714,57.55,129.3,Private Finance Initiative
+SP-1019,LA116,Stoke-on-Trent City Council,West Midlands,2021,Energy & Utilities,32140674,36349700,4209026,,113.1,City Deal
+SP-1020,LA117,Telford and Wrekin Council,West Midlands,2019,Roads & Transport,11773642,,-2845142,50.1,75.8,Mixed Funding
+SP-1021,LA117,Telford and Wrekin Council,West Midlands,2022,Housing & Planning,2676334,2797100,120766,15.7,104.5,City Deal
+SP-1022,LA117,Telford and Wrekin Council,West Midlands,2020,Flood & Drainage,31053652,28784000,-2269652,161.53,92.7,Combined Authority
+SP-1023,LA117,Telford and Wrekin Council,W Midlands,2019,Parks & Green Spaces,3733657,3433600,,19.27,92,Combined Authority
+SP-1024,LA117,Telford and Wrekin Council,W Midlands,2021,Parks & Green Spaces,41298641,,1739459,241.52,104.2,Combined Authority
+SP-1025,LA117,Telford and Wrekin Council,West Midlands,2022,Waste Management,"£30,090,805",37191100,7100295,208.7,,Combined Authority
+SP-1026,LA117,Telford and Wrekin Council,West Midlands,2023,Digital Infrastructure,22687120,26123200,3436080,146.59,115.1,EU Structural Funds
+SP-1027,LA117,Telford and Wrekin Council,West Midlands,2022,Energy & Utilities,13326377,12667800,,71.09,95.1,Private Finance Initiative
+SP-1028,LA118,Worcester City Council,West Midlands,2019,Roads & Transport,41402407,"£27,817,200",,274.87,67.2,Local Authority Budget
+SP-1029,LA118,Worcester City Council,West Midlands,2022,Housing & Planning,8174333,5955600,-2218733,58.85,72.9,City Deal
+SP-1030,LA118,Worcester City Council,West midlands,2019,Housing & Planning,1836392,1461600,-374792,14.44,,Levelling Up Fund
+SP-1031,LA118,Worcester City Council,West Midlands,2022,Flood & Drainage,4409395,4111100,,40.62,93.2,Mixed Funding
+SP-1032,LA118,Worcester City Council,West Midlands,2021,Parks & Green Spaces,17010073,"£19,395,700",2385627,191.66,114,Central Government Grant
+SP-1033,LA118,Worcester City Council,West Midlands,2022,Waste Management,30948180,"£32,415,400",1467220,320.31,104.7,Private Finance Initiative
+SP-1034,LA118,Worcester City Council,West Midlands,2023,Digital Infrastructure,32177146,31316300,-860846,309.45,,Private Finance Initiative
+SP-1035,LA118,Worcester City Council,West Midlands,2019,Energy & Utilities,30840647,20619600,-10221047,203.75,66.9,EU Structural Funds
+SP-1036,LA119,Herefordshire Council,West Midlands,2023,Roads & Transport,14468601,14126800,-341801,73.04,97.6,Central Government Grant
+SP-1037,LA119,Herefordshire Council,West Midlands,2022,Housing & Planning,32396065,22248800,-10147265,115.04,68.7,EU Structural Funds
+SP-1038,LA119,Herefordshire Council,West Midlands,2020,Flood & Drainage,23254749,27360200,4105451,,117.7,Central Government Grant
+SP-1039,LA119,Herefordshire Council,West Midlands ,2021,Flood & Drainage,"£21,448,803",15864700,-5584103,82.03,74,Local Authority Budget
+SP-1040,LA119,Herefordshire Council,West Midlands,2020,Parks & Green Spaces,39730615,"£45,894,700",6164085,237.3,115.5,Mixed Funding
+SP-1041,LA119,Herefordshire Council,West Midlands,2023,parks & green spaces,3100332,2987400,-112932,15.45,,Central Government Grant
+SP-1042,LA119,Herefordshire Council,West Midlands,2022,Waste Management,23234489,,-4435589,97.2,,EU Structural Funds
+SP-1043,LA119,Herefordshire Council,West Midlands,2020,Digital Infrastructure,9395301,6711200,-2684101,34.7,71.4,Levelling Up Fund
+SP-1044,LA119,Herefordshire Council,West Midlands,2022,Energy & Utilities,"£24,424,210",,,137.28,108.7,Local Authority Budget
+SP-1045,LA120,Shropshire Council,West Midlands,2023,Roads & Transport,15814889,14152300,-1662589,43.73,89.5,Central Government Grant
+SP-1046,LA120,Shropshire Council,West Midlands,2023,Housing & Planning,4868809,4029400,-839409,12.45,82.8,Combined Authority
+SP-1047,LA120,Shropshire Council,West Midlands,2022,Flood & Drainage,19334401,"£17,540,000",-1794401,54.2,90.7,EU Structural Funds
+SP-1048,LA120,Shropshire Council,West Midlands,2020,Parks & Green Spaces,39883350,38002900,-1880450,117.44,95.3,EU Structural Funds
+SP-1049,LA120,Shropshire Council,West Midlands,2021,Waste Management,869606,681200,-188406,2.11,78.3,Central Government Grant
+SP-1050,LA120,Shropshire Council,West Midlands,2023,Digital Infrastructure,"£13,310,750",13905100,594350,,104.5,Local Authority Budget
+SP-1051,LA120,Shropshire Council,West Midlands,2019,Energy & Utilities,24373279,,429221,76.65,,Combined Authority

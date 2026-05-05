@@ -1,0 +1,161 @@
+council_id,council_name,region_id,region_name,country,population_2021,area_sq_km,urban_rural_classification,deprivation_band,imd_rank,year_established
+LA001,Derby City Council,R01,East Midlands,England,"262,672",393.3,Urban,4,78,1948
+LA002,Nottingham City Council,R01,East Midlands,England,"329,200",441.9,Predominantly Rural,4,75,1894
+LA003,LEICESTER CITY COUNCIL,R01,East Midlands,England,"368,581",799.2,Predominantly Urban,4,73,1952
+LA004,Northampton Borough Council,R01,East Midlands,England,"225,600",26.7,Rural,3,82,1967
+LA005,Chesterfield Borough Council,R01,East Midlands,England,"104,600",323.9,Predominantly Urban,5,66,1944
+LA006,Lincoln City Council ,R01,East Midlands,England,"99,800",939.2,Predominantly Urban,5,62,1964
+LA007,Mansfield District Council,R01,East Midlands,England,"107,800",929.3,Mixed,6,58,1928
+LA008,Kettering Borough Council,R01,East midlands,England,"103,400",359.5,Urban,4,71,1952
+LA009,Wellingborough Borough Council,R01,East Midlands,England,"81,500",980.2,Predominantly Rural,5,68,1941
+LA010,Hinckley and Bosworth Borough Council,R01,East Midlands,England,"112,000",387.5,Predominantly Rural,4,75,1917
+LA011,Blaby District Council,R01,East Midlands,England,"98,500",859.7,Predominantly Urban,3,82,1974
+LA012,Melton Borough Council,R01,East Midlands,England,"51,200",613.7,Rural,4,79,1896
+LA013,South Kesteven District Council,R01,East Midlands,England,"142,000",1060.3,Rural,4,77,1943
+LA014,Newark and Sherwood District Council,R01,East Midlands,England,"120,400",806.8,Mixed,4,73,1967
+LA015,Broxtowe Borough Council,R01,East Midlands,England,"112,400",1071.8,Rural,4,78,1912
+LA016,Gedling Borough Council,R01,East Midlands,England,"118,500",1035.4,Predominantly Urban,3,105,1940
+LA017,Norwich City Council,R02,East of England ,England,"215,700",946.1,Predominantly Urban,4,70,1953
+LA018,Ipswich Borough Council,R02,East of England,England,"137,600",256.3,Mixed,5,65,1924
+LA019,Cambridge City Council,R02,East of England,England,"131,800",368.3,Mixed,3,88,1961
+LA020,Luton Borough Council,R02,East of England,England,"225,300",171.6,Predominantly Rural,6,52,1930
+LA021,Peterborough City Council,R02,East of England,England,"212,600",695.7,Rural,5,61,1947
+LA022,Southend-on-Sea Borough Council ,R02,East of England,England,"183,200",220,Predominantly Rural,5,66,1973
+LA023,Thurrock Council,R02,East of England,England,"172,000",344.9,Mixed,5,64,1956
+LA023,Thurrock Council ,R02,East of England,England,"172,196",1008.6,Rural,5,63,1908
+LA024,Chelmsford City Council,R02,East of England,England,"180,300",224.9,Predominantly Urban,3,84,1959
+LA025,Colchester Borough Council,R02,East of England,England,"195,300",197.2,Predominantly Urban,4,78,1905
+LA026,Braintree District Council,R02,East of England,England,"156,800",421.3,Mixed,3,80,1908
+LA027,Basildon Borough Council,R02,East Of England,England,"186,800",464.7,Urban,5,64,1917
+LA028,Harlow District Council,R02,East of England,England,"92,300",1053,Urban,6,55,1908
+LA029,Stevenage Borough Council,R02,East of England,England,"89,200",374.8,Predominantly Rural,5,60,1890
+LA030,Watford Borough Council,R02,East of England,England,"96,800",735.6,Rural,4,105,1908
+LA031,St Albans City and District Council,R02,Eastern England,England,"148,600",666.6,Mixed,2,92,1917
+LA032,Hertsmere Borough Council,R02,Eastern England,England,"105,500",638.5,Predominantly Urban,3,87,1910
+LA033,City of London Corporation ,R03,London,England,"9,400",1008.4,Mixed,2,95,1891
+LA034,London Borough of Camden,R03,London,England,"263,100",487.1,Urban,3,82,1952
+LA035,London Borough of Hackney,R03,London ,England,"281,400",127.4,Predominantly Rural,6,58,1966
+LA035,London Borough of Hackney,R03,Greater London,England,"281,566",178.8,Predominantly Urban,6,58,1910
+LA036,London Borough of Tower Hamlets,R03,London,England,"324,800",297,Mixed,7,44,1897
+LA037,London Borough of Newham,R03,London,England,"384,000",925.2,Rural,7,41,1929
+LA038,London Borough of Islington,R03,London,England,"245,800",365.6,Urban,5,62,1972
+LA039,London Borough of Southwark,R03,London,England,"317,200",208,Rural,6,55,1902
+LA040,London Borough of Lambeth,R03,London,England,"332,700",293.3,Urban,6,50,1933
+LA041,London Borough of Lewisham,R03,LONDON,England,"303,900",655.2,Predominantly Rural,6,53,1919
+LA042,London Borough of Greenwich,R03,London,England,"290,900",20.9,Urban,6,57,1970
+LA043,London Borough of Brent,R03,LONDON,England,,860.2,Rural,7,45,1929
+LA044,London Borough of Harrow,R03,London ,England,"250,200",1054,Urban,4,72,1922
+LA045,LONDON BOROUGH OF ENFIELD,R03,London,England,"333,870",936.5,Rural,6,59,1897
+LA046,Royal Borough of Kingston upon Thames,R03,London,England,"175,800",1195.7,Rural,3,82,1953
+LA046,Royal Borough of Kingston upon Thames ,R03,London,England,"175,890",717.4,Predominantly Urban,3,83,1896
+LA047,London Borough of Richmond upon Thames,R03,London,England,,118.7,Urban,3,88,1960
+LA048,London Borough of Merton,R03,London,England,"206,900",1196.8,Urban,4,79,1889
+LA049,Newcastle upon Tyne City Council,R04,North East,England,"302,820",143.5,Predominantly Urban,6,51,1941
+LA050,Sunderland City Council,R04,North East,England,"288,700",1021.7,Rural,7,45,1920
+LA051,Gateshead Metropolitan Borough Council,R04,North East,England,"201,800",481.6,Rural,7,47,1948
+LA052,South Tyneside Metropolitan Borough Council,R04,NE England,England,"148,100",317.7,Rural,7,43,1945
+LA052,South Tyneside Metropolitan Borough council,R04,North East ,England,"148,136",744.1,Mixed,7,43,1917
+LA053,North Tyneside Metropolitan Borough Council ,R04,North East,England,"208,800",956.2,Predominantly Rural,6,55,1962
+LA054,Middlesbrough Council,R04,North East,England,"141,000",224.4,Rural,8,35,1927
+LA055,Hartlepool Borough Council,R04,North East,England,"92,000",497.3,Predominantly Urban,8,36,1926
+LA056,Stockton-on-Tees Borough Council,R04,North East,England,"196,500",174.2,Predominantly Urban,7,49,1932
+LA057,Darlington Borough Council,R04,North East,England,"105,600",637.3,Predominantly Urban,6,54,1968
+LA058,Durham County Council,R04,NE England,England,"527,000",382,Mixed,6,50,1956
+LA059,Northumberland County Council,R04,North East,England,"320,600",408.1,Predominantly Urban,6,58,1958
+LA059,Northumberland County Council ,R04,North East,England,"320,749",254.4,Rural,6,58,1942
+LA060,Redcar and Cleveland Borough Council,R04,North East,England,"135,200",144,Predominantly Rural,7,40,1921
+LA061,Manchester City Council,R05,North West,England,"553,230",480.7,Urban,7,45,1935
+LA062,Liverpool City Council,R05,North West,England,"494,814",1076.3,Rural,8,105,1940
+LA063,Salford City Council,R05,North West ,England,"261,900",505.3,Predominantly Urban,7,112,1919
+LA064,Oldham Metropolitan Borough Council,R05,North West,England,"237,000",788.5,Predominantly Urban,7,42,1949
+LA064,Oldham Metropolitan Borough council,R05,North West,England,,682.6,Urban,7,40,1933
+LA065,Rochdale Metropolitan Borough Council,R05,North West,England,"221,000",259,Urban,7,45,1945
+LA065,Rochdale Metropolitan Borough Council ,R05,North West,England,"221,101",1182.6,Predominantly Urban,7,43,1907
+LA066,Stockport Metropolitan Borough Council,R05,North West,England,"293,200",44.6,Rural,5,66,1965
+LA067,Tameside Metropolitan Borough Council,R05,North West,England,"225,700",1021.2,Mixed,7,47,1938
+LA068,Trafford Metropolitan Borough Council,R05,North West,England,"237,400",949.2,Predominantly Urban,4,72,1892
+LA069,Wigan Metropolitan Borough Council,R05,North West ,England,"328,200",624.7,Rural,6,50,1910
+LA070,Bolton Metropolitan Borough Council,R05,NW England,England,"294,700",677,Predominantly Rural,7,48,1888
+LA071,Bury Metropolitan Borough Council,R05,North West ,England,"190,400",643.7,Urban,5,60,1908
+LA072,Preston City Council,R05,North West ,England,"141,800",203.8,Predominantly Urban,6,51,1888
+LA073,Blackpool Borough Council,R05,North West,England,"147,800",835.1,Mixed,8,37,1906
+LA074,Blackburn with Darwen Borough Council,R05,North West,England,"149,500",647.7,Rural,7,40,1942
+LA075,Burnley Borough Council,R05,North West,England,"93,700",1167,Predominantly Rural,8,34,1908
+LA076,Lancaster City Council,R05,North West,England,"140,500",575.5,Urban,5,62,1968
+LA077,Brighton and Hove City Council,R06,South East,England,"290,395",525.8,Mixed,5,68,1969
+LA078,Southampton City Council,R06,South East ,England,"252,000",691.1,Predominantly Urban,5,60,1949
+LA079,Portsmouth City Council,R06,South East,England,"213,800",724.4,Mixed,6,53,1950
+LA080,Reading Borough Council,R06,South East,England,"168,400",163.1,Predominantly Rural,4,72,1912
+LA081,Slough Borough Council,R06,South East,England,"145,700",1055.9,Predominantly Urban,7,49,1904
+LA082,Milton Keynes Council,R06,South East,England,"274,800",930.3,Predominantly Urban,4,75,1916
+LA083,Oxford City Council,R06,South East,England,"152,450",279.3,Urban,3,82,1912
+LA084,Canterbury City Council,R06,South East,England,"165,800",1099.1,Rural,4,75,1932
+LA085,Maidstone Borough Council,R06,South East,England,"176,200",1098.7,Predominantly Urban,4,76,1939
+LA086,Medway Council,R06,South East,England,,375.9,Rural,6,59,1971
+LA087,Thanet District Council,R06,South East,England,"139,400",1177.5,Rural,7,45,1901
+LA088,Folkestone and Hythe District Council,R06,South East,England,"112,200",815.5,Mixed,5,62,1931
+LA089,Eastbourne Borough Council,R06,South East,England,"102,800",996.9,Predominantly Urban,5,66,1965
+LA090,Hastings Borough Council,R06,South East,England,"91,800",151.5,Urban,7,43,1913
+LA091,Worthing Borough Council,R06,South East,England,,967.5,Mixed,4,70,1920
+LA092,Crawley Borough Council,R06,South East,England,"116,800",887.5,Rural,5,61,1951
+LA093,Bristol City Council,R07,South West,England,"467,099",181.5,Predominantly Urban,4,72,1895
+LA094,Plymouth City Council,R07,South west,England,,1120.9,Rural,6,55,1943
+LA095,Exeter City Council,R07,South West,England,"130,300",444.6,Predominantly Rural,4,74,1937
+LA096,Gloucester City Council,R07,South West,England,"129,800",351.3,Mixed,5,62,1946
+LA097,Cheltenham Borough Council,R07,South West,England,"119,900",863.6,Mixed,4,78,1892
+LA098,Swindon Borough Council ,R07,South west,England,"221,800",56.9,Urban,5,105,1910
+LA098,Swindon Borough council,R07,South west,England,"221,815",225.5,Rural,5,66,1935
+LA099,Bath and North East Somerset Council,R07,South West,England,"194,100",225.4,Urban,3,80,1933
+LA099,Bath and North East Somerset Council ,R07,South West ,England,"194,219",670.7,Urban,3,80,1953
+LA100,Wiltshire Council,R07,South west,England,"497,300",59.8,Predominantly Urban,4,77,1903
+LA101,Dorset Council,R07,South west,England,"376,400",1093.6,Urban,4,75,1963
+LA102,Cornwall Council,R07,South West,England,"568,200",748.1,Urban,5,65,1974
+LA103,Torbay Council,R07,South West,England,"134,600",680.4,Predominantly Rural,6,52,1904
+LA104,Somerset West and Taunton Council,R07,South west,England,"160,000",737.3,Predominantly Urban,4,70,1953
+LA104,Somerset West and Taunton Council ,R07,South West,England,,363.5,Predominantly Rural,4,70,1972
+LA105,South Gloucestershire Council,R07,South West,England,"285,500",176.6,Rural,4,79,1934
+LA106,North Somerset Council,R07,South West ,England,"213,000",282,Rural,4,75,1923
+LA107,Stroud District Council,R07,South West,England,"118,600",273.8,Predominantly Rural,4,77,1910
+LA108,Forest of Dean District Council,R07,South West,England,"87,000",908.9,Urban,5,68,1936
+LA109,Birmingham City Council ,R08,West Midlands ,England,"1,141,816",653.8,Mixed,8,38,1911
+LA110,Coventry City Council,R08,West Midlands,England,"371,521",895.5,Mixed,6,50,1954
+LA111,Wolverhampton City Council,R08,West Midlands,England,"263,700",402.1,Predominantly Urban,7,40,1932
+LA112,Dudley Metropolitan Borough Council,R08,West Midlands,England,"317,600",960.8,Mixed,7,47,1914
+LA113,Sandwell Metropolitan Borough Council,R08,West midlands,England,"341,600",228.2,Rural,7,42,1895
+LA114,Walsall Metropolitan Borough Council,R08,West Midlands,England,"285,900",1072.5,Mixed,7,44,1942
+LA115,Solihull Metropolitan Borough Council,R08,West Midlands,England,"215,800",101.5,Mixed,4,72,1897
+LA116,Stoke-on-Trent City Council,R08,West Midlands,England,"256,700",1078.7,Mixed,8,39,1943
+LA117,Telford and Wrekin Council,R08,West Midlands,England,,318.1,Predominantly Rural,6,56,1949
+LA118,Worcester City Council,R08,West Midlands,England,"101,200",650.2,Mixed,5,68,1974
+LA119,Herefordshire Council,R08,West midlands,England,,1038.8,Predominantly Rural,4,70,1963
+LA120,Shropshire Council,R08,West Midlands,England,"323,600",284.7,Predominantly Urban,4,72,1971
+LA121,Lichfield District Council,R08,West Midlands,England,"104,200",585.5,Mixed,4,78,1969
+LA122,Tamworth Borough Council,R08,West Midlands,England,"76,900",653.3,Urban,6,55,1928
+LA123,Cannock Chase District Council,R08,West Midlands,England,,107,Predominantly Urban,6,52,1891
+LA124,Redditch Borough Council,R08,West Midlands,England,"85,300",566.6,Mixed,6,53,1925
+LA125,Leeds City Council,R09,Yorkshire and The Humber,England,"812,000",63,Predominantly Rural,5,60,1930
+LA126,Sheffield City Council,R09,Yorkshire & Humber,England,"584,000",1047.4,Predominantly Urban,6,55,1964
+LA127,Bradford Metropolitan District Council,R09,Yorkshire and The Humber,England,"546,400",553.2,Mixed,7,44,1902
+LA128,Hull City Council,R09,Yorkshire & Humber,England,"260,700",483.1,Mixed,8,37,1907
+LA129,Wakefield Metropolitan District Council,R09,Yorkshire and The Humber,England,"345,800",542.3,Predominantly Urban,6,52,1936
+LA130,Kirklees Metropolitan Council,R09,Yorkshire and The Humber,England,,456.6,Urban,7,49,1974
+LA131,Calderdale Metropolitan Borough Council,R09,Yorkshire and The Humber,England,"209,500",635.3,Urban,6,55,1931
+LA132,Barnsley Metropolitan Borough Council,R09,Yorkshire and The Humber,England,"243,600",427.1,Predominantly Urban,7,44,1896
+LA133,Doncaster Metropolitan Borough Council,R09,Yorkshire and The Humber,England,"310,000",405.8,Predominantly Rural,7,47,1892
+LA134,Rotherham Metropolitan Borough Council,R09,Yorkshire and The Humber,England,"265,200",119.3,Urban,7,49,1956
+LA135,York City of Council,R09,yorkshire and the humber,England,"210,600",985.5,Predominantly Urban,4,70,1905
+LA136,East Riding of Yorkshire Council,R09,Yorkshire and The Humber,England,"340,800",836.5,Mixed,4,71,1950
+LA137,North Yorkshire County Council,R09,Yorkshire & Humber,England,"615,100",36.9,Urban,4,73,1964
+LA138,Scarborough Borough Council,R09,Yorkshire and The Humber,England,"108,800",899.5,Mixed,6,55,1969
+LA139,Harrogate Borough Council,R09,Yorkshire and The Humber,England,"161,300",21,Predominantly Rural,4,78,1903
+LA140,Selby District Council,R09,Yorkshire & Humber,England,"91,700",705.9,Urban,4,72,1904
+LA141,WYRE FOREST DISTRICT COUNCIL,R08,W Midlands,England,"99,600",876.7,Mixed,5,60,1893
+LA142,Bromsgrove District Council,R08,West Midlands,England,"96,600",1079.9,Mixed,4,78,1923
+LA143,Malvern Hills District Council,R08,West Midlands,England,"76,100",734.9,Mixed,4,75,1974
+LA144,Wyre Borough Council,R05,North West,England,"109,700",432.1,Mixed,5,63,1919
+LA145,Fylde Borough Council,R05,North West,England,"78,300",431.4,Predominantly Rural,5,67,1921
+LA146,South Ribble Borough Council,R05,North West,England,"110,000",460.2,Mixed,4,70,1905
+LA147,Chorley Borough Council,R05,North west,England,"118,600",374.6,Mixed,5,68,1925
+LA148,West Lancashire Borough Council,R05,North West,England,"113,200",710,Predominantly Rural,5,65,1974
+LA149,Rossendale Borough Council,R05,North West,England,,563.6,Predominantly Rural,6,52,1964
+LA150,Hyndburn Borough Council,R05,North West,England,"82,000",304.9,Mixed,7,45,1927

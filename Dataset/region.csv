@@ -1,0 +1,10 @@
+region_id,region_name,country,total_population_2021,area_sq_km,num_local_authorities,gdp_per_capita_GBP
+R01,East Midlands,England,"4,934,939","15,607",46,"24,800"
+R02,East of England,England,"6,336,070","19,120",48,"28,400"
+R03,London,England,"8,799,728","1,572",33,"54,200"
+R04,North East,England,"2,646,772","8,592",12,"20,100"
+R05,North West,England,"7,417,799","14,165",39,"23,600"
+R06,South East,England,"9,217,265","19,096",74,"32,100"
+R07,South West,England,"5,701,648","23,829",60,"25,900"
+R08,West Midlands,England,"5,934,037","12,998",30,"22,700"
+R09,Yorkshire and The Humber,England,"5,502,967","15,420",21,"22,400"

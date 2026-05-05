@@ -1,0 +1,392 @@
+record_id,council_id,council_name,region_name,survey_year,road_type,total_road_length_km,pct_good_condition,pct_satisfactory,pct_poor,pct_very_poor,avg_condition_score,maintenance_backlog_GBP,survey_date
+RC-0001,LA085,Maidstone Borough Council,South East,2019,Motorway,146.9,47.3,16.6,9.4,26.7,0.596,43952000,2019-03-26
+RC-0002,LA085,Maidstone Borough Council,South East,2020,A Road,344.2,60,26.9,24.3,0,0.822,1226000,"March 11, 2020"
+RC-0003,LA096,Gloucester City Council,South West,2022,Unclassified,130.2,20,21.4,8.6,50,0.35,56046000,"August 22, 2022"
+RC-0004,LA096,Gloucester City Council,South West,2019,A Road,272.7,46.1,32,22.1,0,0.708,,23 February 2019
+RC-0005,LA096,Gloucester City Council,South West,2023,Motorway,582.3,48.6,27.8,9.4,14.2,0.676,42640000,2023-10-21
+RC-0006,LA114,Walsall Metropolitan Borough Council,West midlands,2019,C Road,597.5,55.7,22.9,21.8,0,0.749,11780000,"August 27, 2019"
+RC-0007,LA114,Walsall Metropolitan Borough Council,West Midlands,2023,C Road,421.7,33.8,19.9,17.4,28.9,0.501,26988000,05/02/2023
+RC-0008,LA114,Walsall Metropolitan Borough Council,West Midlands,2022,Motorway,622.3,21.4,38.2,15.3,25.1,0.481,47550000,14/02/2022
+RC-0009,LA114,Walsall Metropolitan Borough Council,West Midlands,2021,Unclassified,800.4,36.9,37.9,21.9,3.3,0.651,12400000,18 December 2021
+RC-0010,LA114,Walsall Metropolitan Borough Council,West Midlands,2020,Motorway,574.7,55.9,36.3,8.4,0,,47436000,2020-01-27
+RC-0011,LA109,Birmingham City Council,West Midlands,2022,Unclassified,681.4,54.8,24.4,23.3,0,0.753,36349000,2022-04-05
+RC-0012,LA109,Birmingham City Council,West Midlands,2021,C Road,812.7,43.9,38.1,15.5,2.5,0.706,46921000,22 August 2021
+RC-0013,LA109,Birmingham City Council,West Midlands,2023,A Road,554.2,45.1,32.9,21.9,0.1,0.703,56609000,2023-01-14
+RC-0014,LA109,Birmingham City Council,West Midlands,2019,B Road,264.8,44.5,19.5,16.8,19.2,0.604,74999000,8 May 2019
+RC-0015,LA120,Shropshire Council,West Midlands,2019,B Road,219.5,32.6,16.9,16.4,34.1,0.468,84639000,15/08/2019
+RC-0016,LA120,Shropshire Council,West Midlands,2021,C Road,720.7,52.3,37.8,9.7,0.2,0.774,82626000,03/05/2021
+RC-0017,LA120,Shropshire Council,West Midlands,2023,B Road,781.3,37.5,29.1,23.2,10.2,0.608,39099000,"January 7, 2023"
+RC-0018,LA093,Bristol City Council,South West,2022,Unclassified,360.3,24.8,31.7,18.4,25.1,0.484,44640000,2022-09-21
+RC-0019,LA093,Bristol City Council,South west,2021,Unclassified,759,31.5,31.8,6,30.7,0.521,83333000,"October 15, 2021"
+RC-0020,LA102,Cornwall Council,South West ,2020,Unclassified,375.8,59.3,20,11.8,8.9,0.742,17027000,06/03/2020
+RC-0021,LA102,Cornwall Council,South West,2023,Motorway,738.6,55.6,39.2,23.9,0,,2081000,"June 18, 2023"
+RC-0022,LA036,London Borough of Tower Hamlets,London,2019,A Road,647.1,40.3,16.3,5.7,37.7,0.515,65350000,16/02/2019
+RC-0023,LA036,London Borough of Tower Hamlets,London,2020,Unclassified,169.2,49.5,19.8,6.2,24.5,0.629,33325000,06/15/2020
+RC-0024,LA036,London Borough of Tower Hamlets,London,2023,B Road,656.9,48.2,15.6,24.1,12.1,,,"October 13, 2023"
+RC-0025,LA036,London Borough of Tower Hamlets,London,2022,B Road,792.9,28.3,21,16.3,34.4,0.45,83288000,2022-01-06
+RC-0026,LA036,London Borough of Tower Hamlets,London,2021,A Road,416.9,54.6,24.6,10.5,10.3,0.72,27432000,20/02/2021
+RC-0027,LA090,Hastings Borough Council,South East,2022,A Road,792.6,24.3,18.9,21.4,35.4,0.41,56876000,13/01/2022
+RC-0028,LA090,Hastings Borough Council,South East,2019,Motorway,211.9,56.6,39.8,19.1,0,0.853,60874000,"January 27, 2019"
+RC-0029,LA090,Hastings Borough Council,South East,2021,C Road,296.2,27,30.1,12.3,30.6,0.481,11440000,2021-09-23
+RC-0030,LA131,Calderdale Metropolitan Borough Council,Yorkshire and The Humber,2019,B Road,527.1,42.4,33.2,16,8.4,0.663,10784000,24/03/2019
+RC-0031,LA131,Calderdale Metropolitan Borough Council,Yorkshire and The Humber,2023,A Road,276.5,54.9,15.1,24.8,5.2,0.702,,2023-07-27
+RC-0032,LA104,Somerset West and Taunton Council,South West,2021,B Road,605.3,52.1,32.5,7,8.4,,80023000,"October 2, 2021"
+RC-0033,LA104,Somerset West and Taunton Council,South West,2022,A Road,488.3,45.8,28.8,8.3,17.1,0.652,26140000,27 November 2022
+RC-0034,LA104,Somerset West and Taunton Council,South West ,2019,Motorway,81.7,59.1,35,12.9,0,0.833,7275000,"August 13, 2019"
+RC-0035,LA001,Derby City Council,East Midlands,2019,A Road,602.2,26.7,38,5.6,29.7,0.509,65874000,"June 10, 2019"
+RC-0036,LA001,Derby City Council,East midlands,2022,Motorway,385.8,59.5,21.7,15.8,3,0.765,3976000,"August 18, 2022"
+RC-0037,LA001,Derby City Council,East Midlands,2023,Unclassified,598.7,20.4,18.3,15.8,45.5,0.353,66687000,2023-09-26
+RC-0038,LA148,West Lancashire Borough Council,North West,2021,Unclassified,49.7,42.5,39.3,6.5,11.7,0.677,,"October 23, 2021"
+RC-0039,LA148,West Lancashire Borough Council,North West,2019,B Road,598,23.1,30.6,6.3,40,0.43,81770000,"July 5, 2019"
+RC-0040,LA148,West Lancashire Borough Council,North west,2020,Unclassified,289.3,40.9,26.6,6,26.5,0.584,71910000,2020-03-15
+RC-0041,LA054,Middlesbrough Council,NE England,2019,B Road,230.7,55.8,15.6,12.2,16.4,,20717000,6 September 2019
+RC-0042,LA054,Middlesbrough Council,North East,2023,C Road,551.1,58.8,34,13,0,0.824,22695000,17 June 2023
+RC-0043,LA012,Melton Borough Council,EAST MIDLANDS,2020,Unclassified,271.7,51.1,16.4,22.4,10.1,0.665,10985000,24 October 2020
+RC-0044,LA012,Melton Borough Council ,East Midlands,2021,Unclassified,239.1,39.4,25.6,21,14,0.6,66826000,10 October 2021
+RC-0045,LA012,Melton Borough Council,East Midlands,2022,C Road,444,31.2,36.2,24.9,7.7,0.591,11062000,11/01/2022
+RC-0046,LA034,London Borough of Camden,London,2019,A Road,590.1,31.1,28.6,8.4,31.9,0.504,54393000,01/05/2019
+RC-0047,LA034,London Borough of Camden,Greater London,2021,B Road,437.9,29.8,19.9,23,27.3,0.475,11526000,14 July 2021
+RC-0048,LA034,London Borough of Camden,London ,2023,C Road,87.8,55.7,30,7.5,6.8,0.756,74661000,24/03/2023
+RC-0049,LA078,Southampton City Council,South East,2021,C Road,210,57.2,35.8,19.8,0,0.836,41270000,08/17/2021
+RC-0050,LA078,Southampton City Council,South East,2020,B Road,569.6,23.8,33,14,29.2,0.471,57136000,2020-07-06
+RC-0051,LA078,Southampton City Council,South East,2022,B Road,553,41.3,37.6,20.6,0.5,0.69,52598000,"March 20, 2022"
+RC-0052,LA112,Dudley Metropolitan Borough Council,West Midlands,2019,Unclassified,148.8,39.8,20.9,6.6,32.7,0.54,44331000,2019-11-01
+RC-0053,LA112,Dudley Metropolitan Borough Council,West Midlands,2022,A Road,603,51.4,28.1,23.1,0,0.74,82824000,15 November 2022
+RC-0054,LA150,Hyndburn Borough Council,North West,2019,A Road,231.8,53.5,24,10.4,12.1,0.705,23319000,2019-09-23
+RC-0055,LA150,Hyndburn Borough Council,NW England,2020,B Road,205.7,25,28.1,6.4,40.5,0.435,82133000,12/22/2020
+RC-0056,LA150,Hyndburn Borough Council,North West,2023,A Road,832.8,52.9,39.7,7.7,0,0.786,78146000,09/06/2023
+RC-0057,LA147,Chorley Borough Council,North West,2019,C Road,708.3,39.3,37.9,12.8,10,0.652,48111000,"November 17, 2019"
+RC-0058,LA147,Chorley Borough Council,North West,2023,A Road,126.1,58.6,16.5,7.9,17,0.705,79961000,2023-08-28
+RC-0059,LA147,Chorley Borough Council,North West ,2020,C Road,630.6,26.4,27.9,24.9,20.8,0.494,72978000,22/09/2020
+RC-0060,LA032,Hertsmere Borough Council,East of England,2022,C Road,784.5,57.4,23.8,21.4,0,0.77,78400000,05/06/2022
+RC-0061,LA032,Hertsmere Borough Council,East of England,2021,B Road,190.4,29,28.9,8.9,33.2,0.486,22654000,10/16/2021
+RC-0062,LA032,Hertsmere Borough Council,East of England,2023,B Road,68.5,27.3,17.2,7.3,48.2,0.394,61918000,"June 19, 2023"
+RC-0063,LA024,Chelmsford City Council,East of England,2023,Unclassified,527.8,35.3,26.7,17.1,20.9,0.556,42559000,18 March 2023
+RC-0064,LA024,Chelmsford City Council,East Of England,2021,A Road,541.9,52.1,15.2,12.1,20.6,0.642,70901000,10 February 2021
+RC-0065,LA024,Chelmsford City Council,East Of England,2019,B Road,300.4,40.5,33.9,20.5,5.1,0.66,,04/22/2019
+RC-0066,LA024,Chelmsford City Council,East of England,2020,C Road,511.9,48.6,19.4,18.9,13.1,0.65,68308000,2020-07-21
+RC-0067,LA024,Chelmsford City Council,East of England,2022,C Road,765.7,52.9,18,10.2,18.9,0.662,,"May 17, 2022"
+RC-0068,LA149,Rossendale Borough Council,North West ,2019,B Road,115.4,56.4,24,21.2,0,0.761,11143000,2019-10-28
+RC-0069,LA149,Rossendale Borough Council,North West,2020,Motorway,31.5,21,35.9,5.5,37.6,0.439,53904000,10/07/2020
+RC-0070,LA149,Rossendale Borough Council,North West,2021,C Road,653.4,38.9,16.9,16,28.2,0.53,80766000,05/18/2021
+RC-0071,LA149,Rossendale Borough Council,North West,2023,Unclassified,285.8,31.2,25.8,16.7,26.3,0.509,60388000,01/23/2023
+RC-0072,LA149,Rossendale Borough Council,North West,2022,Unclassified,591.6,21.4,39.2,8.9,30.5,0.471,,"November 10, 2022"
+RC-0073,LA081,Slough Borough Council,South East,2019,Motorway,425.1,41.3,31.8,18.9,8,0.651,2621000,03/10/2019
+RC-0074,LA081,Slough Borough Council,South East,2020,A Road,133.5,45.6,37.3,23.2,0,0.738,3474000,10/22/2020
+RC-0075,LA081,Slough Borough Council,South East,2022,Motorway,590.3,49,39.9,13.2,0,0.762,59922000,01/26/2022
+RC-0076,LA138,Scarborough Borough Council,Yorkshire and The Humber,2021,B Road,434.2,45.6,29.4,8.2,16.8,0.653,71207000,5 November 2021
+RC-0077,LA138,Scarborough Borough Council,Yorkshire and The Humber,2023,C Road,409,39.9,34.2,10.7,15.2,0.631,14187000,07/03/2023
+RC-0078,LA138,Scarborough Borough Council,Yorkshire and The Humber,2019,Unclassified,742.1,33,37.3,19.8,9.9,0.603,18649000,"March 9, 2019"
+RC-0079,LA138,Scarborough Borough Council,Yorkshire And The Humber ,2022,B Road,632.3,50.9,16.2,15.7,17.2,0.645,72231000,"December 14, 2022"
+RC-0080,LA121,Lichfield District Council,W Midlands,2019,C Road,178.1,35.3,30.4,11.9,22.4,0.565,18585000,"October 6, 2019"
+RC-0081,LA121,Lichfield District Council,West Midlands,2020,B Road,690.8,41,25.3,19.5,14.2,0.611,11770000,"January 15, 2020"
+RC-0082,LA033,City of London Corporation,London,2022,C Road,90.6,22,32.5,6,39.5,0.43,51756000,2022-08-24
+RC-0083,LA033,City of London Corporation,London,2021,B Road,333.6,52.5,24.9,13.1,9.5,,,"December 22, 2021"
+RC-0084,LA033,City of London Corporation,London,2019,C Road,537.8,50.3,21.6,20.8,7.3,0.685,,07/15/2019
+RC-0085,LA044,London Borough of Harrow,London,2020,Unclassified,234.9,22.4,31.5,15.5,30.6,0.452,78801000,03/04/2020
+RC-0086,LA044,London Borough of Harrow,London,2022,Unclassified,39.2,22.3,36.9,11.2,29.6,,84106000,21/01/2022
+RC-0087,LA044,London Borough of Harrow,London,2023,A Road,97.3,22.4,24.9,23.7,29,0.433,67971000,2023-06-10
+RC-0088,LA060,Redcar and Cleveland Borough Council,North East,2020,A Road,784.3,42.9,21,19.4,16.7,0.604,47546000,20 August 2020
+RC-0089,LA060,Redcar and Cleveland Borough Council,North East,2023,B Road,834,44.1,25.3,16.1,14.5,0.633,43516000,"April 15, 2023"
+RC-0090,LA060,Redcar and Cleveland Borough Council ,North East,2019,Unclassified,31.6,28.4,26.2,24.8,20.6,0.503,42749000,06/04/2019
+RC-0091,LA060,Redcar and Cleveland Borough Council,North East,2022,B Road,220.3,59.1,25.4,22.4,0,0.799,70625000,25 June 2022
+RC-0092,LA072,Preston City Council,North West,2020,C Road,402.8,29.4,21.6,9.2,39.8,0.447,9684000,2020-12-01
+RC-0093,LA072,Preston City Council,North West,2022,C Road,842.1,49.1,37,10.2,3.7,0.738,65038000,2022-07-23
+RC-0094,LA072,Preston City Council ,North West,2019,C Road,303.3,54.2,38,9.9,0,0.795,2415000,"June 7, 2019"
+RC-0095,LA052,South Tyneside Metropolitan Borough Council,North East,2023,C Road,600.7,45.7,18.5,15.2,20.6,0.606,36642000,11/03/2023
+RC-0096,LA052,South Tyneside Metropolitan Borough Council,North East,2022,C Road,106.7,44.4,32.5,23.3,0,0.697,8037000,4 March 2022
+RC-0097,LA143,Malvern Hills District Council,West Midlands,2019,A Road,227.4,23.8,31.8,16.5,27.9,0.47,4096000,10/07/2019
+RC-0098,LA143,Malvern Hills District Council,W Midlands,2023,C Road,703.4,35.1,37.3,22.3,5.3,0.631,79847000,10/26/2023
+RC-0099,LA098,Swindon Borough Council,South West,2020,A Road,631.5,40.3,29.5,22,8.2,0.635,23978000,"September 5, 2020"
+RC-0100,LA098,Swindon Borough Council,South West,2023,Motorway,819.5,50.5,19.8,24.3,5.4,0.685,58295000,05/25/2023
+RC-0101,LA098,Swindon Borough Council,South West ,2021,A Road,655.2,20,22.8,16.3,40.9,0.378,998000,22/01/2021
+RC-0102,LA098,Swindon Borough Council,South West,2022,B Road,688.5,36.1,23.9,13.9,26.1,0.539,,2022-02-10
+RC-0103,LA098,Swindon Borough Council,South West,2019,Motorway,234.2,30.4,16.2,9.3,44.1,0.424,61453000,01/05/2019
+RC-0104,LA069,Wigan Metropolitan Borough Council,North West,2022,Unclassified,185.4,24.4,20.2,8.7,46.7,0.387,12512000,12 January 2022
+RC-0105,LA069,Wigan Metropolitan Borough Council,North West,2019,Motorway,17.7,55.5,36.8,17.5,0,0.82,38728000,"November 18, 2019"
+RC-0106,LA087,Thanet District Council,South East,2022,Motorway,67,43.4,39.6,16.4,0.6,0.713,34382000,"December 15, 2022"
+RC-0107,LA087,Thanet District Council,South East,2021,C Road,339.7,35.7,24.2,13.2,26.9,0.535,74048000,18/11/2021
+RC-0108,LA099,Bath and North East Somerset Council,South West,2019,A Road,181.6,53.7,26.7,9,10.6,0.72,48683000,11/10/2019
+RC-0109,LA099,Bath and North East Somerset Council,South West,2020,Unclassified,693.2,42,28.9,8.8,20.3,0.615,81672000,14/11/2020
+RC-0110,LA123,Cannock Chase District Council,West Midlands,2020,Motorway,404.1,35.8,28,20.7,15.5,0.578,22625000,12/13/2020
+RC-0111,LA123,Cannock Chase District Council,West midlands,2023,B Road,570,49.8,19.6,18.3,12.3,0.661,12216000,"January 13, 2023"
+RC-0112,LA128,Hull City Council,Yorkshire and The Humber,2022,Unclassified,86.3,40.7,32.7,20.8,5.8,0.655,63505000,"November 16, 2022"
+RC-0113,LA128,Hull City Council,Yorkshire and The Humber,2019,B Road,299.7,46.8,25.1,8,20.1,0.639,28239000,07/12/2019
+RC-0114,LA128,Hull City Council,Yorkshire and The Humber,2020,Motorway,127.3,23.1,27.1,12.7,37.1,0.425,,14 November 2020
+RC-0115,LA128,Hull City Council,Yorkshire and The Humber,2023,B Road,775,40.6,38.8,13.1,7.5,0.672,19841000,2023-10-03
+RC-0116,LA128,Hull City Council,Yorkshire and The Humber,2021,Motorway,181.9,30.8,18.8,22.3,28.1,,78206000,22 February 2021
+RC-0117,LA064,Oldham Metropolitan Borough Council,North West,2023,Unclassified,167.4,20.1,17.5,10.5,51.9,0.332,57443000,20/09/2023
+RC-0118,LA027,Basildon Borough Council,East of England,2023,Unclassified,369.7,58,26.6,20.9,0,0.792,24237000,10/07/2023
+RC-0119,LA027,Basildon Borough Council,East of England,2019,B Road,694.5,51,17.3,21,10.7,0.666,4051000,"December 20, 2019"
+RC-0120,LA027,Basildon Borough Council,East of England,2020,Unclassified,261.1,50.7,28,21.1,0.2,,24475000,4 March 2020
+RC-0121,LA129,Wakefield Metropolitan District Council,Yorkshire and The Humber,2020,Motorway,96.6,23.4,26.6,16,34,0.434,83455000,08/18/2020
+RC-0122,LA129,Wakefield Metropolitan District Council,Yorkshire and The Humber,2022,A Road,271,28.1,23.1,18.7,30.1,0.466,8045000,12 July 2022
+RC-0123,LA074,Blackburn with Darwen Borough Council,North West,2019,C Road,622.7,58.3,29.5,18.3,0,0.806,,"August 13, 2019"
+RC-0124,LA074,Blackburn with Darwen Borough Council,North West,2020,Unclassified,93.6,50.8,34.7,23.8,0,0.776,66237000,2020-11-07
+RC-0125,LA127,Bradford Metropolitan District Council,Yorkshire and The Humber,2020,Unclassified,780.1,28.4,29.8,6.7,35.1,0.48,11073000,09/23/2020
+RC-0126,LA051,Gateshead Metropolitan Borough Council,North East,2019,C Road,636.3,35.5,37.9,23,3.6,0.64,,2019-06-22
+RC-0127,LA051,Gateshead Metropolitan Borough Council,North East,2020,Unclassified,562.1,45.2,20.5,18.1,16.2,,13258000,21 October 2020
+RC-0128,LA051,Gateshead Metropolitan Borough Council,North East,2021,Motorway,129.6,42.3,24.6,17.7,15.4,,45786000,03/24/2021
+RC-0129,LA051,Gateshead Metropolitan Borough Council,NE England,2022,B Road,721,43.5,30.8,10.8,14.9,0.647,18518000,09/27/2022
+RC-0130,LA051,Gateshead Metropolitan Borough Council,North East,2023,C Road,374.9,25.2,23.5,15.1,36.2,0.431,82234000,2023-08-16
+RC-0131,LA066,Stockport Metropolitan Borough Council,North West,2019,A Road,457.9,26,36.2,23.6,14.2,,12425000,"February 7, 2019"
+RC-0132,LA139,Harrogate Borough Council,Yorkshire and The Humber,2021,C Road,210.7,22.9,31.3,8.3,37.5,0.438,77320000,2021-01-02
+RC-0133,LA139,Harrogate Borough Council,Yorkshire And The Humber ,2023,Motorway,27.2,31.3,39.9,9.7,19.1,0.577,15779000,27/06/2023
+RC-0134,LA142,Bromsgrove District Council,West Midlands,2019,A Road,638.1,38.3,34.1,16.1,11.5,0.628,76588000,10 April 2019
+RC-0135,LA142,Bromsgrove District Council,West Midlands,2023,Motorway,282,37,38.3,22.7,2,0.657,76848000,2023-06-12
+RC-0136,LA142,Bromsgrove District Council,West midlands,2021,Motorway,293.4,28.2,23.7,7.3,40.8,0.442,5576000,"December 8, 2021"
+RC-0137,LA142,Bromsgrove District Council,West Midlands,2020,C Road,566.5,25.1,25.5,13.8,35.6,0.439,46215000,"January 19, 2020"
+RC-0138,LA142,Bromsgrove District Council,West Midlands,2022,Motorway,416.3,21.6,29.3,17,32.1,0.434,1742000,2022-09-19
+RC-0139,LA083,Oxford City Council,South East,2022,Motorway,81.4,34.4,18.4,10.3,36.9,0.48,11823000,06/04/2022
+RC-0140,LA084,Canterbury City Council,South East,2022,Motorway,755.7,51.1,16.1,8.1,24.7,0.628,21810000,2022-09-24
+RC-0141,LA084,Canterbury City Council,South East,2021,Motorway,376.3,23.6,29.3,10,37.1,0.437,58804000,11/13/2021
+RC-0142,LA084,Canterbury City Council,South East,2019,Unclassified,198.4,38.4,22.2,16.4,23,0.558,45880000,17 January 2019
+RC-0143,LA084,Canterbury City Council,South East,2023,B Road,450.7,59.5,19.3,12.5,8.7,0.742,67596000,14/02/2023
+RC-0144,LA048,London Borough of Merton,London,2019,B Road,256.2,29.2,21.5,13.8,35.5,0.456,70921000,04/19/2019
+RC-0145,LA048,London Borough of Merton,Greater London,2020,B Road,480.1,58.7,34.7,15.7,0,0.834,33729000,"June 8, 2020"
+RC-0146,LA048,London Borough of Merton,London,2021,Unclassified,31,22.7,30.4,16.7,30.2,0.451,,"January 1, 2021"
+RC-0147,LA048,London Borough of Merton,London,2022,Motorway,472.7,49.8,33.6,18,0,0.745,680000,2022-05-14
+RC-0148,LA048,London Borough of Merton,London,2023,C Road,511.3,52.5,35.1,15.9,0,0.775,42038000,2023-09-23
+RC-0149,LA137,North Yorkshire County Council,Yorkshire and The Humber,2020,Unclassified,530.5,51.1,21.1,11.7,16.1,0.667,61027000,"June 2, 2020"
+RC-0150,LA137,North Yorkshire County Council,Yorkshire and The Humber,2021,C Road,481.3,26.8,28.2,7.9,37.1,0.457,46639000,03/13/2021
+RC-0151,LA137,North Yorkshire County Council,Yorkshire and The Humber,2022,B Road,454.4,55.8,33.8,20.7,0,0.813,67529000,09/26/2022
+RC-0152,LA006,Lincoln City Council,East Midlands,2023,B Road,180.6,22.5,35.4,13.6,28.5,0.471,53311000,01/08/2023
+RC-0153,LA006,Lincoln City Council,East Midlands,2020,A Road,356.5,59.9,32.3,8.7,0,0.815,37473000,09/24/2020
+RC-0154,LA006,Lincoln City Council,East Midlands,2019,Unclassified,388.6,46.2,22.4,21.6,9.8,0.65,49794000,22 January 2019
+RC-0155,LA004,Northampton Borough Council,East Midlands,2021,C Road,718.4,25.8,36.8,24.8,12.6,0.541,6422000,"November 5, 2021"
+RC-0156,LA004,Northampton Borough Council,East midlands,2020,C Road,688,36.7,22.7,24.1,16.5,0.563,66228000,26 July 2020
+RC-0157,LA004,Northampton Borough Council,East Midlands,2022,C Road,376,55.3,34.9,8,1.8,0.782,29381000,11 June 2022
+RC-0158,LA144,Wyre Borough Council,North West,2021,B Road,508.9,59.8,37.2,11,0,0.849,72656000,09/27/2021
+RC-0159,LA144,Wyre Borough Council,North West,2022,Unclassified,95.3,56.8,37.6,12.3,0,0.824,54737000,2022-09-01
+RC-0160,LA092,Crawley Borough Council,South east,2023,A Road,224.4,20.9,25.7,8.3,45.1,0.384,37126000,14/07/2023
+RC-0161,LA092,Crawley Borough Council,South East,2022,Unclassified,483.5,55.3,35.4,21.4,0,0.819,,2022-03-11
+RC-0162,LA140,Selby District Council,Yorkshire and The Humber,2022,B Road,231.8,35.2,16.3,8.2,40.3,0.47,12285000,23/05/2022
+RC-0163,LA140,Selby District Council,Yorkshire and The Humber,2021,B Road,770.9,40,35.5,8.6,15.9,,62972000,"November 10, 2021"
+RC-0164,LA140,Selby District Council,Yorkshire and The Humber,2020,B Road,815.8,28.1,17.7,5.5,48.7,0.401,74414000,27/06/2020
+RC-0165,LA080,Reading Borough Council,South East ,2020,A Road,735.3,52.2,30.4,24.7,0,0.766,7977000,18 September 2020
+RC-0166,LA080,Reading Borough Council,South East,2023,B Road,703.8,53.4,34,8.2,4.4,0.758,68783000,11 July 2023
+RC-0167,LA124,Redditch Borough Council,West Midlands,2020,A Road,845.6,22.6,34.7,12.1,30.6,0.464,12625000,2020-05-15
+RC-0168,LA124,Redditch Borough Council,West Midlands,2023,Motorway,799.6,41.4,31,19.6,8,0.649,69696000,11/27/2023
+RC-0169,LA047,London Borough of Richmond upon Thames,London,2020,C Road,686.8,34.9,38.8,8.3,18,0.603,68474000,"December 15, 2020"
+RC-0170,LA047,London Borough of Richmond upon Thames,London,2023,Motorway,465,54.5,34.4,13.1,0,0.784,24465000,2023-12-23
+RC-0171,LA141,Wyre Forest District Council,W Midlands,2023,Unclassified,514,38.4,15.2,23.3,23.1,0.533,,06/10/2023
+RC-0172,LA049,Newcastle upon Tyne City Council,North East,2019,C Road,513.5,49.2,19,23.6,8.2,0.665,32261000,08/13/2019
+RC-0173,LA049,Newcastle upon Tyne City Council,North East,2020,B Road,722,40.5,37.8,6,15.7,0.647,73747000,2020-06-09
+RC-0174,LA049,Newcastle upon Tyne City Council,North East ,2023,Motorway,586.3,48.5,36.5,22.9,0,0.761,,"March 4, 2023"
+RC-0175,LA050,Sunderland City Council,North East,2023,Motorway,544.5,34.4,37.4,21.8,6.4,0.623,77310000,8 November 2023
+RC-0176,LA050,Sunderland City Council,NE England,2021,A Road,180.6,41.3,33.8,15.2,9.7,0.654,72057000,2021-05-24
+RC-0177,LA130,Kirklees Metropolitan Council,Yorkshire and The Humber,2019,Unclassified,357.4,36.7,18.6,24.2,20.5,0.539,13199000,2019-05-10
+RC-0178,LA130,Kirklees Metropolitan Council,Yorkshire and The Humber,2022,Motorway,328.2,31,33.8,12.2,23,,54652000,05/20/2022
+RC-0179,LA039,London Borough of Southwark,London,2022,A Road,500.6,30.6,21.5,6.3,41.6,0.451,82510000,22/07/2022
+RC-0180,LA039,London Borough of Southwark,London,2023,Motorway,692.5,33,27.5,17.7,21.8,0.539,26917000,12/02/2023
+RC-0181,LA040,London Borough of Lambeth,London ,2023,A Road,211,58.1,20.9,10,11,0.731,29923000,10/07/2023
+RC-0182,LA040,London Borough of Lambeth,London,2019,B Road,498.8,49.1,34.1,20.5,0,,15342000,12/12/2019
+RC-0183,LA040,London Borough of Lambeth,London,2022,A Road,144.9,51.3,39.3,22.6,0,0.805,58629000,"October 12, 2022"
+RC-0184,LA040,London Borough of Lambeth,London,2021,C Road,271.5,58.5,37.2,15.5,0,0.847,69243000,2021-12-09
+RC-0185,LA026,Braintree District Council,East of England,2020,C Road,206.2,54.9,38.6,7.1,0,0.798,21862000,09/08/2020
+RC-0186,LA067,Tameside Metropolitan Borough Council,North West,2019,C Road,573.7,57.6,18.1,13.7,10.6,0.719,11720000,03/26/2019
+RC-0187,LA135,York City of Council,Yorkshire and The Humber,2023,Motorway,245.6,34.1,24.3,7.4,34.2,0.505,80716000,19 August 2023
+RC-0188,LA135,York City of Council,Yorkshire and The Humber,2019,C Road,547.3,24.6,19.7,13.4,42.3,0.398,57546000,2019-02-12
+RC-0189,LA057,Darlington Borough Council,North East,2020,Unclassified,190.3,40.3,20.1,7.8,31.8,0.543,5343000,04/03/2020
+RC-0190,LA057,Darlington Borough Council,North East,2023,A Road,826.2,33.9,38.6,6.1,21.4,0.586,21885000,17 September 2023
+RC-0191,LA010,Hinckley and Bosworth Borough Council,East Midlands,2019,Unclassified,398.3,53.9,29,17,0.1,0.755,38998000,04/03/2019
+RC-0192,LA010,Hinckley and Bosworth Borough Council,East Midlands,2022,Unclassified,461.6,56,28,20.9,0,0.78,22592000,06/03/2022
+RC-0193,LA010,Hinckley and Bosworth Borough Council,East Midlands,2020,Unclassified,101.7,34.3,32.4,18.9,14.4,0.585,61499000,14 August 2020
+RC-0194,LA122,Tamworth Borough Council,West Midlands,2021,C Road,684.7,32.4,32.8,24.5,10.3,0.582,41151000,28/02/2021
+RC-0195,LA122,Tamworth Borough Council,West Midlands,2020,Unclassified,778.5,27.5,15.9,15.2,41.4,0.408,59781000,17 August 2020
+RC-0196,LA122,Tamworth Borough Council,West Midlands,2019,C Road,749.1,48.5,26.9,16.2,8.4,0.687,21333000,"August 24, 2019"
+RC-0197,LA122,Tamworth Borough Council,West midlands,2022,A Road,431.4,48.4,25.9,5.1,20.6,0.652,42023000,12/12/2022
+RC-0198,LA136,East Riding of Yorkshire Council,Yorkshire and The Humber,2021,C Road,686.9,59.5,16.5,14.2,9.8,0.73,24272000,09/04/2021
+RC-0199,LA136,East Riding of Yorkshire Council,yorkshire and the humber,2019,B Road,830.7,57,31.1,23.4,0,0.815,67088000,24 November 2019
+RC-0200,LA145,Fylde Borough Council,North West,2020,A Road,635.1,23.1,21.3,18.4,37.2,0.405,53277000,03/03/2020
+RC-0201,LA145,Fylde Borough Council,North West,2022,Unclassified,145,27.2,15.2,5.2,52.4,0.376,83784000,"September 1, 2022"
+RC-0202,LA145,Fylde Borough Council,North west,2019,B Road,49,28.1,33.8,23.5,14.6,0.543,46113000,10/03/2019
+RC-0203,LA145,Fylde Borough Council,North West,2023,Motorway,376.9,42.9,26.5,19.4,11.2,0.636,5837000,01/24/2023
+RC-0204,LA076,Lancaster City Council,North West ,2022,C Road,650.5,37.3,38.8,11.2,12.7,0.634,72335000,04/25/2022
+RC-0205,LA076,Lancaster City Council,North West,2021,C Road,217.7,49.2,28.2,23.5,0,0.72,4370000,09/09/2021
+RC-0206,LA113,Sandwell Metropolitan Borough Council,West Midlands ,2019,A Road,785.9,50.8,23.7,22.8,2.7,0.707,77055000,21 October 2019
+RC-0207,LA113,Sandwell Metropolitan Borough Council,West Midlands ,2023,Unclassified,647.8,38.2,24,20,17.8,0.576,32230000,11/27/2023
+RC-0208,LA019,Cambridge City Council,East of England,2023,A Road,545.6,30.4,22.7,19.4,27.5,0.489,83445000,10 August 2023
+RC-0209,LA019,Cambridge City Council,East of England,2019,Unclassified,130.4,52.1,26.9,23.2,0,0.74,84826000,20 January 2019
+RC-0210,LA002,Nottingham City Council,East Midlands,2023,A Road,203.9,40.2,24,20,15.8,0.596,36928000,11/08/2023
+RC-0211,LA056,Stockton-on-Tees Borough Council,North East,2022,Motorway,470.9,30.5,26.1,21,22.4,0.514,78855000,10/11/2022
+RC-0212,LA056,Stockton-on-Tees Borough Council,North East,2023,B Road,426.9,57.8,37.6,11.4,0,0.832,38804000,25/04/2023
+RC-0213,LA056,Stockton-on-Tees Borough Council,North East,2019,Motorway,76,48.6,24.9,14.6,11.9,0.672,2227000,4 September 2019
+RC-0214,LA017,Norwich City Council,East of England,2023,A Road,197.3,38.9,30.7,24.2,6.2,0.634,19139000,2023-06-10
+RC-0215,LA017,Norwich City Council,East of England,2021,A Road,298.4,31.5,19.6,5.9,43,0.447,,21 January 2021
+RC-0216,LA105,South Gloucestershire Council,South West,2021,C Road,487.6,57.2,37,10.8,0,0.821,45418000,1 June 2021
+RC-0217,LA105,South Gloucestershire Council,South West,2022,C Road,413.9,29.6,32,20,18.4,0.538,80886000,12 April 2022
+RC-0218,LA105,South Gloucestershire Council,South West,2020,B Road,59.6,23.7,36.6,7.3,32.4,0.475,68432000,28 March 2020
+RC-0219,LA082,Milton Keynes Council,South East,2020,Motorway,643.9,58.9,39.7,20,0,0.877,79141000,13/09/2020
+RC-0220,LA082,Milton Keynes Council,South East,2021,Motorway,291.5,43.7,18.6,8.8,28.9,0.571,67305000,23/01/2021
+RC-0221,LA016,Gedling Borough Council,East Midlands,2019,C Road,183,40.5,21.6,22.7,15.2,0.591,21208000,22/02/2019
+RC-0222,LA016,Gedling Borough Council,East Midlands,2023,Motorway,758.5,36.6,30.9,9.3,23.2,0.575,17020000,07/28/2023
+RC-0223,LA016,Gedling Borough Council,EAST MIDLANDS,2022,A Road,290.9,44.7,25.3,6.4,23.6,0.615,54311000,06/11/2022
+RC-0224,LA028,Harlow District Council,East of England,2021,A Road,606.5,28,22.2,24.9,24.9,,24059000,"July 14, 2021"
+RC-0225,LA028,Harlow District Council,East of England,2019,A Road,100.6,30.3,26.8,16.5,26.4,0.505,73115000,25/05/2019
+RC-0226,LA003,Leicester City Council,East Midlands ,2019,Motorway,113.6,56.2,16.8,23.3,3.7,0.721,45927000,13 April 2019
+RC-0227,LA003,Leicester City Council,East Midlands,2022,B Road,289.3,34.4,34.7,7.1,23.8,0.57,84642000,12/22/2022
+RC-0228,LA065,Rochdale Metropolitan Borough Council,North West,2021,A Road,407.3,35.1,39.1,22.3,3.5,0.641,26738000,08/01/2021
+RC-0229,LA065,Rochdale Metropolitan Borough Council ,North West,2023,A Road,324.1,59.1,28.6,23.5,0,0.821,43633000,2023-10-08
+RC-0230,LA065,Rochdale Metropolitan Borough Council,NW England,2019,Unclassified,225.6,43.8,18.8,13.8,23.6,0.585,78677000,17/06/2019
+RC-0231,LA065,Rochdale Metropolitan Borough Council,North West,2022,Motorway,420.1,58.3,29.7,6,6,0.776,71263000,3 July 2022
+RC-0232,LA126,Sheffield City Council,Yorkshire And The Humber ,2021,C Road,320.3,58.5,28.7,20.7,0,0.809,48591000,07/07/2021
+RC-0233,LA126,Sheffield City Council,Yorkshire and The Humber,2019,B Road,17.9,26,27.8,19.1,27.1,0.475,14369000,2019-02-21
+RC-0234,LA126,Sheffield City Council,Yorkshire and The Humber,2023,Motorway,60.3,36.6,36.4,21.3,5.7,0.638,36078000,"August 11, 2023"
+RC-0235,LA020,Luton Borough Council,East Of England,2019,C Road,761.4,47.6,17.8,13.1,21.5,0.616,55771000,03/01/2019
+RC-0236,LA011,Blaby District Council,East midlands,2023,Unclassified,99,28.9,29.9,7.5,33.7,,69432000,02/19/2023
+RC-0237,LA011,Blaby District Council,East Midlands,2020,C Road,828.2,23,28.4,24.1,24.5,0.461,81232000,11/05/2020
+RC-0238,LA011,Blaby District Council,East Midlands,2022,Motorway,603.8,58.4,35.5,18.6,0,0.844,77213000,11/10/2022
+RC-0239,LA097,Cheltenham Borough Council,South West,2020,A Road,35.1,57.5,15.7,6,20.8,0.684,,08/10/2020
+RC-0240,LA107,Stroud District Council,South West,2021,A Road,827,41.2,19.1,19.8,19.9,0.576,,2021-04-10
+RC-0241,LA043,London Borough of Brent,London,2021,B Road,491.7,46.5,19.8,15.9,17.8,0.624,37312000,06/17/2021
+RC-0242,LA043,London Borough of Brent ,London,2020,B Road,278.2,31.3,24.4,8.4,35.9,0.48,44143000,2 August 2020
+RC-0243,LA058,Durham County Council,NE England,2020,C Road,256.4,41.9,19.3,6.2,32.6,0.55,30517000,2020-02-17
+RC-0244,LA058,Durham County Council,North East,2023,Unclassified,167.6,35.7,36.7,17.2,10.4,0.62,78399000,06/03/2023
+RC-0245,LA058,Durham County Council,North East,2019,Unclassified,404.9,58.7,37.6,16,0,0.853,71053000,"December 26, 2019"
+RC-0246,LA133,Doncaster Metropolitan Borough Council,Yorkshire and The Humber,2023,B Road,419.2,35.5,39.7,9.7,15.1,0.617,49131000,20/11/2023
+RC-0247,LA133,Doncaster Metropolitan Borough Council,Yorkshire and The Humber,2021,B Road,265.7,37.5,36.7,15.7,10.1,0.634,76312000,26 March 2021
+RC-0248,LA038,London Borough of Islington,London,2020,Unclassified,209.9,53.3,33.5,13.4,0,0.767,21519000,15/07/2020
+RC-0249,LA038,London Borough of Islington,London,2021,B Road,536.9,54.1,32.4,20.8,0,0.787,43847000,2021-11-05
+RC-0250,LA014,Newark and Sherwood District Council,East Midlands,2023,Motorway,16.2,34.1,18.7,7.8,39.4,0.473,7601000,17 September 2023
+RC-0251,LA014,Newark and Sherwood District Council,East Midlands,2022,C Road,730.9,45.9,30.9,15.1,8.1,0.682,59595000,08/02/2022
+RC-0252,LA014,Newark and Sherwood District Council,East Midlands,2021,Motorway,547.7,35.1,30.8,18.4,15.7,0.582,49791000,2021-05-21
+RC-0253,LA089,Eastbourne Borough Council,South East,2020,B Road,764.6,53.6,23.3,7.5,15.6,0.695,60862000,08/04/2020
+RC-0254,LA089,Eastbourne Borough Council,South East,2022,A Road,832.9,32.3,20.7,21.5,25.5,0.501,79250000,12/15/2022
+RC-0255,LA031,St Albans City and District Council,East of England ,2022,A Road,214.4,32.6,32.5,7.9,27,0.541,,08/01/2022
+RC-0256,LA031,St Albans City and District Council,East of England,2021,Unclassified,703.5,44.8,20.2,12.3,22.7,0.6,70240000,20/11/2021
+RC-0257,LA031,St Albans City and District Council,East Of England,2020,B Road,54.8,51,36.3,8.7,4,0.75,64784000,26/12/2020
+RC-0258,LA118,Worcester City Council,West Midlands,2021,B Road,95.1,40.1,28.6,6.3,25,0.588,67855000,2021-01-20
+RC-0259,LA118,Worcester City Council,W Midlands,2023,A Road,489.1,29.4,17.8,9,43.8,0.423,65402000,03/06/2023
+RC-0260,LA046,Royal Borough of Kingston upon Thames,Greater London,2019,B Road,78,25.5,30.3,7.9,36.3,,13667000,"October 26, 2019"
+RC-0261,LA046,Royal Borough of Kingston upon Thames,Greater London,2020,A Road,150,41.8,18.9,12.3,27,0.562,3287000,2020-04-18
+RC-0262,LA046,Royal Borough of Kingston upon Thames,London,2023,A Road,532.8,33.6,31.8,9.9,24.7,0.552,74179000,2023-11-02
+RC-0263,LA013,South Kesteven District Council,East Midlands,2023,C Road,568.4,33.7,29.8,5.4,31.1,0.529,20804000,08/08/2023
+RC-0264,LA086,Medway Council,South East,2022,A Road,595.6,54.2,18.8,19,8,0.702,10056000,20/02/2022
+RC-0265,LA086,Medway Council,South East ,2023,Motorway,334.1,32.3,22.9,22.3,22.5,0.516,19577000,"July 16, 2023"
+RC-0266,LA041,London Borough of Lewisham,London,2020,C Road,334.5,56.6,28.6,9.2,5.6,0.761,80608000,11/16/2020
+RC-0267,LA009,Wellingborough Borough Council,East Midlands,2019,A Road,56.3,30,20.5,23.9,25.6,0.483,11249000,2019-07-09
+RC-0268,LA009,Wellingborough Borough Council,East Midlands ,2020,C Road,92.4,32,20.6,14.2,33.2,0.479,69694000,10/18/2020
+RC-0269,LA009,Wellingborough Borough Council,East Midlands,2023,A Road,332.6,55.2,32.9,15.5,0,0.788,31914000,13/05/2023
+RC-0270,LA117,Telford and Wrekin Council,West Midlands,2019,Unclassified,586.5,43.5,25,10.4,21.1,0.611,26081000,2019-01-25
+RC-0271,LA117,Telford and Wrekin Council,West Midlands,2020,A Road,689.3,22.5,21.3,22.7,33.5,0.41,73616000,21 November 2020
+RC-0272,LA117,Telford and Wrekin Council,West midlands,2022,Unclassified,82.5,42.9,21.4,11.1,24.6,0.585,7831000,2022-04-12
+RC-0273,LA007,Mansfield District Council,East Midlands,2021,C Road,328.4,33.6,27.9,23.3,15.2,0.562,45865000,04/05/2021
+RC-0274,LA007,Mansfield District Council,East Midlands,2023,Unclassified,576.4,33.2,24.7,21.4,20.7,0.534,57482000,"April 22, 2023"
+RC-0275,LA061,Manchester City Council,North West ,2021,Unclassified,419.8,35.1,32.5,18.5,13.9,0.592,,11 March 2021
+RC-0276,LA029,Stevenage Borough Council,East of England,2023,Motorway,61.5,56,24.7,18.4,0.9,0.754,79379000,20 September 2023
+RC-0277,LA029,Stevenage Borough Council,East of England,2020,C Road,530.8,34.5,33.9,25,6.6,0.611,25332000,"October 3, 2020"
+RC-0278,LA029,Stevenage Borough Council,East of England ,2021,C Road,787.6,46.4,20.7,6.9,26,0.605,9070000,"June 4, 2021"
+RC-0279,LA029,Stevenage Borough Council,East Of England,2019,Motorway,199.4,29,26.9,21.2,22.9,0.504,20800000,02/11/2019
+RC-0280,LA059,Northumberland County Council,North East,2023,Unclassified,797.6,42,37.3,14.8,5.9,0.681,78033000,12/12/2023
+RC-0281,LA059,Northumberland County Council,North East,2019,B Road,459,27.4,15.2,24.9,32.5,0.427,79024000,11/17/2019
+RC-0282,LA053,North Tyneside Metropolitan Borough Council,North East,2022,A Road,643,39.3,34.7,17.2,8.8,0.644,,17 February 2022
+RC-0283,LA053,North Tyneside Metropolitan Borough Council,North East,2020,Motorway,616,27.1,31.1,16.4,25.4,0.499,2926000,"February 21, 2020"
+RC-0284,LA053,North Tyneside Metropolitan Borough Council,North East,2023,Unclassified,831.9,53.2,27.6,17.1,2.1,,13807000,08/09/2023
+RC-0285,LA053,North Tyneside Metropolitan Borough Council,North East,2021,Motorway,790.9,29.1,30.9,22.9,17.1,0.534,56606000,19/12/2021
+RC-0286,LA053,North Tyneside Metropolitan Borough Council,North East,2019,A Road,236.3,55,17.8,6.5,20.7,0.673,71307000,2019-07-19
+RC-0287,LA132,Barnsley Metropolitan Borough Council,Yorkshire and The Humber,2023,A Road,625.8,49.9,31.9,6.8,11.4,0.707,59461000,2023-01-06
+RC-0288,LA132,Barnsley Metropolitan Borough Council,Yorkshire and The Humber,2021,B Road,147.4,48.5,16.6,24,10.9,0.645,43195000,2021-12-06
+RC-0289,LA132,Barnsley Metropolitan Borough Council,Yorkshire And The Humber ,2019,A Road,102.5,26.4,26.2,17.9,29.5,0.466,33483000,2019-02-15
+RC-0290,LA132,Barnsley Metropolitan Borough Council,Yorkshire and The Humber,2020,B Road,38.7,21.2,23.5,14.4,40.9,0.389,80504000,10 June 2020
+RC-0291,LA132,Barnsley Metropolitan Borough Council,Yorkshire and The Humber,2022,Motorway,325.6,38.9,36.9,8,16.2,0.63,52684000,"February 14, 2022"
+RC-0292,LA134,Rotherham Metropolitan Borough Council,Yorkshire and The Humber,2021,A Road,471.8,27.2,31.6,21.4,19.8,0.515,64157000,"August 17, 2021"
+RC-0293,LA134,Rotherham Metropolitan Borough Council,Yorkshire and The Humber,2022,B Road,464.1,55.9,29.9,17.5,0,0.782,52492000,2022-07-20
+RC-0294,LA134,Rotherham Metropolitan Borough Council,Yorkshire and The Humber,2020,Motorway,335.4,44.6,15.5,7,32.9,0.556,21871000,10/25/2020
+RC-0295,LA134,Rotherham Metropolitan Borough Council,Yorkshire and The Humber,2019,Unclassified,165.1,46.6,20.4,10.5,22.5,0.615,8694000,28/09/2019
+RC-0296,LA134,Rotherham Metropolitan Borough Council,Yorkshire and The Humber,2023,A Road,627.3,59.9,22.2,11.1,6.8,0.76,,25 January 2023
+RC-0297,LA146,South Ribble Borough Council,North West,2022,B Road,227.8,53.2,31.6,7,8.2,0.739,,15/02/2022
+RC-0298,LA146,South Ribble Borough Council,North West,2021,Motorway,599.1,59.3,24.7,11.3,4.7,0.769,68073000,17/06/2021
+RC-0299,LA146,South Ribble Borough Council,North West,2023,B Road,255.4,21.1,24,18.6,36.3,0.401,21012000,5 April 2023
+RC-0300,LA005,Chesterfield Borough Council,East Midlands,2022,Unclassified,803.9,43.4,29.7,5.4,21.5,0.626,82578000,09/11/2022
+RC-0301,LA005,Chesterfield Borough Council,East Midlands,2023,Motorway,491.4,43.3,27.1,19.6,10,0.645,12309000,12/25/2023
+RC-0302,LA005,Chesterfield Borough Council,East Midlands,2020,Unclassified,657.6,35.1,24.4,15.9,24.6,0.537,31309000,"April 7, 2020"
+RC-0303,LA005,Chesterfield Borough Council,EAST MIDLANDS,2019,B Road,567,26,17.7,21.2,35.1,0.419,38117000,18 February 2019
+RC-0304,LA005,Chesterfield Borough Council,East Midlands,2021,B Road,286.9,34.2,21,13.2,31.6,0.501,,"August 6, 2021"
+RC-0305,LA125,Leeds City Council,Yorkshire and The Humber,2022,Motorway,113.2,20.5,25.5,7.6,46.4,0.377,65792000,27/08/2022
+RC-0306,LA125,Leeds City Council,Yorkshire and The Humber,2021,C Road,493.5,56.9,31.3,13.4,0,0.79,,21/03/2021
+RC-0307,LA110,Coventry City Council,W Midlands,2023,Motorway,765.2,20.4,34.6,6,39,0.427,32905000,02/04/2023
+RC-0308,LA119,Herefordshire Council,West Midlands,2020,Motorway,496.8,28.4,29.2,10.7,31.7,0.486,70456000,28/10/2020
+RC-0309,LA119,Herefordshire Council,West Midlands,2023,B Road,699.5,49.2,35.8,15.4,0,0.745,41426000,13 January 2023
+RC-0310,LA119,Herefordshire Council,West Midlands,2019,B Road,452.1,56.1,25.4,5.4,13.1,0.727,84547000,19 January 2019
+RC-0311,LA119,Herefordshire Council,West Midlands,2022,C Road,36.9,53.6,31.2,9,6.2,0.746,46682000,11/21/2022
+RC-0312,LA068,Trafford Metropolitan Borough Council,North West ,2021,C Road,327.4,48.6,16.7,24.4,10.3,0.647,55075000,10/03/2021
+RC-0313,LA068,Trafford Metropolitan Borough Council,North West,2023,Motorway,184.1,42.7,23.3,9,25,,39751000,10/04/2023
+RC-0314,LA095,Exeter City Council,South West,2023,B Road,177.3,25.7,36.2,7.6,30.5,0.493,42806000,"November 5, 2023"
+RC-0315,LA095,Exeter City Council,South West,2019,C Road,416.8,41.2,38.1,8.2,12.5,0.661,29947000,2019-02-27
+RC-0316,LA095,Exeter City Council,South West ,2021,Unclassified,573.1,44.2,16.8,11.2,27.8,0.571,72717000,"October 3, 2021"
+RC-0317,LA073,Blackpool Borough Council,North West,2020,C Road,520.3,23.4,21.3,24.5,30.8,0.423,28946000,27/02/2020
+RC-0318,LA073,Blackpool Borough Council,North West,2021,Motorway,333.1,46.2,29.8,9.3,14.7,0.664,19989000,"April 8, 2021"
+RC-0319,LA045,London Borough of Enfield,London,2023,Unclassified,545.7,47.4,32,22.9,0,0.723,1390000,22 January 2023
+RC-0320,LA023,Thurrock Council,East of England,2022,C Road,34.5,56.5,33.1,6,4.4,0.779,29987000,26 June 2022
+RC-0321,LA023,Thurrock Council,East Of England,2021,Unclassified,130.4,53.6,26.9,8.4,11.1,0.718,46919000,28/09/2021
+RC-0322,LA023,Thurrock Council,East of England,2020,C Road,396.3,31.2,33.5,23,12.3,,48760000,12/26/2020
+RC-0323,LA023,Thurrock Council,East of England,2023,Unclassified,697.2,46.5,15.9,5.1,32.5,0.573,58443000,01/16/2023
+RC-0324,LA055,Hartlepool Borough Council ,North East,2022,Motorway,595.5,33.3,17.8,24.5,24.4,0.501,61573000,"November 13, 2022"
+RC-0325,LA055,Hartlepool Borough Council,North East,2020,B Road,39.4,57.3,24.2,18.2,0.3,0.764,84821000,05/05/2020
+RC-0326,LA055,Hartlepool Borough Council,North East,2021,B Road,185.6,49.1,22.5,21.9,6.5,0.681,62737000,"May 19, 2021"
+RC-0327,LA055,Hartlepool Borough Council,North East,2023,C Road,230.8,39.3,21.9,18.7,20.1,0.571,50755000,24 September 2023
+RC-0328,LA091,Worthing Borough Council,South East ,2021,Unclassified,766.8,47.9,15.5,19.2,17.4,,50212000,1 July 2021
+RC-0329,LA111,Wolverhampton City Council,West Midlands,2023,Unclassified,184.4,25,17,5.2,52.8,,11656000,17 August 2023
+RC-0330,LA111,Wolverhampton City Council,West Midlands,2021,Motorway,689.9,37.5,33.1,5.7,23.7,0.588,54069000,01/02/2021
+RC-0331,LA062,Liverpool City Council,North West,2023,A Road,697.8,45.6,32.5,9.4,12.5,0.674,,2023-06-11
+RC-0332,LA042,London Borough of Greenwich,London,2021,B Road,406.5,54.2,33.6,24.5,0,0.805,9044000,16 April 2021
+RC-0333,LA042,London Borough of Greenwich,London,2019,B Road,653.1,27.2,17.9,18.8,36.1,0.426,40460000,18 August 2019
+RC-0334,LA042,London Borough of Greenwich,London,2022,Motorway,452.2,43.9,19.9,11.5,24.7,,83125000,5 February 2022
+RC-0335,LA025,Colchester Borough Council,East of England,2019,Motorway,390,51.4,17.1,7.4,24.1,0.635,84411000,"June 25, 2019"
+RC-0336,LA025,Colchester Borough Council,East of England,2021,Motorway,330.4,59.5,21.1,14.2,5.2,0.757,74563000,17/04/2021
+RC-0337,LA025,Colchester Borough Council,East of England,2022,A Road,222.2,49.2,20.4,8.7,21.7,0.636,,2022-07-23
+RC-0338,LA025,Colchester Borough Council,East of England,2020,A Road,59.5,52.4,30.7,7.6,9.3,0.727,77769000,2020-06-02
+RC-0339,LA106,North Somerset Council,South West,2021,C Road,675.8,33,35.8,19.1,12.1,0.593,60937000,"December 22, 2021"
+RC-0340,LA106,North Somerset Council,South West,2020,C Road,501.6,50,20.4,20.2,9.4,0.673,2308000,10/04/2020
+RC-0341,LA106,North Somerset Council,South West,2019,Unclassified,45.9,48.2,16,11.9,23.9,0.608,1253000,14 March 2019
+RC-0342,LA106,North Somerset Council,South West,2022,Unclassified,733.8,33.6,33.7,16.2,16.5,0.579,,10 September 2022
+RC-0343,LA094,Plymouth City Council,South West,2021,A Road,395.3,24.9,19.8,6.6,48.7,0.384,83121000,11/13/2021
+RC-0344,LA094,Plymouth City Council,South West,2022,B Road,678.5,56.2,38.9,23.5,0,0.854,68200000,2022-09-14
+RC-0345,LA094,Plymouth City Council,South west,2023,Unclassified,463.8,45.6,15.7,10.6,28.1,0.577,7896000,09/14/2023
+RC-0346,LA079,Portsmouth City Council,South East,2023,A Road,94.4,50.1,32.7,6,11.2,0.712,53354000,12/08/2023
+RC-0347,LA079,Portsmouth City Council,South East,2019,Motorway,366.8,24.1,34.4,25,16.5,0.51,43771000,2019-12-05
+RC-0348,LA079,Portsmouth City Council,South East,2022,B Road,494.2,25.2,38.3,9.2,27.3,0.505,27536000,09/08/2022
+RC-0349,LA015,Broxtowe Borough Council,East Midlands,2022,Motorway,144,29.1,24.4,14.9,31.6,0.475,38147000,2022-08-27
+RC-0350,LA015,Broxtowe Borough Council,East Midlands,2023,A Road,283.3,38.1,37,21.9,3,0.658,31828000,"March 21, 2023"
+RC-0351,LA022,Southend-on-Sea Borough Council,East of England,2022,B Road,193.7,51.9,20.7,24.4,3,0.704,68287000,"January 27, 2022"
+RC-0352,LA022,Southend-on-Sea Borough Council,East of England,2019,Motorway,70.9,59.2,28.5,18.5,0,0.809,77189000,2019-09-22
+RC-0353,LA103,Torbay Council,South West,2019,A Road,715.1,26.9,31.6,12.1,29.4,0.489,,02/05/2019
+RC-0354,LA018,Ipswich Borough Council,East of England,2019,C Road,382.8,51,26.5,8,14.5,0.689,55678000,2019-04-07
+RC-0355,LA116,Stoke-on-Trent City Council,West Midlands,2023,A Road,800.6,22.2,29.4,18.3,30.1,0.444,67857000,26 August 2023
+RC-0356,LA116,Stoke-on-Trent City Council,West Midlands,2019,Motorway,319.3,56.4,19.1,8.1,16.4,0.699,45205000,21/08/2019
+RC-0357,LA100,Wiltshire Council,South West,2023,C Road,46,25.4,17.8,22.9,33.9,0.418,47395000,3 October 2023
+RC-0358,LA100,Wiltshire Council,South West,2021,Unclassified,553.3,59.1,26.6,22.9,0,,75068000,6 June 2021
+RC-0359,LA100,Wiltshire Council,South West,2022,A Road,212.2,56.7,27.4,22.2,0,0.787,,06/20/2022
+RC-0360,LA030,Watford Borough Council,East of England,2019,Motorway,152.1,39.8,20.6,5.5,34.1,0.535,55157000,"October 12, 2019"
+RC-0361,LA030,Watford Borough Council,East of England,2020,A Road,77.5,23.9,38.8,22.3,15,0.528,56690000,05/02/2020
+RC-0362,LA035,London Borough of Hackney,London,2020,C Road,181.9,31.2,18.4,20.7,29.7,0.474,15359000,28/07/2020
+RC-0363,LA035,London Borough of Hackney,London,2019,Motorway,526.1,50.7,35.2,10.7,3.4,0.745,31833000,18/02/2019
+RC-0364,LA115,Solihull Metropolitan Borough Council,West Midlands,2021,Motorway,746.6,31.2,18.4,7.6,42.8,0.441,50249000,"November 16, 2021"
+RC-0365,LA115,Solihull Metropolitan Borough Council,West Midlands,2019,B Road,824.1,46.3,26.3,24.6,2.8,0.682,,2019-10-11
+RC-0366,LA115,Solihull Metropolitan Borough Council,West Midlands,2023,B Road,452.4,26.4,28.1,21.2,24.3,0.486,32097000,2023-09-06
+RC-0367,LA071,Bury Metropolitan Borough Council,North West,2020,Motorway,71.7,53.6,34.7,6.8,4.9,0.761,52482000,"July 3, 2020"
+RC-0368,LA071,Bury Metropolitan Borough Council,North West,2021,Unclassified,246.9,21.6,15.4,23.6,39.4,0.367,48976000,"June 3, 2021"
+RC-0369,LA077,Brighton and Hove City Council,South East,2020,Motorway,413.5,28.8,32.6,12,26.6,0.514,7554000,2020-11-20
+RC-0370,LA077,Brighton and Hove City Council,South East,2023,C Road,505.8,54.3,25.4,15.2,5.1,0.733,,2023-02-12
+RC-0371,LA108,Forest of Dean District Council,South West,2019,C Road,456.8,48.5,21.5,6.1,23.9,0.629,81669000,5 May 2019
+RC-0372,LA108,Forest of Dean District Council,South West,2021,B Road,833.9,31.1,35.9,24.6,8.4,0.588,78550000,2021-09-28
+RC-0373,LA063,Salford City Council,NW England,2021,A Road,714.5,26.4,15.5,20.2,37.9,,,"May 4, 2021"
+RC-0374,LA063,Salford City Council,North West,2019,C Road,332.6,22.2,35.8,17.2,24.8,0.48,82057000,01/15/2019
+RC-0375,LA063,Salford City Council,North West,2020,Motorway,240.5,53.6,21.2,7.8,17.4,0.683,69911000,2020-10-25
+RC-0376,LA063,Salford City Council,North West,2023,C Road,453.5,30,25.7,15.7,28.6,0.493,35987000,2023-01-08
+RC-0377,LA063,Salford City Council,North West,2022,C Road,255.8,21,18.2,25,35.8,0.382,76096000,01/27/2022
+RC-0378,LA088,Folkestone and Hythe District Council,South east,2021,A Road,144,37.3,17.6,9.2,35.9,0.502,32523000,03/08/2021
+RC-0379,LA088,Folkestone and Hythe District Council,South East,2019,A Road,256.2,21,21.3,16,41.7,0.378,36146000,"October 10, 2019"
+RC-0380,LA075,Burnley Borough Council,North West,2022,A Road,716.2,20.6,32.3,20.1,27,0.45,8693000,9 June 2022
+RC-0381,LA075,Burnley Borough Council,North West,2023,Motorway,535.8,57.9,27.5,24.7,0,,17557000,05/12/2023
+RC-0382,LA075,Burnley Borough Council,North West,2020,Unclassified,212.1,29.5,18.2,21,31.3,0.457,,10/27/2020
+RC-0383,LA021,Peterborough City Council,East Of England,2023,Motorway,343.8,54.2,28.3,11.3,6.2,,50092000,09/07/2023
+RC-0384,LA101,Dorset Council,South West ,2021,C Road,760.6,36.3,22.1,9.3,32.3,0.519,67672000,"September 5, 2021"
+RC-0385,LA101,Dorset Council,SW England,2020,A Road,355.5,27.6,27.8,9.2,35.4,0.466,22656000,22 November 2020
+RC-0386,LA037,London Borough of Newham,LONDON,2019,Motorway,726.6,55.1,16.2,21.7,7,0.702,22979000,13/05/2019
+RC-0387,LA070,Bolton Metropolitan Borough Council,North west,2020,Motorway,585.2,49.1,28.7,16.4,5.8,0.704,52627000,2020-09-28
+RC-0388,LA070,Bolton Metropolitan Borough Council,North West ,2021,Motorway,189.2,46.1,16.2,23.3,14.4,0.616,62899000,2021-10-19
+RC-0389,LA070,Bolton Metropolitan Borough Council,North West,2023,Motorway,438.8,28.1,36,6.4,29.5,0.513,3444000,20 October 2023
+RC-0390,LA070,Bolton Metropolitan Borough Council,North West,2019,Motorway,482.7,30.6,37.8,5.3,26.3,0.546,2597000,28/05/2019
+RC-0391,LA008,Kettering Borough Council,EAST MIDLANDS,2023,A Road,96.7,35.6,31.4,11,22,0.572,36417000,15/05/2023
